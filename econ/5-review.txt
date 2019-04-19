@@ -1,0 +1,268 @@
+5) Which one of the following people would be counted as unemployed in Canada? 
+A) a part-time worker who repeatedly expresses a desire to become a full-time worker
+B) a person who has been seeking a job for the last six months, but recently gave up looking because he was discouraged by his job prospects
+C) a person who will be starting a new job in 6 months
+D) a person who expects to be laid off by the end of the month before next month's survey can be completed
+E) a person who has been laid off for 10 weeks and is not looking for a job because he is waiting to be called back to his old job
+
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+
+Answer:  E
+----------------------------------
+16) In a country with a working-age population of 22 million, 16 million are employed, 2 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The involuntary part-time rate is
+A) 6.3 percent.
+B) 12.5 percent.
+C) 2.8 percent.
+D) 5 percent.
+E) none of the above.
+
+Diff: 3    Type: MC
+Topic:  Employment and Unemployment
+
+
+Answer:  C
+----------------------------------
+22) Which of the following reflects an increase in unemployment? 
+A) an increase in the employment-to-population ratio
+B) a decrease in the unemployment rate
+C) an increase in the labour force participation rate
+D) an increase in the involuntary part-time rate
+E) none of the above
+
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+ 
+
+Answer:  E
+----------------------------------
+27) Complete the following sentence. In an expansion, typically
+A) unemployment increases.
+B) the labour force participation rate increases.
+C) the employment-to-population ratio decreases.
+D) employment decreases.
+E) both B and D are correct.
+
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+Answer:  B
+----------------------------------
+6) Which one of the following people is frictionally unemployed? A steel worker who 
+A) loses her job because of technological change. 
+B) is laid off but expects to be called back soon. 
+C) gives up her job because she retires. 
+D) decides to leave the labour force and become a full-time ballet student. 
+E) becomes discouraged and stops looking for a job. 
+
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+
+Answer:  B
+----------------------------------
+20) Jesse just graduated from university, and is looking for her first job. Jesse is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not unemployed.
+D) cyclically unemployed.
+E) not in the labour force.
+
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+
+Answer:  A
+----------------------------------
+25) People become unemployed when they
+A) retire.
+B) are on maternity leave.
+C) quit working to go to university.
+D) leave university and start seeking work.
+E) all of the above.
+
+Diff: 1    Type: MC
+Topic:  Unemployment and Full Employment
+
+ 
+
+Answer:  D
+----------------------------------
+34) When the unemployment rate is less than the natural unemployment rate, real GDP is ________ than potential GDP and the output gap is ________.
+A) greater; positive
+B) smaller; positive
+C) greater; negative
+D) smaller; negative
+E) greater; equal to zero
+
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+
+Answer:  A
+----------------------------------
+37) The official unemployment rate might underestimate the underutilization of labour resources for all of the following reasons except ________.
+A) it excludes part-time workers who want full-time jobs
+B) it excludes discouraged workers
+C) it excludes marginally attached workers
+D) it excludes people who are waiting to be called back to jobs from which they have been laid off
+E) the official unemployment rate excludes all of the above
+
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+
+Answer:  D
+----------------------------------
+17) The Consumer Price Index measures inflation by using
+A) all goods and services that are produced using a current-year basket.
+B) all goods and services that are produced using a base-year basket.
+C) only consumption goods and services purchased using a current-year basket.
+D) only consumption goods and services purchased using a base-year basket.
+E) A and D.
+
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+
+Answer:  D
+----------------------------------
+18) The technique used to calculate the CPI implicitly assumes that consumers buy 
+A) relatively more of goods with relative prices that are increasing. 
+B) relatively less of goods with relative prices that are decreasing. 
+C) the same relative quantities of goods as in a base year. 
+D) goods and services whose quality improves at the rate of growth of real GDP. 
+E) more computers and CD players and fewer black-and-white TVs. 
+
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+Source:  Study Guide
+
+
+Answer:  C
+----------------------------------
+19) If there is a 5 percent increase in the CPI, then there will most likely be 
+A) a 5 percent rise in the cost of living. 
+B) a less than 5 percent rise in the cost of living because of consumers substituting away from goods whose relative prices rise towards other goods. 
+C) a more than 5 percent rise in the cost of living because of consumers substituting away from goods whose relative prices rise towards other goods. 
+D) a less than 5 percent rise in the cost of living because of falling quality of goods over time. 
+E) a more than 5 percent rise in the cost of living because of the introduction of new goods. 
+
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+ 
+
+Answer:  B
+----------------------------------
+21) If prices at Wendy's rise, more consumers buy their meals at McDonald's and fewer consumers buy their meals at Wendy's. This is an example of 
+A) consumers' action to boycott Wendy's. 
+B) outlet substitution. 
+C) commodity substitution. 
+D) both A and B. 
+E) both B and C. 
+
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+
+Answer:  B
+----------------------------------
+22) Suppose a trade union and a firm agree to increase the wage rate by the same percentage as the increase in the Consumer Price Index. If the CPI increases by 5 percent, then the real income of workers will 
+A) increase by 5 percent as well. 
+B) remain unchanged, accounting for bias in the calculation of the CPI.
+C) decrease by 5 percent, accounting for bias in the calculation of the CPI.
+D) increase by more than 5 percent, accounting for bias in the calculation of the CPI.
+E) increase by less than 5 percent, accounting for bias in the calculation of the CPI. 
+
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+ 
+Use the table below to answer the following question.
+
+Table 21.3.2
+Data From Southton
+
+	Price
+(dollars)	Price
+(dollars)	Quantity
+(number)	Quantity
+(number)
+Item	Base	Current	Base	Current
+Rubber Ducks
+Beach Towels	1.00
+9.00	1.25
+6.00	100
+12	100
+14
+
+
+Answer:  D
+----------------------------------
+31) The price indexes that are alternatives to the CPI are ________.
+A) the GDP deflator and the chained price index for consumption
+B) the chained price index for consumption and the CPI deflator
+C) the core GDP deflator and the CPI deflator
+D) the GDP deflator and the CPI deflator
+E) the unbiased CPI and the unbiased GDP deflator
+
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+ 
+
+Answer:  A
+----------------------------------
+32) The CPIC ________.
+A) does not overcome the source of bias in the CPI
+B) overcomes the sources of bias in the CPI by eliminating measures of the goods and services with the most volatile prices
+C) overcomes the sources of bias in the CPI by incorporating substitutions and using current and previous period quantities
+D) overcomes the sources of bias in the CPI by giving extra weight to the measures of the goods and services with the most volatile prices
+E) overcomes the sources of bias in the CPI by always using discount store prices
+
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+Refer to the table below to answer the following question.
+
+Table 21.3.3
+
+Region	2006	2007	2008
+United State
+Euro area
+Japan	117.1
+113.6
+98.1	120.4
+117.1
+98.1	124.0
+119.6
+98.8
+
+
+Answer:  C
+----------------------------------
+34) Between 1972 and 2012, Canada's inflation rate as measured by the CPI ________.
+A) rises in some years and falls in some years
+B) consistently rises every year
+C) consistently falls every year
+D) was always between 1 and 3 percent a year
+E) was always positive
+
+Type: MC
+
+
+Answer:  A
+----------------------------------

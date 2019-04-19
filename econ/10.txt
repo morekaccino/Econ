@@ -1,0 +1,1347 @@
+Chapter 26   Aggregate Supply and Aggregate Demand
+
+26.1   Aggregate Supply
+
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 26.1.1
+
+1) Refer to Figure 26.1.1. Which graph illustrates what happens when factor prices decrease? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (b)
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+Source:  Study Guide
+ 
+2) Refer to Figure 26.1.1. Which graph illustrates what happens when factor prices rise? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (b)
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+3) Which one of the following newspaper quotations describes a movement along an LAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the labour force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Aggregate Supply
+
+4) Which one of the following newspaper quotations describes a shift of only the SAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the work force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+5) Which one of the following newspaper quotations describes a rightward shift of the LAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the work force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+ 
+6) Which one of the following newspaper quotations describes a leftward shift of the LAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the work force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+7) Which of the following does not change short-run aggregate supply?
+A) a change in the money wage rate
+B) technological change
+C) a change in the full-employment quantity of labour
+D) an increase in the quantity of capital
+E) a change in expected future profits
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+8) Complete the following sentence. Potential GDP
+A) increases as the price level rises.
+B) is the level of real GDP when unemployment is zero. 
+C) increases as the quantity of money in the economy increases.
+D) does not vary with the price level. 
+E) never changes. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+9) A vertical long-run aggregate supply curve indicates that 
+A) an increase in the price level will not expand an economy's output in the long run. 
+B) output rates greater than the long-run output rate are unattainable.
+C) an increase in the price level will permit the economy to achieve a higher level of output. 
+D) an increase in the price level will increase technological change and economic growth. 
+E) the long-run aggregate supply curve never shifts.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+ 
+10) The long-run aggregate supply curve is vertical because 
+A) potential GDP is independent of the price level. 
+B) actual output can never exceed, even temporarily, the output rate implied by the economy's long-run aggregate supply curve. 
+C) a vertical long-run aggregate supply curve indicates the maximum output rate that an economy can ever reach. 
+D) a vertical long-run supply curve indicates that an increase in aggregate demand will lead to a larger real GDP, but not a larger nominal GDP. 
+E) potential GDP never changes. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+11) The short-run aggregate supply curve indicates 
+A) the relationship between the price level and real GDP demanded by consumers, investors, governments, and net exporters. 
+B) the relationship between the price level and the natural unemployment rate. 
+C) the relationship between the purchasing power of wages and the quantity of labour supplied by households. 
+D) the relationship between the quantity of real GDP supplied and the price level when the money wage rate, the prices of other resources, and potential GDP remain constant.
+E) the various quantities of real GDP producers supply at different income levels. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Aggregate Supply
+
+12) The long-run aggregate supply curve is 
+A) vertical. 
+B) negatively sloped. 
+C) positively sloped but extremely steep. 
+D) almost flat. 
+E) positively sloped at low levels of real GDP and vertical at high levels of real GDP.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Aggregate Supply
+
+13) The short-run aggregate supply curve is the relationship between the quantity of real GDP supplied and 
+A) the quantity of real GDP demanded.
+B) real income. 
+C) the inflation rate.
+D) the real interest rate.
+E) the price level.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Aggregate Supply
+ 
+14) Everything else remaining the same, the short-run aggregate supply curve shifts rightward if 
+A) the money wage rate increases.
+B) aggregate demand increases. 
+C) the full-employment quantity of labour increases.
+D) factor prices increase.
+E) the quantity of capital decreases.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+15) Which one, if any, of the following events shift the short-run aggregate supply curve but not the long-run aggregate supply curve? 
+A) A change in factor prices.
+B) A change in the quantity of capital.
+C) An advance in technology.
+D) An increase in the full-employment quantity of labour.
+E) None of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+16) Suppose there is an increase in the quantity of capital. As a result, the SAS
+A) and the LAS curves both shift leftward.
+B) and the LAS curves both shift rightward.
+C) curve does not shift but the LAS curve shifts rightward. 
+D) curve does not shift but the LAS curve shifts leftward.
+E) shifts rightward, but the LAS curve does not shift.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+17) Potential GDP is the level of real GDP at which 
+A) aggregate demand equals short-run aggregate supply. 
+B) there is full employment. 
+C) there is a recessionary gap. 
+D) there is over-full employment. 
+E) prices are sure to rise. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Aggregate Supply
+Source:  Study Guide
+
+ 
+18) A technological advance shifts
+A) both SAS and AD rightward. 
+B) both SAS and LAS leftward. 
+C) SAS rightward but leaves LAS unchanged. 
+D) LAS rightward but leaves SAS unchanged. 
+E) both SAS and LAS rightward. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+Source:  Study Guide
+19) An increase in oil prices to a country that is a net importer of oil shifts
+A) both the short-run aggregate supply and long-run aggregate supply curves rightward.
+B) both the short-run aggregate supply and long-run aggregate supply curves leftward.
+C) the short-run aggregate supply curve leftward, but leaves the long-run aggregate supply curve unchanged. 
+D) the long-run aggregate supply curve rightward, but leaves the short-run aggregate supply curve unchanged. 
+E) the short-run aggregate supply curve leftward, but shifts the long-run aggregate supply curve rightward.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+20) If the money wage rate falls, then
+A) the AD curve shifts rightward. 
+B) firms hire less labour. 
+C) the LAS curve shifts rightward. 
+D) the SAS curve shifts rightward. 
+E) C and D. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+21) Long-run aggregate supply will increase for all of the following reasons except
+A) a fall in the money wage rate. 
+B) an increase in human capital. 
+C) the introduction of new technology. 
+D) an increase in the full-employment quantity of labour.
+E) an increase in the quantity of capital.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+Source:  Study Guide
+
+ 
+22) An increase in the money wage rate shifts
+A) both SAS and LAS rightward. 
+B) both SAS and LAS leftward. 
+C) SAS leftward, but leaves LAS unchanged. 
+D) LAS rightward, but leaves SAS unchanged. 
+E) SAS rightward, but leaves LAS unchanged. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+Source:  Study Guide
+ 
+26.2   Aggregate Demand
+
+1) Aggregate demand 
+A) measures the amount of a nation's goods and services that people are willing to buy.
+B) measures the amount of a nation's labour, capital, and technology that people are willing to buy. 
+C) is the relationship between the quantity of real GDP  demanded and the price level.
+D) increases when the price level falls.
+E) both C and D are correct.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+
+2) Which of the following situations illustrates how fiscal policy can influence aggregate demand?
+A) The Bank of Canada raises interest rates so people plan to buy less consumer durables.  As a result, the aggregate demand curve shifts leftward.
+B) Investors, anticipating an erosion of financial wealth due to inflation, decide to save more.  As a result, aggregate demand decreases.
+C) The government reduces the goods and services tax.  As a result, consumption expenditure increases and aggregate demand increases.
+D) The exchange rate value of the Canadian dollar rises.  As a result, people living near the U.S.-Canada border increase their imports of goods and net exports decrease.
+E) Both A and C are examples of fiscal policy.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+3) Which of the following situations illustrates how monetary policy can influence aggregate demand?
+A) The Bank of Canada raises interest rates so people plan to buy less consumer durables.  As a result, the aggregate demand curve shifts leftward.
+B) Investors, anticipating an erosion of financial wealth due to inflation, decide to save more.  As a result, aggregate demand decreases.
+C) The government reduces the goods and services tax.  As a result, consumption expenditure increases and aggregate demand increases.
+D) The exchange rate value of the Canadian dollar rises.  As a result, people living near the U.S.-Canada border increase their imports of goods and net exports decrease.
+E) Both A and D are examples of monetary policy.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+4) Disposable income is aggregate income
+A) minus taxes and benefits.
+B) minus taxes plus transfer payments.
+C) minus fixed expenses such as rent and utilities.
+D) plus transfer payments.
+E) minus taxes.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+5) The quantity of real GDP demanded is composed of the purchases of 
+A) households and net exporters only. 
+B) firms, bondholders, and net exporters only. 
+C) firms and governments only. 
+D) consumers, firms, governments, and net exporters. 
+E) consumers, firms, and governments only. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+6) The quantity of real GDP demanded does not depend on decisions made by 
+A) foreigners. 
+B) households. 
+C) suppliers. 
+D) governments. 
+E) firms. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+
+7) The quantity of real GDP demanded is the sum of real consumption expenditure (C), investment (I), 
+A) government expenditure (G), exports (X), and imports (M). 
+B) government expenditure (G), and exports (X) minus imports (M). 
+C) exports (X), and imports (M). 
+D) and exports (X) minus imports (M). 
+E) and government expenditure (G). 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+8) The aggregate demand curve is a relationship between 
+A) real aggregate expenditure and real GDP. 
+B) real income and real GDP. 
+C) real prices and real GDP. 
+D) the price level and the quantity of real GDP demanded. 
+E) the price level and nominal GDP. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+
+9) Which one of the following variables is not held constant along a given aggregate demand curve? 
+A) fiscal policy
+B) real income
+C) tax rates
+D) expectations about inflation
+E) the price level
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+10) Which one of the following variables can change without creating a shift of the aggregate demand curve? 
+A) the interest rate
+B) price level
+C) the tax rate
+D) expectations about inflation
+E) monetary policy
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+11) Your total wealth is $1,000, which you are holding in your savings account. If the price level rises by 10 percent, your wealth
+A) increases by an unknown amount.
+B) is unchanged. 
+C) decreases to $990.
+D) is worth 10 percent less than before the price level change. 
+E) increases to $1,100. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+12) If the price level rises, then the wealth effect leads to 
+A) an increase in real wealth, an increase in current consumption expenditure, and an increase in saving. 
+B) an increase in real wealth, an increase in current consumption expenditure, and a decrease in saving. 
+C) a decrease in real wealth, an increase in current consumption expenditure, and an increase in saving. 
+D) a decrease in real wealth, an increase in current consumption expenditure, and a decrease in saving. 
+E) a decrease in real wealth, a decrease in current consumption expenditure, and an increase in saving. 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Aggregate Demand
+
+13) Which one of the following factors will not shift the aggregate demand curve? 
+A) an increase in the interest rate
+B) an increase in the expected inflation rate
+C) an increase in the price level
+D) an increase in expected future profits
+E) an increase in the quantity of money
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+14) If a change in wealth is induced by a change in the price level, then this would be shown as a 
+A) movement along the aggregate demand curve. 
+B) shift of the aggregate demand curve due to the substitution effects. 
+C) movement along the aggregate demand curve due to the substitution effects. 
+D) movement along the aggregate supply curve. 
+E) shift of the aggregate demand curve due to the wealth effect. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+15) Everything else remaining the same, an increase in the quantity of money
+A) shifts the aggregate demand curve rightward.
+B) shifts the aggregate demand curve leftward.
+C) shifts the aggregate supply curve leftward.
+D) shifts the aggregate supply curve rightward.
+E) creates a movement down along the aggregate demand curve. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+16) Everything else remaining the same, which one of the following increases aggregate demand? 
+A) an increase in taxes
+B) an increase in transfer payments
+C) a decrease in government spending
+D) a decrease in the price level
+E) a decrease in the quantity of money
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+17) Everything else remaining the same, an increase in the interest rate increases saving and 
+A) increases aggregate demand through the international substitution effect. 
+B) decreases aggregate demand through the international substitution effect. 
+C) increases aggregate demand through the intertemporal substitution effect. 
+D) decreases aggregate demand through the intertemporal substitution effect. 
+E) increases aggregate demand through the wealth effect. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Aggregate Demand
+
+18) Everything else remaining the same, an increase in foreign income
+A) increases Canada's aggregate supply.
+B) increases Canada's aggregate demand.
+C) decreases Canada's aggregate demand.
+D) creates a movement downward along Canada's aggregate demand curve. 
+E) decreases Canada's aggregate supply.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+ 
+19) Which one of the following is a reason for the negative slope of the aggregate demand curve? 
+A) the real wage effect
+B) the substitution effects
+C) the expected inflation effect
+D) the nominal balance effect
+E) the income effect
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+20) Which one of the following shifts the aggregate demand curve leftward?
+A) a decrease in the interest rate
+B) an increase in expected inflation
+C) an increase in taxes
+D) an increase in the price level
+E) an increase in the money wage rate
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 26.2.1
+
+21) Refer to Figure 26.2.1. Which graph illustrates what happens when government expenditure increases? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) None of the above
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+Source:  Study Guide
+
+ 
+22) Refer to Figure 26.2.1. Which graph illustrates what happens when the quantity of money decreases? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) None of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+Source:  Study Guide
+
+23) Refer to Figure 26.2.1. Which graph illustrates what happens when expected future income increases? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) None of the above. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+Source:  Study Guide
+
+24) Refer to Figure 26.2.1. Which graph illustrates what happens when government expenditure decreases? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (b)
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+25) Refer to Figure 26.2.1. Which graph illustrates what happens when the quantity of money increases? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (b)
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+26) Which of the following does not change aggregate demand?
+A) an increase in expected future income
+B) a change in fiscal policy
+C) a change in monetary policy
+D) an advance in technology
+E) a rise in the exchange rate
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+27) Everything else remaining the same, an increase in the expected inflation rate
+A) shifts the aggregate demand curve rightward.
+B) shifts the aggregate demand curve leftward.
+C) shifts the short-run aggregate supply curve leftward.
+D) shifts the long-run aggregate supply curve rightward.
+E) creates a movement up along the aggregate demand curve. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+26.3   Explaining Macroeconomic Trends and Fluctuations
+
+1) Which one of the following newspaper quotations describes a movement along an SAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the labour force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+2) Full-employment equilibrium occurs when
+A) aggregate demand equals short-run aggregate supply.
+B) all who are willing and able to work, are working.
+C) real GDP equals potential GDP.
+D) real GDP equals potential GDP and the wage level is set so that the GDP deflator equals 100.
+E) all who are willing and able to work, are working and the wage level is set so that the GDP deflator equals 100.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+3) A recessionary gap is the amount by which
+A) potential GDP exceeds real GDP.
+B) demand will increase to achieve full employment at a given price level.
+C) the supply curve must increase to achieve full employment at a given price level.
+D) the price level must adjust to achieve full employment.
+E) real GDP exceeds potential GDP.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+4) An inflationary gap is the amount by which
+A) potential GDP exceeds real GDP.
+B) demand must increase to achieve full employment at a given price level.
+C) supply must increase to achieve full employment at a given price level.
+D) the price level must adjust to achieve full employment.
+E) real GDP exceeds potential GDP.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+5) When the actual unemployment rate is equal to the natural unemployment rate, then the 
+A) inflation rate must be zero. 
+B) long-run aggregate supply curve is upward sloping. 
+C) short-run aggregate supply curve is vertical. 
+D) economy is operating at potential GDP.
+E) the money wage rate will rise. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+6) When an economy is operating on its long-run aggregate supply curve, 
+A) the actual inflation rate is greater than the anticipated inflation rate. 
+B) the actual unemployment rate equals the natural unemployment rate. 
+C) unemployment will fall to an unusually low rate that is not likely to last into the future. 
+D) real GDP demanded exceeds real GDP supplied. 
+E) inflation must be positive. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Use the figure below to answer the following questions.
+
+ 
+Figure 26.3.1
+
+7) Refer to Figure 26.3.1. Short-run macroeconomic equilibrium real GDP in Econoworld is 
+A) $360 billion. 
+B) $400 billion. 
+C) $440 billion. 
+D) $480 billion. 
+E) $520 billion. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+8) Refer to Figure 26.3.1. When the economy of Econoworld is in short-run macroeconomic equilibrium, the price level is 
+A) 100. 
+B) 90. 
+C) 75. 
+D) 70. 
+E) 85. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+9) Refer to Figure 26.3.1. Econoworld is at its short-run macroeconomic equilibrium. There is a difference between ________ real GDP and potential GDP of $________ billion.
+A) above full-employment equilibrium; 40 
+B) above full-employment equilibrium; 20 
+C) below full-employment equilibrium; 40 
+D) below full-employment equilibrium; 20 
+E) full-employment equilibrium; 0 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+10) Refer to Figure 26.3.1. As Econoworld automatically adjusts to long-run equilibrium, the 
+A) SAS curve shifts rightward. 
+B) AD curve shifts rightward. 
+C) SAS curve shifts leftward. 
+D) AD curve shifts leftward. 
+E) LAS curve shifts leftward. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+11) Refer to Figure 26.3.1. If Econoworld automatically adjusts to a long-run equilibrium, then in the long-run macroeconomic equilibrium 
+A) the price level is 70. 
+B) real GDP is $440 billion. 
+C) actual unemployment exceeds the natural unemployment rate. 
+D) potential GDP is greater than in the short run.
+E) both A and B. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+12) Refer to Figure 26.3.1. Consider statements (1) and (2) and select the correct answer. 
+(1)	The economy of Econoworld is experiencing an above full-employment equilibrium.
+(2)	SAS will automatically shift rightward as the economy adjusts to long-run equilibrium. 
+A) (1) is true; (2) is false.
+B) (2) is true; (1) is false. 
+C) (1) and (2) are false. 
+D) (1) and (2) are true. 
+E) (1) is true; (2) is true if unemployment is below the natural rate. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+13) Refer to Figure 26.3.1. Consider statements (1) and (2) and select the correct answer. 
+(1)	The actual unemployment rate exceeds the natural unemployment rate.
+(2)	Short-run aggregate supply will automatically shift leftward as the economy adjusts to long-run equilibrium. 
+A) (1) is true; (2) is false. 
+B) (2) is true; (1) is false. 
+C) (1) and (2) are false. 
+D) (1) and (2) are true. 
+E) (1) is true; (2) is true if the money wage rate falls.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+14) Refer to Figure 26.3.1. Consider statements (1) and (2) and select the correct answer. 
+(1)	The economy of Econoworld is experiencing a below full-employment equilibrium.
+(2)	The actual unemployment rate equals the natural unemployment rate.
+A) (1) is true; (2) is false. 
+B) (2) is true; (1) is false. 
+C) (1) and (2) are false. 
+D) (1) and (2) are true. 
+E) (1) is true; (2) is true if the natural unemployment rate is too high. 
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+Use the figure below to answer the following questions.
+
+ 
+Figure 26.3.2
+
+15) Refer to Figure 26.3.2. Short-run macroeconomic equilibrium real GDP in Mythlo is ________ billion. 
+A) $500 
+B) $650 
+C) $550 
+D) $600 
+E) $475 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+16) Refer to Figure 26.3.2. When the economy of Mythlo is in short-run macroeconomic equilibrium, the price level is 
+A) 65. 
+B) 95. 
+C) 70. 
+D) 75. 
+E) 80. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+17) Refer to Figure 26.3.2. In Mythlo there is a difference between the ________ equilibrium real GDP and potential GDP of ________ billion.
+A) above full-employment; $50 
+B) above full-employment; $25 
+C) below full-employment; $50 
+D) below full-employment; $25 
+E) full employment; 0 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+18) Refer to Figure 26.3.2. As the economy of Mythlo automatically adjusts to long-run equilibrium, the
+A) SAS curve shifts rightward. 
+B) AD curve shifts rightward. 
+C) SAS curve shifts leftward. 
+D) AD curve shifts leftward. 
+E) LAS curve shifts rightward. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+19) Refer to Figure 26.3.2. Currently in Mythlo 
+A) there is a below full-employment equilibrium. 
+B) the actual unemployment rate is less than the natural unemployment rate. 
+C) potential GDP is greater than equilibrium GDP. 
+D) the actual unemployment rate is equal to the natural unemployment rate. 
+E) there is a recessionary gap. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+20) Refer to Figure 26.3.2. If the economy of Mythlo automatically adjusts to long-run equilibrium, then 
+A) the price level rises to 90.
+B) real GDP is $600 billion. 
+C) the actual unemployment rate exceeds the natural unemployment rate.
+D) potential GDP decreases.
+E) the SAS curve shifts rightward. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+21) Refer to Figure 26.3.2. Consider statements (1) and (2) and select the correct answer. 
+(1)	The economy of Mythlo is experiencing an above full-employment equilibrium.
+(2)	SAS will automatically shift rightward as the economy adjusts to long-run equilibrium. 
+A) (1) is true; (2) is false. 
+B) (2) is true; (1) is false. 
+C) (1) and (2) are false. 
+D) (1) and (2) are true. 
+E) (1) is true; (2) is true only if the LAS curve shifts rightward at the same time.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+22) Refer to Figure 26.3.2. Consider statements (1) and (2) and select the correct answer. 
+(1)	The actual unemployment rate exceeds the natural unemployment rate in the short run. 
+(2)	SAS automatically shifts rightward as the economy adjusts to long-run equilibrium. 
+A) (1) is true; (2) is false. 
+B) (2) is true; (1) is false. 
+C) (1) and (2) are false. 
+D) (1) and (2) are true. 
+E) (1) is false; (2) is true if the LAS curve shifts rightward at the same time.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+23) Short-run macroeconomic equilibrium always occurs when the 
+A) economy is at full employment. 
+B) economy is below full employment. 
+C) economy is above full employment. 
+D) quantity of real GDP demanded equals the quantity of real GDP supplied. 
+E) AD curve intersects the LAS curve. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+ 
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 26.3.3
+
+24) Refer to Figure 26.3.3. Which one of the graphs illustrates a below full-employment equilibrium? 
+A) (a) only
+B) (b) only
+C) (c) only
+D) (d) only
+E) both (c) and (d) 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+ 
+25) Refer to Figure 26.3.3. Which of the graphs illustrates an above full-employment equilibrium? 
+A) (a) only
+B) (b) only
+C) (c) only
+D) (d) only
+E) both (c) and (d)
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+26) Refer to Figure 26.3.3. In which of the graphs would we predict that eventually the price level will rise and real GDP will fall, all else remaining the same? 
+A) (a) only
+B) (d) only
+C) (b) only
+D) (c) and (d)
+E) (c) only
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+27) Refer to Figure 26.3.3. In which of the graphs would we predict that eventually the price level will fall and real GDP will decrease, all else remaining the same?
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) none of the graphs
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+28) Refer to Figure 26.3.3. Which one of the graphs illustrates a full-employment equilibrium? 
+A) (a) only
+B) (b) only
+C) (c) only
+D) (d) only
+E) (c) and (d)
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+ 
+29) Refer to Figure 26.3.3. In which of the graphs would we predict that eventually the price level will fall and real GDP will increase, all else remaining the same?
+A) (a) only
+B) (b) only
+C) (c) only
+D) (d) only
+E) (c) and (d)
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+30) Refer to Figure 26.3.3(a). You might expect the government to 
+A) do nothing except maintain the current equilibrium. 
+B) cut government expenditure. 
+C) increase government expenditure. 
+D) pursue trade policies that reduce exports. 
+E) raise taxes. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+31) Refer to Figure 26.3.3(b). You might expect the government to 
+A) do nothing except maintain the current equilibrium. 
+B) cut government expenditure. 
+C) increase government expenditure. 
+D) pursue trade policies that reduce exports. 
+E) raise taxes. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+32) If real GDP is greater than potential GDP, the economy is 
+A) not in short-run equilibrium. 
+B) in a recessionary equilibrium. 
+C) in an above full-employment equilibrium. 
+D) in a below full-employment equilibrium. 
+E) in long-run equilibrium. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+ 
+33) If factor prices remain constant , an increase in aggregate demand
+A) increases the price level and increases real GDP. 
+B) increases the price level and decreases real GDP. 
+C) decreases the price level and increases real GDP. 
+D) decreases the price level and decreases real GDP. 
+E) increases the price level, and leaves real GDP unchanged.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+34) Beginning at a long-run equilibrium, an increase in aggregate demand
+A) increases the price level and in the long run increases real GDP. 
+B) increases the price level and in the long run decreases real GDP. 
+C) decreases the price level and in the long run increases real GDP. 
+D) decreases the price level and in the long run decreases real GDP. 
+E) increases the price level, but in the long run there is no change in real GDP.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+35) We observe an increase in the price level and a decrease in real GDP. Which of the following is a possible explanation? 
+A) an increase in expected future profits
+B) an increase in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in the quantity of money
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+36) We observe an increase in the price level and an increase in real GDP. Which of the following is a possible explanation? 
+A) a decrease in the quantity of money
+B) a decrease in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in expected future profits
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+37) We observe a decrease in the price level and a decrease in real GDP. Which of the following is a possible explanation? 
+A) a decrease in the quantity of money
+B) an increase in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in expected future profits
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+38) We observe a decrease in the price level and an increase in real GDP. Which of the following is a possible explanation? 
+A) a decrease in the quantity of money
+B) a decrease in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in expected future profits
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+39) The economy cannot remain indefinitely with real GDP greater than potential GDP because the money wage rate will
+A) decrease, shifting the LAS curve rightward. 
+B) decrease, shifting the SAS curve rightward. 
+C) increase, shifting the LAS curve leftward. 
+D) increase, shifting the SAS curve leftward. 
+E) increase, shifting the SAS curve rightward. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+40) If real GDP is less than potential GDP, then the economy is 
+A) not in short-run equilibrium. 
+B) in a full-employment equilibrium. 
+C) in an above full-employment equilibrium. 
+D) in a below full-employment equilibrium. 
+E) in long-run equilibrium. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+ 
+Use the table below to answer the following questions.
+
+Table 26.3.1
+
+ 
+
+41) Refer to Table 26.3.1. Consider the economy represented in the table. In short-run macroeconomic equilibrium, the price level is ________ and the level of real GDP is ________ billion.
+A) 120; $600 
+B) 120; $500 
+C) 125; $550
+D) 130; $600 
+E) 130; $500 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+42) Refer to Table 26.3.1. Consider the economy represented in the table. The economy is in
+A) a long-run equilibrium, and resource prices will not change. 
+B) an above full-employment equilibrium, and factor prices will increase. 
+C) an above full-employment equilibrium, and factor prices will decrease. 
+D) a below full-employment equilibrium, and factor prices will decrease. 
+E) a below full-employment equilibrium, and factor prices will increase. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+43) Refer to Table 26.3.1. Consider the economy represented in the table. There is 
+A) an inflationary gap equal to $100 billion.
+B) an inflationary gap equal to $50 billion. 
+C) a recessionary gap equal to $50 billion. 
+D) a recessionary gap equal to $100 billion. 
+E) neither an inflationary nor a recessionary gap because the economy is at full employment.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+ 
+44) Refer to Table 26.3.1. Consider the economy represented in the table. The economy eventually moves to its long-run equilibrium. In long-run equilibrium, the price level is ________ and real GDP is ________ billion.
+A) 125; $550 
+B) 120; $600 
+C) 120; $500 
+D) 130; $600 
+E) 130; $500 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+45) Refer to Table 26.3.1. As this economy moves to long-run equilibrium, the
+A) SAS curve shifts leftward.
+B) SAS curve shifts rightward.
+C) AD curve shifts rightward.
+D) AD curve shifts leftward.
+E) LAS curve shifts leftward.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+46) Consider an economy starting from a position of full employment. Which one of the following changes does not occur as a result of a decrease in aggregate demand? 
+A) The price level decreases. 
+B) The level of real GDP decreases in the short run. 
+C) A recessionary gap arises. 
+D) Factor prices decrease in the long run, shifting the short-run aggregate supply curve rightward. 
+E) The long-run aggregate supply curve shifts leftward to create the new long-run equilibrium. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+47) Consider an economy starting from a position of full employment. Which one of the following occurs as a result of an advance in technology?
+A) The price level falls. 
+B) Real GDP decreases in the short run. 
+C) An inflationary gap arises. 
+D) Factor prices rise in the long run, shifting the short-run aggregate supply curve leftward. 
+E) The long-run aggregate supply curve shifts leftward to create the new long-run equilibrium. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+ 
+48) Consider an economy starting from a position of full employment. Which one of the following changes does not occur as a result of an increase in aggregate demand? 
+A) The price level rises. 
+B) Real GDP increases in the short run. 
+C) An inflationary gap arises. 
+D) Factor prices rise in the long run, shifting the short-run aggregate supply curve to the left. 
+E) The long-run aggregate supply curve shifts rightward to create the new long-run equilibrium. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+Use the figure below to answer the following question.
+
+ 
+Figure 26.3.4
+
+49) Refer to Figure 26.3.4. The changes represented
+A) cannot occur because aggregate demand and short-run aggregate supply cannot change at the same time. 
+B) lead to an inflationary gap. 
+C) lead to a recessionary gap. 
+D) cause a proportionate increase in long run aggregate supply. 
+E) increase real GDP. 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+ 
+50) All of the following will raise the price level except
+A) aggregate demand increases and short-run aggregate supply decreases.
+B) aggregate demand increases.
+C) short-run aggregate supply decreases.
+D) an increase in the quantity of capital.
+E) an increase in the quantity of money.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+51) Which of the following will lower the price level for sure?
+A) The AD curve shifts rightward and the SAS curve shifts leftward.
+B) The AD curve shifts rightward and the SAS curve remains unchanged.
+C) The SAS curve shifts leftward.
+D) The LAS curve shifts leftward.
+E) None of the above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+52) If real GDP is greater than potential GDP, we would expect
+A) the money wage rate to fall.
+B) the money wage rate to rise.
+C) potential GDP to increase.
+D) potential GDP to decrease.
+E) A and C.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+53) If real GDP is less than potential GDP, we would expect
+A) the money wage rate to fall.
+B) the money wage rate to rise.
+C) potential GDP to increase.
+D) potential GDP to decrease.
+E) A and C.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+ 
+Use the table below to answer the following question.
+
+Table 26.3.2
+
+	2004	2005	2006
+Real GDP growth  rate	8.1	8.3	7.3
+Inflation	4.2	4.7	4.6
+
+54) Refer to Table 26.3.2. The International Monetary Fund's World Economic Outlook database provides the data given in the table for India in 2004, 2005 and 2006.
+The numbers in the table are consistent with
+A) increases in long-run and short-run aggregate supply and even greater increases in aggregate demand.
+B) increases in short-run aggregate supply and increases in aggregate demand, but the increases in aggregate demand are smaller than the increases in short-run aggregate supply.
+C) increases in long-run and short-run aggregate supply and even larger decreases in aggregate demand.
+D) decreases in long-run and short-run aggregate supply and even greater decreases in aggregate demand.
+E) increases in short-run aggregate supply and no change in aggregate demand.
+Answer:  A
+Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  MyEconLab
+
+55) Economic growth results when there are increases in
+A) aggregate demand.
+B) the real wage rate.
+C) long-run aggregate supply.
+D) the inflationary gap.
+E) short-run aggregate supply resulting from falling money wage rates and falling factor prices.
+Answer:  C
+Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  MyEconLab
+ 
+Use the table below to answer the following questions.
+
+Table 26.3.3
+
+ 
+
+56) Refer to Table 26.3.3. When the economy is at its short-run macroeconomic equilibrium, the price level is
+A) 90.
+B) 110.
+C) 100.
+D) 120.
+E) 130.
+Answer:  D
+Type: MC
+
+57) Refer to Table 26.3.3. When the economy is at its short-run macroeconomic equilibrium,
+A) the unemployment rate is below its natural rate.
+B) the unemployment rate is above its natural rate.
+C) the money wage rate will rise.
+D) the long-run aggregate supply curve will shift eventually shift leftward to return to full employment.
+E) potential GDP will eventually increase.
+Answer:  B
+Type: MC
+
+58) Refer to Table 26.3.3. When the economy is at its short-run macroeconomic equilibrium, the economy
+A) is also in a long-run macroeconomic equilibrium.
+B) has an inflationary gap.
+C) has a recessionary gap.
+D) has neither an inflationary nor a recessionary gap.
+E) Both A and D are correct.
+Answer:  C
+Type: MC
+
+ 
+59) Refer to Table 26.3.3. With no interference from the central bank or the government, the
+A) money wage rate will eventually rise.
+B) money wage rate will eventually fall.
+C) short-run aggregate supply curve will shift leftward.
+D) long-run aggregate supply curve will shift leftward.
+E) aggregate demand curve will shift rightward.
+Answer:  B
+Type: MC
+60) Refer to Table 26.3.3. With no interference from the central bank or the government, the
+A) short-run aggregate supply curve will shift rightward.
+B) short-run aggregate supply curve will shift leftward.
+C) long-run aggregate supply curve will shift rightward.
+D) long-run aggregate supply curve will shift leftward.
+E) Both A and C will occur.
+Answer:  A
+Type: MC
+
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 26.3.5
+
+61) Refer to Figure 26.3.5. At point B the economy has
+A) an inflationary gap with real GDP in excess of potential GDP.
+B) an inflationary gap with real GDP less than potential GDP.
+C) a recessionary gap with real GDP in excess of potential GDP.
+D) a recessionary gap with real GDP less than potential GDP.
+E) neither an inflationary gap nor a recessionary gap.
+Answer:  A
+Type: MC
+
+ 
+62) Refer to Figure 26.3.5. When the economy is at full employment, real GDP is
+A) $13 trillion.
+B) $13.5 trillion.
+C) more than $13 trillion and less than $13.5 trillion.
+D) less than $13 trillion.
+E) 100.
+Answer:  A
+Type: MC
+63) Refer to Figure 26.3.5. If the aggregate demand curve is AD2, real GDP is
+A) $13 trillion.
+B) $13.5 trillion.
+C) more than $13 trillion and less than $13.5 trillion.
+D) less than $13 trillion.
+E) 100
+Answer:  B
+Type: MC
+
+64) Refer to Figure 26.3.5. Potential GDP is
+A) $13 trillion.
+B) $13.5 trillion.
+C) more than $13 trillion and less than $13.5 trillion.
+D) less than $13 trillion.
+E) 100
+Answer:  A
+Type: MC
+
+65) Refer to Figure 26.3.5. The shift of the aggregate demand curve from AD0 to AD1 might have been the result of
+A) an increase in government expenditure.
+B) a decrease in taxes.
+C) an increase in the quantity of money.
+D) a fall in the foreign exchange rate
+E) all of the above.
+Answer:  D
+Type: MC
+
+ 
+26.4   Macroeconomic Schools of Thought
+
+1) Which of the following news quotes best describes a Keynesian view of a recession?
+A) "Rapid computerization is creating obsolete workers and higher unemployment."
+B) "The unexpectedly tight fiscal policy is raising spending and lowering unemployment."
+C) "The anti-inflationary policy of the Bank of Canada is increasing spending."
+D) "The cuts in government spending have helped lower consumer spending and created unemployment."
+E) "Businesses are very worried about future sales and have lowered their purchases of capital equipment."
+Answer:  E
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  Study Guide
+2) Which of the following news quotes best describes a new classical view of a recession?
+A) "Rapid computerization is creating obsolete workers and higher unemployment."
+B) "The unexpectedly tight fiscal policy is raising spending and lowering unemployment."
+C) "The anti-inflationary policy of the Bank of Canada is increasing spending."
+D) "The cuts in government spending have helped lower consumer spending and created unemployment."
+E) "Businesses are very worried about future sales and have lowered their purchases of capital equipment."
+Answer:  A
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  Study Guide
+
+3) A ________ macroeconomist believes that the economy is self-regulating and always at full employment.
+A ________ macroeconomist believes the economy requires active help from fiscal policy and monetary policy to maintain full employment.
+A) Keynesian; new Keynesian
+B) classical; monetarist
+C) classical; Keynesian
+D) new classical; monetarist
+E) monetarist; classical
+Answer:  C
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+ 
+4) A ________ macroeconomist believes that business cycle fluctuations are the efficient responses of a well-functioning market economy that is bombarded by shocks that arise from the uneven pace of technological change.
+A ________ macroeconomist believes that the short-run aggregate supply curve is horizontal at a fixed price level.
+A) new classical; monetarist
+B) classical; monetarist
+C) Keynesian; new Keynesian
+D) new classical; new Keynesian
+E) monetarist; new classical
+Answer:  D
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+5) Which of the following statements about the monetarist view of the macroeconomy is incorrect?
+A) The money wage rate is sticky.
+B) Taxes should be kept low to avoid disincentive effects that decrease potential GDP.
+C) All recessions result from inappropriate monetary policy.
+D) Left alone, the economy rarely operates at full employment.
+E) Provided that the quantity of money is kept on a steady growth path, no active stabilization is needed to offset changes in aggregate demand.
+Answer:  D
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+6) Which of the following statements about the Keynesian view of the macroeconomy is incorrect?
+A) Technological change is the most significant influence on both aggregate demand and aggregate supply.
+B) To achieve and maintain full employment, active help from fiscal policy and monetary policy is required.
+C) Expectations are based on "animal spirits."
+D) The money wage rate is extremely sticky in the downward direction so there is no automatic mechanism for eliminating a recessionary gap.
+E) Expectations are the most significant influence on aggregate demand.
+Answer:  A
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+ 
+7) The defining feature of the classical view of macroeconomics is that the economy is
+A) rarely at full employment.
+B) driven by expectations called "animal spirits."
+C) self-regulating and always at full employment.
+D) constantly bombarded by shocks that arise from the uneven pace of technological change.
+E) the most significant influence on aggregate demand is expectations.
+Answer:  C
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+8) Classical macroeconomists recommend
+A) policies that actively offset changes in long-run aggregate supply that result in negative economic growth.
+B) an increase in the quantity of money to offset decreases in aggregate demand and a decrease in the quantity of money to offset increases in aggregate demand.
+C) policies that actively offset changes in aggregate demand that bring recession.
+D) policies that minimize the disincentive effects of taxes on employment, investment, and technological change.
+E) all of the above.
+Answer:  D
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+9) The defining feature of the Keynesian view of macroeconomics is that the economy is
+A) rarely at full employment.
+B) self-regulating and always at full employment.
+C) that the quantity of money is the most significant influence on aggregate demand.
+D) constantly bombarded by shocks that arise from the uneven pace of technological change.
+E) no active stabilization is needed to offset changes in aggregate demand.
+Answer:  A
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+ 
+10) Keynesian macroeconomists recommend
+A) an increase in the quantity of money to offset decreases in aggregate demand and a decrease in the quantity of money to offset increases in aggregate demand.
+B) policies that actively offset changes in long-run aggregate supply that result in negative economic growth.
+C) policies that minimize the disincentive effects of taxes on employment, investment, and technological change.
+D) policies that actively offset changes in aggregate demand that bring recession.
+E) none of the above.
+Answer:  D
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab

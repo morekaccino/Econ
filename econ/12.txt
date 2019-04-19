@@ -1,0 +1,1171 @@
+Chapter 28   Canadian Inflation, Unemployment, and Business Cycle
+
+28.1   Inflation Cycles
+
+1) Which of the following would cause the aggregate demand curve to keep shifting rightward year after year? 
+A) a one-time tax cut
+B) a one-time increase in government expenditures on goods and services
+C) inflation
+D) excess wage demands
+E) a persistent increase in the quantity of money
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+
+2) At full employment an increase in the quantity of money (ceteris paribus) can create a
+A) demand-pull inflation, as can an increase in government expenditure.
+B) demand-pull inflation, but an increase in government expenditure cannot.
+C) cost-push inflation, as can an increase in government expenditure.
+D) cost-push inflation, but an increase in government expenditure cannot.
+E) demand-pull and a cost-push inflation, as can an increase in government expenditure.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+3) Demand-pull inflation occurs when 
+A) aggregate demand increases. 
+B) aggregate supply decreases. 
+C) input costs rise. 
+D) people incorrectly forecast inflation. 
+E) unemployment is above the natural rate. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+
+4) Inflation resulting from an increase in aggregate demand is called 
+A) cost-push inflation. 
+B) demand-pull inflation. 
+C) anticipated inflation. 
+D) unanticipated inflation. 
+E) political inflation. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+ 
+5) Which one of the following can create a  demand-pull inflation? 
+A) a sharp increase in the price of oil
+B) higher wages negotiated by unions
+C) a cut in the interest rate
+D) a decrease in investment as a result of a decrease in expected future profits
+E) a decrease in government expenditure on goods and services
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+6) Stagflation occurs when the economy experiences both 
+A) rising inflation and increasing real GDP.
+B) falling inflation and decreasing real GDP.
+C) rising inflation and decreasing real GDP.
+D) falling inflation and increasing real GDP.
+E) low exports and low imports.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+
+7) Suppose the economy is in long-run equilibrium when the price of oil rises. Which one of the following is not a short-run effect of this situation? 
+A) an increase in real GDP above long-run real GDP
+B) an increase in the price level
+C) a decrease in real GDP
+D) an increase in unemployment
+E) a decrease in consumer spending
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+8) Suppose OPEC unexpectedly collapses, which leads to a fall in the price of oil.  As a result, the price level
+A) rises, and real GDP increases. 
+B) rises, and real GDP decreases. 
+C) falls, and real GDP increases. 
+D) falls, and real GDP decreases. 
+E) rises, and real GDP remains the same. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+
+ 
+9) An increase in the price level due to an increase in the price of oil
+A) creates stagflation in the short-run and will trigger a cost-push inflation.
+B) creates stagflation in the short-run and may trigger off a cost-push inflation.
+C) increases output above potential GDP.
+D) leads to an increase in the money wage rate.
+E) leads to a decrease in the money wage rate.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+10) Cost-push inflation can result from an initial
+A) decrease in personal income taxes. 
+B) increase in personal income taxes. 
+C) increase in government expenditure.
+D) increase in the money wage rate.
+E) increase in transfer payments. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+
+11) Stagflation can result from
+A) a leftward shift of the demand curve.
+B) a rightward shift of the demand curve.
+C) a leftward shift of the short-run aggregate supply curve.
+D) a rightward shift of the short-run aggregate supply curve.
+E) a rightward shift of the long-run aggregate supply curve.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+
+12) A cost-price inflation spiral results if the policy response to stagflation is to keep 
+A) decreasing aggregate demand. 
+B) decreasing short-run aggregate supply. 
+C) increasing aggregate demand. 
+D) increasing short-run aggregate supply. 
+E) doing nothing. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+ 
+Use the figure below to answer the following question.
+
+ 
+Figure 28.1.1
+
+13) Refer to Figure 28.1.1. The figure illustrates an economy initially in equilibrium at the intersection of the SAS0 curve and the AD0 curve. Which of the following shifts the short-run aggregate supply curve from SAS0 to SAS1? 
+A) an increase in the price of oil
+B) an increase in the price level
+C) an increase in the marginal product of labour
+D) an increase in the demand for money
+E) a decrease in the money wage rate
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+ 
+Use the figure below to answer the following questions.
+
+ 
+Figure 28.1.2
+
+14) Refer to Figure 28.1.2. The economy is in long-run equilibrium. If the short-run aggregate supply curve shifts leftward from SAS0 to SAS1, ceteris paribus, then people expected 
+A) a 10 percent inflation. 
+B) the price level to rise to 110. 
+C) the real wage rate to fall by 10 percent.
+D) a real GDP decrease of $50 billion. 
+E) a 15 percent inflation. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+15) Refer to Figure 28.1.2. The economy is in long-run equilibrium. If the short-run aggregate supply curve shifts leftward from SAS0 to SAS1, ceteris paribus, then the actual inflation rate 
+A) is greater than the expected inflation rate. 
+B) is less than the expected inflation rate. 
+C) is the same as the expected inflation rate. 
+D) cannot be determined without more information. 
+E) depends on what happens to wage settlements. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+
+ 
+16) Refer to Figure 28.1.2. The vertical distance between SAS0 and SAS1 represents the 
+A) actual inflation rate. 
+B) expected increase in real GDP. 
+C) actual decrease in real GDP. 
+D) expected inflation rate. 
+E) expected decrease in the real wage rate. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+17) Refer to Figure 28.1.2. If the short-run aggregate supply curve does not shift, and remains at SAS0, then the expected inflation rate is 
+A) zero. 
+B) 10 percent. 
+C) 15 percent. 
+D) 5 percent. 
+E) -10 percent. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+18) Refer to Figure 28.1.2. If SAS shifts from SAS0 to SAS1, then 
+A) inflation is expected to be 10 percent. 
+B) inflation will be 10 percent. 
+C) a recession will occur. 
+D) unemployment will fall. 
+E) B and C. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+19) Refer to Figure 28.1.2. Consider the market for labour as the short-run aggregate supply curve shifts leftward from SAS0 to SAS1. This shift could have been the result of an agreement between workers and employers for a
+A) 10 percent decrease in the money wage rate. 
+B) 10 percent increase in the money wage rate. 
+C) 15 percent decrease in the money wage rate. 
+D) 15 percent increase in the money wage rate. 
+E) 10 percent increase in the real wage rate. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+ 
+20) Refer to Figure 28.1.2. Complete the following sentence. The figure illustrates 
+A) cost-push inflation. 
+B) demand-pull inflation. 
+C) a cost-push inflation spiral.
+D) a one time rise in the price level. 
+E) A and C are both correct. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Inflation Cycles
+
+21) A forecast based on all the relevant information is
+A) an adaptive expectation. 
+B) a future expectation. 
+C) a rational expectation. 
+D) always a correct expectation. 
+E) a perfect forecast. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+ 
+Use the figure below to answer the following questions.
+
+ 
+Figure 28.1.3
+
+22) Refer to Figure 28.1.3. Assume that the figure illustrates an economy initially in equilibrium at the intersection of the SAS0 curve and the AD0 curve. If the aggregate demand curve is correctly expected to shift to AD1, new equilibrium real GDP is ________ and the new equilibrium price level is ________.
+A) $380 billion; 125
+B) $500 billion; 150
+C) $500 billion; 100
+D) $620 billion; 125
+E) $500 billion; 125
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+
+23) Refer to Figure 28.1.3. Assume that the figure illustrates an economy initially in equilibrium at the intersection of the SAS0 curve and the AD0 curve. If the aggregate demand curve is expected to shift to AD1 but remains at AD0, the new equilibrium real GDP is ________ and the new equilibrium price level is ________.
+A) $380 billion; 100
+B) $500 billion; 150
+C) $500 billion; 100
+D) $620 billion; 125
+E) $380 billion; 125
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+24) Refer to Figure 28.1.3. Assume that the figure illustrates an economy initially in equilibrium at the intersection of the SAS0 curve and the AD0 curve. If the aggregate demand curve is expected to remain at AD0 but shifts to AD1, the new equilibrium real GDP is ________ and the new equilibrium price level is ________.
+A) $380 billion; 125
+B) $500 billion; 150
+C) $500 billion; 100
+D) $620 billion; 125
+E) $500 billion; 125
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+
+Use the figure below to answer the following question.
+
+ 
+Figure 28.1.4
+
+25) Refer to Figure 28.1.4. The figure illustrates an economy initially in equilibrium at point A. If the quantity of money is expected to increase by 50 percent, what is the rational expectation of the price level?
+A) 100
+B) 120
+C) 130
+D) 150
+E) We cannot tell without more information on wage negotiations. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+ 
+26) A correctly anticipated increase in the quantity of money, in an economy with an unchanging long-run aggregate supply, will result in 
+A) a rise in the price level and an increase in real GDP. 
+B) a rise in the price level and a decrease in real GDP. 
+C) a proportional rise in the price level and no change in real GDP. 
+D) no change in the price level and an increase in real GDP. 
+E) no change in the price level and no change in real GDP. 
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+
+27) Suppose the quantity of money is expected to remain unchanged but it actually increases. The price level
+A) rises and real GDP increases. 
+B) rises and real GDP decreases. 
+C) falls and real GDP increases. 
+D) falls and real GDP decreases. 
+E) rises and real GDP stays the same. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+28) An economy is in long-run equilibrium when aggregate supply unexpectedly decreases.  Then real GDP (ceteris paribus) will be
+A) above potential GDP. 
+B) below potential GDP. 
+C) equal to potential GDP. 
+D) either above, below, or equal to potential GDP depending on the position of the aggregate demand curve. 
+E) either above or equal to potential GDP depending on the position of the aggregate demand curve. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+
+29) A correctly anticipated increase in the quantity of money
+A) increases the price level with no change in real GDP. 
+B) does not change the price level or real GDP.
+C) does not change the price level but increases real GDP. 
+D) increases the price level and increases real GDP. 
+E) does not change the price level but decreases real GDP.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+ 
+30) A forecast that is based on all the relevant information available is
+A) usually no better than a random guess given that the future bears many uncertainties.
+B) usually accurate.
+C) called a rational expectation.
+D) useful only in the prediction of cost-push inflation.
+E) useful only in the prediction of demand-pull inflation.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+ 
+Use the figure below to answer the following question.
+
+ 
+
+Figure 28.1.5
+
+31) Refer to Figure 28.1.5. Which one of the graphs in the figure represents an economy experiencing stagflation? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) none of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+ 
+32) Refer to Figure 28.1.5. Which one of the graphs in the figure represents an economy with the price level expected to remain constant? 
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) none of the above
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Inflation Cycles
+
+33) The economy starts out at a full-employment equilibrium. Some events then occur that generate a demand-pull inflation.
+All of the following events except an increase in ________ might cause a demand-pull inflation.
+A) the money wage rate
+B) exports
+C) the quantity of money
+D) government expenditure
+E) transfer payments
+Answer:  A
+Type: MC
+Topic:  Inflation Cycles
+Source:  MyEconLab
+ 
+Use the figure below to answer the following question.
+
+ 
+
+Figure 28.1.6
+
+34) Refer to Figure 28.1.6. Starting at point A, the initial effect of a demand-pull inflation is a move to point ________. As a demand-pull inflation spiral proceeds, it follows the path ________.
+A)  E; I
+B) C; E, H, I
+C) C; B, H, G, I
+D) B; E, G, I
+E) none of the above
+Answer:  B
+Type: MC
+Topic:  Inflation Cycles
+Source:  MyEconLab
+
+35) Refer to Figure 28.1.6. Starting at point A, the initial effect of a cost-push inflation is a move to point ________. As a cost-push inflation spiral proceeds, it follows the path ________.
+A) C; B, H, G, I
+B) C; E, H, I
+C) B; E, G, I
+D) E; I
+E) C; F
+Answer:  C
+Type: MC
+Topic:  Inflation Cycles
+Source:  MyEconLab
+ 
+36) The economy starts out at a full-employment equilibrium. Some events then occur that generate a cost-push inflation.
+Which of the following events might cause a cost-push inflation?
+A) a decrease in exports
+B) an increase in the quantity of money
+C) a decrease in government expenditure
+D) an increase in the money wage rate or an increase in the money prices of raw materials
+E) an increase in taxes
+Answer:  D
+Type: MC
+Topic:  Inflation Cycles
+Source:  MyEconLab
+
+37) Suppose that the money prices of raw materials rise. With no action by the Bank of Canada, 
+I.	the aggregate demand curve shifts rightward and the price level rises. 
+II.	the aggregate demand curve shifts rightward and the aggregate supply curve shifts leftward.
+III.	the initial outcome is lower employment and a rise in the price level. 
+A) I only
+B) II only
+C) III only
+D) I and II only
+E) I, II, and III
+Answer:  C
+Type: MC
+
+38) Stagflation is the result of
+A) a decrease in aggregate demand.
+B) a decrease in short-run aggregate supply.
+C) an increase in aggregate demand.
+D) an increase in short-run aggregate supply.
+E) a decrease in short-run aggregate supply combined with a simultaneous increase in aggregate supply.
+Answer:  B
+Type: MC
+
+39) When the price level is rising and simultaneously real GDP is decreasing
+A) the natural unemployment rate is rising.
+B) the natural unemployment rate is falling.
+C) stagflation is occurring.
+D) the economy is experiencing an expansionary gap.
+E) Both A and C are correct.
+Answer:  C
+Type: MC
+ 
+40) Suppose aggregate demand increases by more than expected. Which of the following describes what occurs?
+A) Real GDP is greater than potential GDP.
+B) The price level rises.
+C) Unemployment falls.
+D) The natural unemployment rate does not change.
+E) All of the above.
+Answer:  E
+Type: MC
+
+ 
+28.2   Inflation and Unemployment: The Phillips Curve
+
+1) Along the short-run Phillips curve, everything remaining the same, the higher the
+A) unemployment rate, the lower the inflation rate. 
+B) price level, the lower the inflation rate. 
+C) money wage rate, the lower is the unemployment rate. 
+D) quantity of money, the lower the unemployment rate. 
+E) growth rate of the quantity of money, the higher the inflation rate. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+2) The short-run Phillips curve shows the relationship between ________ holding constant the expected inflation rate and the natural unemployment rate.
+A) the inflation rate and the economic growth rate
+B) unemployment and the economic growth rate
+C) the inflation rate and the unemployment rate
+D) growth and potential GDP. 
+E) the inflation rate and the growth of the money wage rate. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+3) If the unemployment rate rises and the inflation rate falls, while the natural unemployment rate and the expected inflation rate remain constant, then we are studying a movement along the
+A) aggregate demand curve.
+B) long-run aggregate supply curve. 
+C) Friedman curve. 
+D) short-run Phillips curve. 
+E) Phelps-Friedman curve. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+4) For a given expected inflation rate, the higher the unemployment rate, the lower is the actual inflation rate. This relationship is the ________ Phillips curve. When the expected inflation rate changes, this is shown as a movement along the ________ Phillips curve. 
+A) short-run; short-run 
+B) long-run; long-run 
+C) long-run; natural 
+D) natural; short-run 
+E) short-run; long-run 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+5) If the natural unemployment rate rises
+A) the long-run Phillips curve shifts rightward and the short-run Phillips curve does not change. 
+B) the long-run Phillips curve shifts leftward and the short-run Phillips curve does not change. 
+C) the short-run Phillips curve shifts rightward and the long-run Phillips curve does not change. 
+D) the short-run and long-run Phillips curves both shift leftward. 
+E) the short-run and long-run Phillips curves both shift rightward. 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+6) If the natural unemployment rate falls
+A) the long-run Phillips curve shifts rightward and the short-run Phillips curve does not change. 
+B) the long-run Phillips curve shifts leftward and the short-run Phillips curve does not change. 
+C) the short-run Phillips curve shifts rightward. 
+D) the short-run and long-run Phillips curves both shift leftward. 
+E) the short-run and long-run Phillips curves both shift rightward. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+7) The short-run Phillips curve shows the relationship between 
+A) the price level and real GDP in the short run. 
+B) the price level and unemployment in the short run. 
+C) unemployment and real GDP in the short run. 
+D) inflation and unemployment, when inflation expectations can change. 
+E) inflation and unemployment, when the expected inflation rate and the natural unemployment rate remain constant.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+8) Along the short-run Phillips curve, if the actual unemployment rate falls below the natural unemployment rate, the 
+A) actual inflation rate will be equal to the expected inflation rate. 
+B) actual inflation rate will be greater than the expected inflation rate. 
+C) actual inflation rate will be less than the expected inflation rate. 
+D) actual inflation rate may be greater than, equal to, or less than the expected inflation rate
+E) expected inflation rate will fall to zero. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+9) A movement down along the short-run Phillips curve results from an unanticipated 
+A) decrease in aggregate demand. 
+B) increase in aggregate demand. 
+C) decrease in short-run aggregate supply. 
+D) increase in short-run aggregate supply. 
+E) increase in the natural unemployment rate. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+10) An increase in the expected rate of inflation shifts the 
+A) short-run Phillips curve downward. 
+B) short-run Phillips curve upward. 
+C) long-run Phillips curve rightward.
+D) long-run Phillips curve leftward.
+E) B and C are correct. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Use the table below to answer the following questions.
+
+Table 28.2.1
+
+Inflation
+(percent per year)	Unemployment
+(percent)
+12	4
+11	5
+10	6
+9	7
+8	8
+7	9
+
+11) Refer to Table 28.2.1. The table gives points on the short-run Phillips curve for the country of Ruritania. If the expected inflation rate is 10 percent, what is the natural unemployment rate?
+A) 4 percent
+B) 5 percent
+C) 6 percent
+D) 7 percent
+E) 9 percent
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+12) Refer to Table 28.2.1. The table gives points on the short-run Phillips curve for the country of Ruritania. If the expected inflation rate is 10 percent, and the inflation rate unexpectedly rises to 12 percent, what is the unemployment rate? 
+A) 4 percent
+B) 5 percent
+C) 6 percent
+D) 7 percent
+E) 9 percent
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+13) Refer to Table 28.2.1. The table gives points on the short-run Phillips curve for the country of Ruritania. If the expected inflation rate is 10 percent, and the inflation rate unexpectedly falls to 8 percent, what is the unemployment rate? 
+A) 4 percent
+B) 5 percent
+C) 6 percent
+D) 7 percent
+E) 8 percent
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+14) Refer to Table 28.2.1. The table gives points on the short-run Phillips curve for the country of Ruritania. If the expected inflation rate is 10 percent, and the inflation rate unexpectedly rises to 12 percent and stays there for some period of time, the expected inflation rate becomes ________ percent and the natural unemployment rate is ________ percent.
+A) 12; 4 
+B) 10; 4 
+C) 10; 6 
+D) 12; 6 
+E) 12; 5 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 28.2.2
+
+15) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves. What is the natural unemployment rate?
+A) 9 percent
+B) 6 percent
+C) 4 percent
+D) 7 percent
+E) cannot be determined without more information
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+16) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves. What is the expected inflation rate?
+A) 9 percent
+B) 4 percent
+C) 2 percent
+D) 7 percent
+E) cannot be determined without more information
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+
+ 
+17) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves. If the current inflation rate is 4 percent, what is the current unemployment rate?
+A) 9 percent
+B) 6 percent
+C) 4 percent
+D) 3 percent
+E) cannot be determined without more information
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+
+18) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves. If the current inflation rate is 3 percent, what is the current unemployment rate?
+A) 9 percent
+B) 6 percent
+C) 4 percent
+D) 3 percent
+E) cannot be determined without more information
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+19) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves. If the current inflation rate is 4 percent, what is the natural unemployment rate?
+A) 9 percent
+B) 6 percent
+C) 4 percent
+D) 3 percent
+E) cannot be determined without more information
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+20) Refer to Figure 28.2.2. The figure illustrates an economy's Phillips curves.  If the expected inflation rate changes to 3 percent, the 
+A) short run Phillips curve will shift upward and the long run Phillips curve will not change.
+B) short run Phillips curve will shift downward and the long run Phillips curve will not change.
+C) short run Phillips curve will shift upward and the long run Phillips curve will shift leftward.
+D) short run Phillips curve will shift upward and the long run Phillips curve will shift rightward.
+E) short run Phillips curve will shift downward and the long run Phillips curve will shift rightward.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+21) If the inflation rate is lower than the expected inflation rate,
+A) unemployment is above the natural rate.
+B) the natural unemployment rate will increase.
+C) the expected inflation rate will increase.
+D) unemployment is below the natural rate.
+E) the economy is not operating on the short-run Phillips curve.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+
+22) If there is a fully anticipated increase in the inflation rate
+A) unemployment will be below the natural rate.
+B) unemployment will be above the natural rate.
+C) the natural unemployment rate will increase.
+D) the economy is not operating on the LRPC curve.
+E) the economy is operating on the LRPC curve.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  Study Guide
+
+23) If the natural unemployment rate increases, the long-run Phillips curve ________, the short-run Phillips curve ________, and the expected inflation rate ________.
+A) does not shift; does not shift; does not change
+B) shifts rightward; shifts rightward; does not change
+C) does not shift; shifts rightward; rises
+D) shifts rightward; curve does not shift; falls
+E) shifts rightward; shifts rightward; falls
+Answer:  B
+Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  MyEconLab
+24) The Canadian short-run Phillips curve ________ when the expected inflation rate rises and ________ when the expected inflation rate falls.
+The Canadian short-run Phillips curve ________ when the natural unemployment rate increases and ________ when the natural unemployment rate decreases.
+A) shifts downward; shifts upward; shifts rightward; shifts leftward
+B) does not shift; does not shift; shifts rightward; shifts leftward
+C) shifts upward; shifts downward; does not shift; does not shift
+D) shifts upward; shifts downward; shifts rightward; shifts leftward
+E) shifts upward; does not shift; shifts rightward; does not shift
+Answer:  D
+Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  MyEconLab
+
+25) The Canadian long-run Phillips curve ________ when the expected inflation rate rises and ________ when the expected inflation rate falls.
+The Canadian long-run Phillips curve ________ when the natural unemployment rate increases and ________ when the natural unemployment rate decreases.
+A) does not shift; does not shift; does not shift; does not shift
+B) does not shift; does not shift; shifts rightward; shifts leftward
+C) shifts upward; shifts downward; shifts rightward; shifts leftward
+D) shifts rightward; shifts leftward; does not shift; does not shift
+E) shifts rightward; shifts leftward; shifts rightward; shifts leftward
+Answer:  B
+Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+Source:  MyEconLab
+
+
+Table 28.2.2
+
+Inflation rate
+(percent per year)	Unemployment rate
+(percent)
+8	3
+6	4
+4	5
+2	6
+
+
+26) Refer to Table 28.2.2. The economy's natural unemployment rate is 4 percent. Table 28.2.2 gives some points on the economy's short-run Phillips curve. When the unemployment rate is 4 percent ________.
+A) actual inflation is greater than expected inflation
+B) actual inflation is less than expected inflation
+C) and the inflation rate is 6 percent a year, the short-run and long-run Phillips curves intersect
+D) and the expected inflation rate is 8 percent a year, the short-run Phillips curve shifts downward
+E) aggregate demand increases
+Answer:  C
+Type: MC
+ 
+27) Refer to Table 28.2.2. The economy's natural unemployment rate is 4 percent. Table 28.2.2 gives some points on the economy's short-run Phillips curve. If the expected inflation rate rises to 8 percent a year, ________.
+A) the long-run Phillips curve shifts leftward
+B) the short-run Phillips curve shifts upward
+C) the short-run Phillips curve shifts downward
+D) Both A and B are correct.
+E) Both A and C are correct.
+Answer:  B
+Type: MC
+
+28) Consider the short-run Phillips curve in Canada since the 1960s. 
+Choose the best statement.
+A) Canada's inflation/unemployment tradeoff is best shown as a series of shifting short-run Phillips curves that sometimes shift upward and sometimes shift downward.
+B) Canada's inflation/unemployment tradeoff is undefined.
+C) Canada's short-run Phillips curve is consistently shifting upward.
+D) Canada's short-run Phillips curve is consistently shifting downward.
+E) Canada's short-run Phillips curve is consistently shifting rightward.
+Answer:  A
+Type: MC
+
+ 
+28.3   The Business Cycle
+
+1) According to ________, the business cycle is the result of aggregate demand growing at a fluctuating rate.
+A) the Keynesian cycle theory only
+B) only the Keynesian and monetarist cycle theories
+C) the Keynesian, monetarist, and real business cycle theories
+D) the Keynesian, monetarist, and new classical cycle theories
+E) real business cycle theory
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+2) Which of the following are business cycle theories that regard fluctuations in aggregate demand as the factor that creates business cycles?
+I.	Keynesian cycle theory
+II.	real business cycle theory
+III.	monetarist cycle theory
+A) I only
+B) I and II
+C) I and III
+D) I, II and III
+E) II and III
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+3) Which of the following is not a mainstream theory of the business cycle?
+A) Keynesian cycle theory
+B) Monetarist cycle theory
+C) New Keynesian cycle theory
+D) Real business cycle theory
+E) New classical cycle theory
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+4) In the Keynesian business cycle theory, business cycles begin with a change in
+A) inflation expectations.
+B) government expenditure.
+C) business confidence.
+D) monetary policy.
+E) the money wage rate.
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+5) ________ states that the main source of economic fluctuations is fluctuations in business confidence.
+A) Real business cycle theory
+B) New classical cycle theory
+C) Keynesian cycle theory
+D) Monetarist cycle theory
+E) None of the above
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+ 
+Use the figure below to answer the following questions.
+
+ 
+Figure 28.3.1
+
+6) Refer to Figure 28.3.1. Suppose the economy moves from point A to point C. According to the monetarist theory of the business cycle, what could have caused this movement?
+A) an increase in the money wage rate
+B) an increase in the growth rate of the quantity of money
+C) a decrease in the growth rate of the quantity of money
+D) an increase in uncertainty
+E) animal spirits
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+7) Refer to Figure 28.3.1. Suppose the economy moves from point D to point B. According to the monetarist theory of the business cycle, what could have caused this movement?
+A) a decrease in the money wage rate
+B) an increase in uncertainty about future sales and profits
+C) an increase in the growth rate of the quantity of money
+D) an increase in the money wage rate
+E) a decrease in exports
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Analytical
+AACSB:  Analytical Skills
+ 
+8) Both new Keynesian and new classical cycle theories claim that
+A) animal spirits can trigger a business cycle.
+B) shifts in the SAS curve are the main impulse for a business cycle.
+C) unexpected changes in aggregate demand trigger a business cycle.
+D) expected changes in the quantity of money can trigger a business cycle.
+E) a change in the price of oil is the major cause of a business cycle.
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+
+9) The key difference between new classical cycle theory and new Keynesian cycle theory is that the new classical cycle theory believes that ________ while the new Keynesian cycle theory believes that ________.
+A) expected changes in aggregate demand change real GDP; expected changes in aggregate demand do not change real GDP
+B) only unexpected changes in aggregate demand change real GDP; only expected changes in aggregate demand change real GDP
+C) only unexpected changes in aggregate demand change real GDP; both expected and unexpected changes in aggregate demand change real GDP
+D) the short-run aggregate supply curve is horizontal; the short-run aggregate supply curve is vertical.
+E) expected and unexpected changes in aggregate demand change real GDP; only changes in labour productivity change aggregate demand
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+10) The ________ cycle theory states that only unexpected fluctuations in aggregate demand bring fluctuations in real GDP around potential GDP.
+A) new Keynesian
+B) new classical
+C) Keynesian
+D) monetarist
+E) real business
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+11) In new classical cycle theory, ________ bring fluctuations in real GDP around potential GDP.
+A) unexpected changes in aggregate demand
+B) expected changes in aggregate demand
+C) fluctuations in money growth with rigid wages
+D) fluctuations in investment coupled with rigid wages
+E) expected changes in labour productivity
+Answer:  A
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+12) The new classical theory argues that the primary factor leading to business cycles is
+A) expected fluctuations in aggregate demand.
+B) expected fluctuations in short-run aggregate supply.
+C) unexpected fluctuations in aggregate demand.
+D) unexpected fluctuations in short-run aggregate supply.
+E) unexpected fluctuations in long-run aggregate supply.
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+13) New Keynesian economists believe that ________ is influenced by ________.
+A) yesterday's money wage rate; today's rational expectations of the money wage
+B) today's money wage rate; yesterday's rational expectations of the price level
+C) yesterday's rational expectations of the price level; today's money wage rate
+D) today's money wage rate; today's rational expectations of the price level
+E) today's money wage rate; animal spirits
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+14) Which business cycle theory emphasizes that, because of previously negotiated wage agreements, both expected and unexpected fluctuations in aggregate demand can change real GDP?
+A) the new classical cycle theory
+B) the new Keynesian cycle theory
+C) Monetarist cycle theory
+D) Keynesian cycle theory
+E) Real business cycle theory
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+15) The factor leading to business cycles in the ________ cycle theory is unexpected fluctuations in aggregate demand while in the ________ cycle theory both unexpected and expected fluctuations in aggregate demand are factors that lead to business cycles.
+A) new classical; monetarist
+B) new classical; new Keynesian
+C) new Keynesian; Keynesian
+D) monetarist; new Keynesian
+E) real business; monetarist
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+16) According to ________ theory, a decrease in productivity growth shifts the ________.
+A) real business cycle; AD curve rightward
+B) Keynesian cycle; SAS curve leftward
+C) real business cycle; demand for loanable funds curve leftward
+D) Keynesian cycle; SAS curve rightward
+E) real business cycle; AD curve leftward
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+17) The key ripple effect in real business cycle theory is the ________ decision and it depends on the ________.
+A) when-to-invest; real interest rate
+B) when-to-work; real interest rate
+C) what-to-save; nominal interest rate
+D) where-to-work; real wage rate
+E) when-to-work; rigidity of the money wage rate
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+18) According to the real business cycle theory, what effects follow from a change in productivity?
+I.	Investment demand changes.
+II.	The demand for labour changes.
+III.	Government expenditure changes.
+A) I
+B) I and II
+C) I and III
+D) II and III
+E) I, II and III
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+19) "Intertemporal substitution" in real business cycle theory refers to the change in the ________ as a result of the change in the real interest rate.
+A) personal tax rate
+B) demand for loanable funds
+C) supply of labour
+D) consumer demand for goods
+E) demand for labour
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Recognition
+AACSB:  Reflective Thinking
+ 
+20) In real business cycle theory, a decrease in productivity leads to all of the following events EXCEPT
+A) a decrease in the demand for labour.
+B) a decrease in the demand for loanable funds.
+C) a rise in the real wage rate.
+D) a fall in the real interest rate.
+E) a decrease in the supply of labour.
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+21) In real business cycle theory, the supply of labour
+A) increases if the nominal interest rate rises.
+B) is independent of the real interest rate.
+C) decreases if the real interest rate rises.
+D) decreases if the real interest rate falls.
+E) decreases if the real wage rate decreases.
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+22) Suppose that a severe shock that decreases the demand for loanable funds hits Canada. Which of the following can we expect to occur according to real business cycle theory?
+A) The real interest rate will fall.
+B) People will work fewer hours.
+C) The real wage rate will fall.
+D) The demand for loanable funds will decrease.
+E) All of the above are true.
+Answer:  E
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+23) According to real business cycle theory, an increase in productivity ________ the demand for loanable funds, ________ the demand for labour, and ________ the supply of labour. The real interest rate will ________.
+A) increase; increases; does not change; fall
+B) increase; increases; does not change; rise
+C) decrease; decreases; decreases; fall
+D) increases; increases; increases; rise
+E) increases; increases; increases; fall
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+24) According to the real business cycle theory, during a recession the demand for labour ________ and the supply of labour ________.
+A) increases; decreases
+B) decreases; does not change
+C) does not change; decreases
+D) decreases; decreases
+E) decreases; increases
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+25) According to real business cycle theory, workers' decisions to work now versus later depend on
+A) the real wage rate today but not the real wage rate in the future.
+B) the money wage rate.
+C) the real interest rate.
+D) labour productivity.
+E) none of the above.
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+26) Suppose that in response to a decrease in real interest rates, a person decides to reduce his supply of labour today and increase it in the future. This behaviour is most consistent with the
+A) new classical cycle theory.
+B) Keynesian cycle theory.
+C) new Keynesian cycle theory.
+D) real business cycle theory.
+E) monetarist cycle theory.
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+27) According to real business cycle theory, if the Bank of Canada increases the quantity of money when real GDP decreases, real GDP
+A) will increase but only temporarily.
+B) will increase permanently.
+C) and the price level will both be unaffected.
+D) will be unaffected, but the price level will rise.
+E) will decrease due to the inefficiencies introduced into production as a result.
+Answer:  D
+Type: MC
+Topic:  The Business Cycle
+Source:  Study Guide
+28) Suppose that the business cycle in Canada is best described by RBC theory.
+An advance in technology increases productivity.
+The when-to-work decision depends on the real interest rate. The ________ the real interest rate, other things remaining the same, the ________ is the supply of labour today.
+RBC theorists believe the when-to-work effect is ________.
+A) lower; smaller; small
+B) higher; smaller; small
+C) higher; larger; large
+D) lower; larger; large
+E) higher; larger; small
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Business Cycle
+Source:  MyEconLab
+
+ 
+29) According to mainstream business cycle theory, ________ grows at a steady rate and ________ grows at a fluctuating rate.
+A) aggregate demand; long-run aggregate supply
+B) potential GDP; aggregate demand
+C) potential GDP; short-run aggregate supply
+D) short-run aggregate supply; long-run aggregate supply
+E) short-run aggregate supply; aggregate demand
+Answer:  B
+Type: MC
+Topic:  The Business Cycle
+Source:  MyEconLab
+
+30) In real business cycle theory, ________ are the main source of economic fluctuations.
+A) unexpected changes in government expenditure
+B) random fluctuations in investment
+C) random fluctuations in productivity
+D) unexpected changes in the full-employment quantity of labour
+E) changes in the quantity of money
+Answer:  C
+Type: MC
+Topic:  The Business Cycle
+Source:  MyEconLab
+
+31) In real business cycle theory, the supply of labour
+A) increases if the real interest rate falls.
+B) increases if the real interest rate rises.
+C) increases if the demand for labour decreases.
+D) is not influenced by changes in the real interest rate.
+E) increases if the demand for loanable funds decreases.
+Answer:  B
+Type: MC
+32) According to real business cycle theory, a fall in the real interest rate ________ the supply of labour and ________ employment.
+A) decreases; decreases
+B) increases; increases
+C) decreases; increases
+D) increases; decreases
+E) does not change; does not change
+Answer:  A
+Type: MC
+
+ 
+33) Real business cycle theorists believe that the intertemporal substitution effect ________. Many other economists believe that the intertemporal substitution effect ________.
+A) is large; is negligible
+B) is negligible; is large
+C) occurs in the money market; occurs in the labour market
+D) occurs in the labour market; occurs in the money market
+E) none of the above
+Answer:  A
+Type: MC

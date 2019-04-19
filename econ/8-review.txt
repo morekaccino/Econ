@@ -1,0 +1,272 @@
+13) Which of the following is not considered money in Canada today?
+A) deposits at credit unions
+B) bank of Canada notes
+C) deposits at banks
+D) coins
+E) debit cards
+
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+
+Answer:  E
+----------------------------------
+15) The largest component of M1 is 
+A) currency outside banks. 
+B) personal chequable deposits.
+C) non-personal chequable deposits.
+D) fixed term deposits. 
+E) non-personal non-chequable deposits.
+
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+
+Answer:  C
+----------------------------------
+4) In 2008, chartered banks held reserves equal to approximately ________ percent of deposits.
+A) 0.4
+B) 0.04
+C) 4.0
+D) 0.14
+E) 14.0
+
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+
+
+Answer:  A
+----------------------------------
+5) The reserves of a bank include 
+A) the cash in its vault plus the value of its chequable deposits.
+B) the cash in its vault plus any deposits held on account at the Bank of Canada. 
+C) the cash in its vault plus any gold held for the bank at the Bank of Canada. 
+D) all of its common stock holdings, the cash in its vault, and all deposits held on account with the Bank of Canada. 
+E) the cash in its vault plus any deposits held on account with the Bank of Canada plus the value of any government bonds that it holds. 
+
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+
+Answer:  B
+----------------------------------
+7) Pooling risk 
+A) refers to a default contract made by a bank to other banks. 
+B) refers to spreading the risk of loan default among all the depositors within the depository institution.
+C) is now illegal under the Nuisance Act of 2007. 
+D) occurs when one person lends to an entire group or pool of borrowers. 
+E) refers to the lower cost of obtaining funds from a depository institution.
+
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+
+Answer:  B
+----------------------------------
+9) The Bank of Canada is the lender of last resort.  This means banks may borrow money from the Bank of Canada
+A) whenever they are short of reserves.
+B) overnight.
+C) if they have sufficient securities to support the loan.
+D) if the banking system as a whole is short of reserves.
+E) to finance a sudden and dramatic increase in overseas reserves.
+
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+
+Answer:  D
+----------------------------------
+15) Which of the following is an asset of the Bank of Canada?
+A) loans to depository institutions
+B) Bank of Canada notes
+C) depository institution deposits
+D) deposits of private Canadian citizens
+E) loans to private Canadian citizens
+
+Type: MC
+
+
+Answer:  A
+----------------------------------
+16) When the Bank of Canada sells government securities to a bank, how are the Bank of Canada's assets affected?
+A) The bank's reserves held at the Bank of Canada increase.
+B) The bank's reserves held at the Bank of Canada decrease.
+C) Bank of Canada notes increase.
+D) The amount of the Bank of Canada's government securities increases.
+E) The amount of the Bank of Canada's government securities decreases.
+
+Type: MC
+
+24.3   How Banks Create Money
+
+
+Answer:  E
+----------------------------------
+3) Whenever desired reserves exceed actual reserves, the bank 
+A) can make new loans.
+B) will call in loans. 
+C) will go out of business. 
+D) is in a profit-making position. 
+E) has excess reserves. 
+
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+
+Answer:  B
+----------------------------------
+8) Suppose that a country has $50 billion in bank reserves, $100 billion in currency held by the public, and $500 billion in bank deposits.  The currency drain ratio is
+A) 18%.
+B) 50%.
+C) 30%.
+D) 10%.
+E) 20%.
+
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+Use the information below to answer the following questions.
+
+Fact 24.3.1 
+
+The Bank of Speedy Creek has chosen the following initial balance sheet:
+
+
+
+
+Answer:  E
+----------------------------------
+16) The banks on Sunny Island have deposits of $4 million, reserves of $600,000, and loans of $2.4 million. The desired reserve ratio is 10 percent. The banks have ________ of desired reserves and ________ of excess reserves.
+A) $400,000; $600,000
+B) $200,000; $400,000
+C) $400,000; $200,000
+D) $600,000; $200,000
+E) $200,000; $600,000
+
+Type: MC
+
+
+Answer:  C
+----------------------------------
+18) When the interest rate falls in the money market, the quantity of money demanded ________ and the quantity of money supplied ________.
+A) increases; remains unchanged
+B) increases; decreases
+C) remains unchanged; decreases
+D) remains unchanged; remains unchanged
+E) decreases; increases
+
+Type: MC
+
+
+Answer:  A
+----------------------------------
+13) Refer to Figure 24.4.2. Which one of the following best describes the response to a rise in the price level?
+A) A movement from A to B
+B) A movement from A to C
+C) A movement from A to F
+D) A movement from A to E
+E) none of the above
+
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+
+Answer:  E
+----------------------------------
+17) If households and firms find they are holding less money than desired, they will
+A) sell bonds, and the interest rate will rise.
+B) sell bonds, and the interest rate will fall.
+C) buy bonds, and the interest rate will rise.
+D) buy bonds, and the interest rate will fall.
+E) buy goods, and the price level will rise.
+
+Diff: 3    Type: MC
+Topic:  The Money Market
+Source:  Study Guide
+
+
+
+Answer:  A
+----------------------------------
+19) The opportunity cost of holding currency is
+A) the price level.
+B) consumption given up.
+C) the real interest rate.
+D) the nominal interest rate.
+E) the inflation rate.
+
+Diff: 1    Type: MC
+Topic:  The Money Market
+
+
+Answer:  D
+----------------------------------
+1) The quantity theory of money begins with the equation of exchange, MV = PY, and then adds the assumptions that
+A) velocity varies inversely with the interest rate, and the price level is independent of the quantity of money.
+B) velocity and the price level are independent of the quantity of money.
+C) potential GDP and the quantity of money are independent of the price level.
+D) potential GDP and the price level are independent of the quantity of money.
+E) velocity and potential GDP are independent of the quantity of money.
+
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+Source:  Study Guide
+
+
+Answer:  E
+----------------------------------
+8) International evidence shows us that
+A) there is a general tendency for money growth and inflation to be correlated but the quantity theory does not predict inflation precisely.
+B) in the long run a 1 percent increase in the growth rate of money causes a 1 percent increase in inflation.
+C) there is a general tendency for money growth and inflation to be inversely related, and the quantity theory is a poor predictor of inflation.
+D) money growth and inflation are always rising, and the quantity theory predicts inflation accurately.
+E) there is a general tendency for money growth and inflation to be correlated and the quantity theory predicts inflation precisely.
+
+Type: MC
+Topic:  The Quantity Theory of Money
+Source:  MyEconLab
+
+
+Answer:  A
+----------------------------------
+1) Suppose that people decide to hold more money as cash. Which statement best illustrates the impact of this action on the money multiplier?  The money multiplier
+A) decreases because of the decrease in the currency drain ratio.
+B) increases because of the decrease in the currency drain ratio.
+C) increases because of a decrease in deposits.
+D) increases because of the increase in the currency drain ratio.
+E) decreases because of the increase in the currency drain ratio.
+
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+
+Answer:  E
+----------------------------------
+7) The Canadian currency drain ratio for M1 is approximately ________ percent in 2010.
+A) 15
+B) 24
+C) 11
+D) 34
+E) 75
+
+Diff: 1    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+
+Answer:  C
+----------------------------------
+8) Canada's M1 multiplier is ________ than Canada's M2 multiplier because the currency drain for M1 is ________ than for M2, and the desired reserve ratio for M1 is ________ than for M2.
+A) smaller; larger; larger
+B) larger; smaller; larger
+C) larger; smaller; smaller
+D) smaller; larger; smaller
+E) smaller; smaller; smaller
+
+Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+Source:  MyEconLab
+
+
+Answer:  A
+----------------------------------

@@ -1,0 +1,1470 @@
+Chapter 20   Measuring GDP and Economic Growth
+
+20.1   Gross Domestic Product
+
+1) Gross domestic product is 
+A) the final value of all goods produced in a country in a given time period. 
+B) the market value of all goods and services produced in a country during a given time period. 
+C) the market value of all the final goods and services produced in a country during a given time period. 
+D) the average value of output produced in a country in a given time period. 
+E) the market value of all the intermediate goods and services produced in a country during a given time period. 
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+2) In calculating GDP, economists use the value of final goods and services because
+A) by using final goods and services, they avoid double counting. 
+B) final goods can be exported to other countries.
+C) intermediate goods are imported from other countries. 
+D) GDP is underestimated if intermediate goods are used instead.
+E) none of the above. 
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+3) Which of the following statements is true?
+A) Final goods and services produced abroad by Canadians are part of Canadian GDP.
+B) Final goods and services produced in Canada by foreigners are part of the foreign country's GDP.
+C) Final goods and services produced in Canada by foreigners are part of Canada's GDP.
+D) Final goods and services produced in Canada by foreigners are imports.
+E) Final goods and services produced in Canada by foreigners are exports.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+4) The circular flow diagram illustrates the  expenditures made by
+A) households only.
+B) households and firms only.
+C) households and investors only.
+D) firms, households, and governments only.
+E) households, firms, governments, and the rest of the world.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+ 
+5) In the circular flow model, 
+A) households are sellers of factor services in goods markets. 
+B) households are buyers of goods and services in the factor markets. 
+C) firms are sellers of the factors in factor markets. 
+D) firms are sellers of goods and services in goods markets. 
+E) firms are buyers of goods and services in final markets. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+6) The purchasers in the goods markets are 
+A) households and government only. 
+B) households and firms only. 
+C) households and net exporters only. 
+D) households, firms, and government only. 
+E) households, firms, government, and those who import our goods. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+7) Of the following items, which one would be considered as investment in the National Income and Expenditure Accounts?
+A) The purchase of a new van by a potter who packs it with his wares and travels to art shows on weekends.
+B) The purchase of 100 shares of Bell Canada stock on the Toronto Stock Exchange.
+C) The purchase of a 100-year-old house that was put on the protected historic sites list.
+D) The purchase of a Canadian government bond.
+E) All of the above.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+8) Complete the following sentence. Net exports equals 
+A) exports divided by imports. 
+B) exports plus imports. 
+C) exports minus imports. 
+D) imports minus exports. 
+E) foreign borrowing by residents of Canada minus domestic borrowing by nonresidents of Canada. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+9) Which one of the following is an expenditure flow from households to firms? 
+A) goods and services
+B) factor services
+C) payments for goods and services
+D) payments for factor services
+E) loans
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+10) Which one of the following is an income flow from firms to households?
+A) goods and services
+B) factor services
+C) payments for goods and services
+D) payments for factor services
+E) loans
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+11) Which one of the following flows from firms to households? 
+A) goods and services
+B) factor services
+C) payments for goods and services
+D) payments for loans
+E) loans
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+12) For the aggregate economy, income equals 
+A) expenditure, but these are not generally equal to GDP. 
+B) GDP, but expenditure is generally less than these. 
+C) expenditure equals GDP. 
+D) expenditure equals GDP only if there is no government or foreign sectors. 
+E) expenditure equals GDP only if there is no depreciation. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+Source:  Study Guide
+
+ 
+13) Which one of the following is false? 
+A) Y = C + I + G + M - X 
+B) Y - C - I - G - X + M = 0
+C) X - M = Y - C - I - G
+D) Y + M = C + I + G + X
+E) Y = C + I + G + X - M
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+14) Which one of the following is true? 
+A) Y = C + I + G + M - X
+B) I + G + X = Y + I + M
+C) Y = C + S + I
+D) Y + M = C + I + G
+E) Y = C + I + G + X - M
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+15) Which of the following is not correct?
+A) Investment is the purchase of new plant, equipment, and buildings and the additions to inventories.
+B) Net investment equals gross investment minus depreciation.
+C) Depreciation decreases the value of a firm's capital.
+D) Gross investment is the amount by which the value of capital increases.
+E) Gross investment is the total amount spent buying new capital and replacing depreciated capital.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+16) Suppose the economy's capital increases over the year. It must be true that 
+A) net investment was greater than gross investment. 
+B) net investment was positive. 
+C) depreciation was greater than net investment. 
+D) depreciation was greater than gross investment. 
+E) depreciation is less than zero. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+17) SaskWidget produces plastic parts. At the beginning of the year, they held $24 million worth of capital. At the end of the year, they held $20 million worth of capital. One can conclude that
+A) net investment increased by $4 million. 
+B) gross investment decreased by $4 million. 
+C) gross investment increased by $4 million. 
+D) depreciation exceeded gross investment by $4 million.
+E) depreciation equals $4 million. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+18) One of the reasons why real GDP grows is that 
+A) prices increase.
+B) governments collect more taxes. 
+C) capital grows as a result of investment. 
+D) imports increase. 
+E) people have more income. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+19) Which of the following would be an example of a consumption expenditure?
+A) More spending by the government on children's programs.
+B) An increase in welfare payments to single mothers.
+C) The purchase of a new car by the IPSCO steel company.
+D) The purchase of a new car by the Singh household.
+E) All of the above.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+Source:  Study Guide
+
+20) The change in capital from year to year is equal to
+A) gross investment.
+B) gross investment minus net investment.
+C) savings.
+D) net investment minus depreciation
+E) gross investment minus depreciation.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+21) Capital in year 2012 equals capital in year 2011
+A) minus depreciation.
+B) plus net investment plus depreciation.
+C) plus gross investment.
+D) plus net investment.
+E) plus net investment minus depreciation.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+Source:  Study Guide
+Use the figure below to answer the following questions.
+
+ 
+Figure 20.1.1
+
+22) Refer to Figure 20.1.1, which shows the circular flow of expenditure and income for Venus.  During 2012, A was $100, B was $50, C was $30 and D was $10. How much is GDP?
+A) $75
+B) $50
+C) $90
+D) $100
+E) None of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+23) Refer to Figure 20.1.1, which shows the circular flow of expenditure and income for Venus. During 2012, A was $100, B was $50, C was $30 and D was $10. How much is net exports?
+A) $10
+B) $25
+C) $30
+D) $50
+E) None of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+24) Refer to Figure 20.1.1, which shows the circular flow of expenditure and income for Venus. During 2012, A was $100, B was $50, C was $30 and D was $10. How much is aggregate expenditure?
+A) $50
+B) $75
+C) $90
+D) $100
+E) None of the above
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+25) Refer to Figure 20.1.1, which shows the circular flow of expenditure and income for Venus. During 2012, A was $100, B was $50, C was $30 and D was $10. What is aggregate income?
+A) $25
+B) $50
+C) $75
+D) $90
+E) $100
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+Use the information below to answer the following questions.
+
+Fact 20.1.1 
+
+At the beginning of 2012, Peter's Perfectly Prickly Piercing Parlour had $5,000 worth of bellybutton and eyebrow rings on hand, 2 computers (each worth $1,000), 1 cash register worth $100, electrical equipment worth $500, and one piercing needle worth $500. At the end of 2012, they had $5,000 worth of bellybutton and eyebrow rings, a new high speed computer worth $3,000 (they had to throw out the old ones), the same cash register, which was now worthless, electrical equipment worth $600, and they had upgraded the needle at a cost of $700 which was valued at $1,000.
+
+26) Refer to Fact 20.1.1. Peter's capital at the beginning of 2012 is
+A) $8,100.
+B) $7,000.
+C) $3,100.
+D) $7,600.
+E) $5,000.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+27) Refer to Fact 20.1.1. Peter's capital at the end of 2012 is
+A) $7,000.
+B) $9,600.
+C) $4,400.
+D) $7,600.
+E) $4,000.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+28) Refer to Fact 20.1.1. Peter's gross investment in 2012 is
+A) $2,800.
+B) $3,800.
+C) $1,800.
+D) $7,800.
+E) $5,800.
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+29) Refer to Fact 20.1.1. Peter's depreciation in 2012 is
+A) $2,300.
+B) $800.
+C) zero.
+D) $1,000.
+E) $3,000.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+30) Refer to Fact 20.1.1. Peter's net investment in 2012 is
+A) $2,000.
+B) $3,800.
+C) $1,800.
+D) $7,800.
+E) $1,500.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+31) The value of intermediate goods is not counted in GDP 
+A) to keep from including goods that reduce society's welfare. 
+B) because of the tremendous difficulty in keeping track of all the intermediate goods produced in an economy as large as that of Canada. 
+C) because they are only sold in factor markets. 
+D) to avoid counting their value twice and overstating the value of GDP. 
+E) because they are not consumed in the current year. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+32) Intermediate goods are
+A) sold to their ultimate user. 
+B) produced by one firm, bought by another firm, and used as a component of a final good or service.
+C) included directly in the measure of GDP. 
+D) capital.
+E) purchased this year but consumed in future years. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+33) An art collector recently sold a piece of pottery for $300. He had purchased it for $200 two years earlier. How will the most recent sale affect GDP? 
+A) GDP will increase by $100. 
+B) GDP will not change. 
+C) GDP will increase by $300. 
+D) GDP will increase by $200. 
+E) GDP 2 years ago must be adjusted downwards by $200, and current GDP will rise by $300. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+34) Which of the following would not be included in GDP for 2011? 
+A) A car produced in 2011 and held in inventory until 2012.
+B) A car produced in 2011 and sold in 2012.
+C) The value of all cars produced in 2011.
+D) A car produced in January of 2011 and sold in November of 2011.
+E) A car produced in 2010 and sold in 2011.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+35) Stock and bond sales are not included in GDP because they 
+A) do not occur in the year in which the production represented by them takes place. 
+B) represent corporate production. 
+C) represent indebtedness. 
+D) are not goods and services.
+E) are not sold in the country in which they are produced.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+36) In calculating GDP, all of the following are excluded except
+A) the value of intermediate goods. 
+B) the value of all homes built in the year in question. 
+C) the value of used goods. 
+D) purchases of stocks and bonds.
+E) subsidies from the government. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+ 
+37) From the following list, choose the item that would be included in a current measure of GDP. 
+A) the purchase of a previously owned house that was built last year
+B) a social security cheque for $500
+C) the purchase of 10 litres of gasoline for your car
+D) a $2,000 cheque from your Aunt Grace
+E) income from the sale of your Canadian Snowfun stocks
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+38) Which one of the following would not be counted as part of this year's GDP? 
+A) The lumber you purchase when building bookshelves for your room.
+B) The government bond you buy for your newborn niece.
+C) The purchase of a new personal computer that was produced in the current year.
+D) The purchase of wheat that was produced in the current year by a Saskatchewan farmer.
+E) The purchase of a house that was produced in the current year.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+39) How much would the production of a kayak add to GDP if the shell costs $250, the paint costs $20, the finisher costs $35, the manufacturer sold it to the dealer for $500, and the dealer sold it to his customer for $800? 
+A) $1,605
+B) $1,300
+C) $500
+D) $305
+E) $800
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+40) Which of the following adds to Canadian GDP?
+A) I shovel my own driveway.
+B) I sell my used Honda.
+C) The production and sale of flour to a bakery.
+D) The purchase of a CD made in China.
+E) The ice cream I buy from my grocery store.
+Answer:  E
+Type: MC
+Topic:  Gross Domestic Product
+Source:  Study Guide
+ 
+41) A bakery uses flour to produce bread.
+When calculating GDP, we include ________, because when we add the value of the flour to the value of the loaf of bread to calculate GDP, the result is ________.
+A) only the value of the bread sold in a store; double counting
+B) only the value of the flour used to produce the bread; double counting
+C) both the value of the bread sold in a store and the value of the flour used to produce the bread; double counting
+D) both the value of the bread sold in a store and the value of the flour used to produce the bread; the true value of the economy's output
+E) none of the above
+Answer:  A
+Type: MC
+Topic:  Gross Domestic Product
+Source:  MyEconLab
+
+42) The firm that printed your textbook bought the paper from XYZ Paper Mills.
+This purchase of paper ________ part of GDP because the paper is ________ good.
+A) is not; a final
+B) is not; an intermediate
+C) is; an intermediate
+D) is; a final
+E) is; a nonrenewable
+Answer:  B
+Type: MC
+Topic:  Gross Domestic Product
+Source:  MyEconLab
+
+43) In the circular flow diagram, aggregate expenditure includes ________.
+A) consumption expenditure, saving, investment and government expenditure 
+B) saving, investment, and taxes
+C) consumption expenditure, investment, government expenditure, and exports
+D) consumption expenditure, investment, government expenditure and net exports 
+E) government expenditure, transfer payments, and taxes
+Answer:  D
+Type: MC
+
+44) Which of the following are equal to one another?
+I.	aggregate production
+II.	aggregate expenditure
+III.	aggregate income
+A) I equals II, but I does not equal III.
+B) I equals III, but I does not equal II.
+C) II equals III, but II does not equal I.
+D) III equals II, but III does not equal I 
+E) I equals II equals III.
+Answer:  E
+Type: MC
+45) Suppose Mail Boxes Etc. buys a new copier for its store for $1,000. A year later, when the firm wants to upgrade to a new copier, it finds that the old copier is only worth $750. Over the year the copier was used, ________ has occurred.
+A) depreciation
+B) demarcation
+C) devaluation
+D) denouement
+E) disparity
+Answer:  A
+Type: MC
+
+46) Which of the following relationships is correct?
+A) Gross Investment = Net Investment + Depreciation
+B) Consumption expenditure = Net Investment - Depreciation
+C) Net Investment = Gross Investment + Depreciation
+D) Depreciation = Gross Investment - Consumption expenditure
+E) Saving = Gross Investment - Taxes
+Answer:  A
+Type: MC
+
+ 
+20.2   Measuring Canada's GDP
+
+1) To measure GDP, Statistics Canada uses 
+A) the expenditure approach. 
+B) the income approach. 
+C) the value-added approach. 
+D) only A and B. 
+E) A, B and C. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+2) A hypothetical economy produced four final goods during the year: plates, TVs, bicycles, and computers. Forty plates were produced and sold for $10 each. Five TVs were produced and sold for $300 each. Fifty bicycles were produced and sold for $100 each. Three computers were produced and sold for $750 each. With this information, one could determine 
+A) gross investment for this economy. 
+B) net investment for this economy. 
+C) indirect taxes less subsidies for this economy.
+D) whether factors had been fully employed in this economy. 
+E) total income for this economy. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+3) Suppose the economy of Econoworld produces only two goods, kayaks and birdseed.  In one year 20 kayaks are produced and sold for $1,000 each and 10 bags of birdseed are produced and sold for $30 each. The value of nominal GDP for this year is 
+A) $20,000. 
+B) $300. 
+C) $20,300. 
+D) $23,000. 
+E) 20 kayaks plus 10 bags of birdseed.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+ 
+4) The expenditure approach measures GDP by adding together 
+A) wages, salaries and supplementary labour income, and other factor incomes. 
+B) wages, salaries and supplementary labour income, other factor income, subsidies paid by the government, indirect taxes paid, and income of nonfarm unincorporated businesses. 
+C) compensation of employees, rental income, corporate profits, net interest, proprietors' income, indirect taxes paid, and capital consumption expenditures, and by subtracting subsidies paid by the government. 
+D) the total expenditures of consumers, firms, net exporters, and by governments at all levels. 
+E) the total expenditures of consumers and firms.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+Use the table below to answer the following questions.
+
+Table 20.2.1
+Data From Eastland
+
+Wages, salaries, and supplementary labour income	800
+Other factor incomes	260
+Government expenditures on goods and services	240
+Depreciation	240
+Investment	400
+Personal income taxes net of transfer payments	140
+Indirect taxes	120
+Net exports	80
+Consumption expenditure	640
+
+5) Refer to Table 20.2.1. From the information given in the table, the value of gross domestic product is 
+A) $1,280. 
+B) $1,290. 
+C) $1,360. 
+D) $1,120. 
+E) $1,100. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+6) Refer to Table 20.2.1. From the information given in the table, the value of net domestic income at factor cost is
+A) $1,280. 
+B) $1,290. 
+C) $1,360. 
+D) $1,060. 
+E) $1,100. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Measuring Canada's GDP
+
+7) Refer to Table 20.2.1. From the data in the table, what additional data are needed to compute net domestic income at market prices? 
+A) statistical discrepancy
+B) transfer payments
+C) subsidies
+D) depreciation
+E) net taxes
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+8) Refer to Table 20.2.1. From the data in the table, what is total income in Eastland? 
+A) $1,120
+B) $1,180
+C) $1,360
+D) $1,420
+E) $1,280
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+9) The largest component of GDP using the expenditure approach is 
+A) investment
+B) consumption expenditure
+C) exports
+D) government expenditure
+E) imports
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+ 
+10) Which one of the following would be included in the calculation of GDP by the expenditure approach? 
+A) the purchase of 20 shares of a new issue of IBM stock
+B) the purchase of an original eighteenth century work of art
+C) the value of your brother's services when he mows the lawn for the family
+D) the cost of adding a new kitchen to your house
+E) the income you pay to your gardener
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+Use the table below to answer the following questions.
+
+Table 20.2.2
+
+Government expenditures on goods and services	$ 500
+Wages, salaries, and supplementary labour income	2,000
+Depreciation	   400
+Investment	   400
+Consumption expenditure	2,200
+Net exports 	   -50
+Indirect taxes 	   150
+Statistical discrepancy	       0
+
+11) Refer to Table 20.2.2. Gross domestic product equals 
+A) $3,050. 
+B) $3,150. 
+C) $3,400. 
+D) $5,600. 
+E) $5,050. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+12) Refer to Table 20.2.2. Net domestic income at market prices equals 
+A) $3,050. 
+B) $3,150. 
+C) $3,400. 
+D) $4,650. 
+E) $2,650. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+ 
+13) Which one of the following is not an example of investment in the expenditure approach to measuring GDP? General Motors 
+A) buys a new auto stamping machine. 
+B) adds 500 new cars to inventories. 
+C) buys shares in another company. 
+D) builds another assembly plant. 
+E) replaces some worn-out stamping machines. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+Use the table below to answer the following questions.
+
+Table 20.2.3
+
+ 
+
+14) Refer to Table 20.2.3. Consider the economy represented in the table. GDP in this economy, in millions of dollars, is 
+A) $1,150,000
+B) $850,000. 
+C) $1,350,000. 
+D) $1,050,000. 
+E) none of the above. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+15) Refer to Table 20.2.3. Consider the economy represented in the table. Total income, in millions of dollars, is 
+A) $800,000. 
+B) $850,000. 
+C) $1,350,000. 
+D) $1,050,000. 
+E) none of the above.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+16) Net domestic income at market prices can be derived by which one of the following? GDP (income approach) minus 
+A) taxes. 
+B) corporate profits.
+C) subsidies. 
+D) consumption expenditure.
+E) depreciation. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+17) The sum of wages, salaries and supplementary labour income, and other factor incomes is
+A) gross domestic product. 
+B) gross domestic income. 
+C) net domestic income at factor cost. 
+D) net domestic product. 
+E) total output of the economy. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+18) In the Canadian economy, market prices and factor costs would be the same except for
+A) depreciation. 
+B) exports. 
+C) personal taxes. 
+D) indirect taxes and subsidies. 
+E) capital consumption. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+19) Net domestic income at market prices equals 
+A) consumption expenditure plus government expenditure plus net exports plus investment.
+B) consumption expenditure plus government expenditure plus exports plus personal taxes. 
+C) indirect business taxes plus personal income plus net exports. 
+D) all incomes plus indirect taxes minus subsidies. 
+E) all incomes minus depreciation. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+Use the table below to answer the following questions.
+
+Table 20.2.4
+
+Other factor incomes	$570
+Indirect taxes 	230
+Depreciation	250
+Wages, salaries and supplementary labour income	1,350
+Consumption expenditure	1,400
+Government expenditure on goods and services	500
+Government transfer payments	50
+Net exports	40
+Subsidies	0
+
+20) Refer to Table 20.2.4. Gross domestic product is equal to 
+A) $2,400. 
+B) $1,920. 
+C) $2,150. 
+D) $1,940. 
+E) $2,350. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+21) Refer to Table 20.2.4. Net domestic income at market prices is equal to
+A) $2,150. 
+B) $1,920. 
+C) $2,400. 
+D) $1,940. 
+E) $2,350. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+22) Refer to Table 20.2.4. Gross investment is equal to 
+A) $460. 
+B) $260. 
+C) $400. 
+D) $560. 
+E) $250. 
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+23) Refer to Table 20.2.4. Net investment is equal to 
+A) $250. 
+B) $210. 
+C) $510. 
+D) $560. 
+E) $150. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Measuring Canada's GDP
+
+24) Which approach to measuring GDP is being used when Statistics Canada sums wages, salaries and supplementary labour income, and other factor incomes? 
+A) opportunity cost approach
+B) expenditure approach
+C) value-added approach
+D) factor cost approach
+E) income approach
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+25) Which approach to measuring GDP is being used when Statistics Canada sums spending on goods and services for consumer goods, government, business investments and exports, net of imports?
+A) value added
+B) income
+C) factor cost
+D) expenditure
+E) opportunity cost
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+26) To derive net domestic income at market prices from gross domestic product, we
+A) subtract gross investment from GDP. 
+B) subtract the statistical discrepancy from GDP. 
+C) add the statistical discrepancy to GDP. 
+D) subtract depreciation from GDP. 
+E) add depreciation to GDP. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+27) To obtain the factor cost of a good from its market price
+A) add indirect taxes and subtract subsidies. 
+B) subtract indirect taxes and add subsidies. 
+C) subtract both indirect taxes and subsidies. 
+D) add both indirect taxes and subsidies. 
+E) subtract depreciation. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+Source:  Study Guide
+
+28) Wages, salaries, and supplementary labour income are components of which approach to measuring GDP? 
+A) income approach
+B) expenditure approach
+C) injections approach
+D) output approach
+E) value-added approach
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+29) Real GDP equals
+A) nominal GDP minus the value of intermediate goods. 
+B) nominal GDP adjusted for the depreciation of capital. 
+C) the value of final goods and services produced in a given year when valued at the prices of a reference base year.
+D) nominal GDP minus the value of goods exported to foreign countries. 
+E) nominal GDP minus the rate of inflation. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+30) Suppose in current dollar terms, GDP increased by approximately 7 percent between one period and the next, but real GDP fell by 2 percent. Which one of the following explanations is most likely? 
+A) Prices fell by 9 percent. 
+B) Prices fell by 2 percent. 
+C) Output rose by 2 percent. 
+D) Prices increased by 7 percent. 
+E) Prices increased by 9 percent. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+31) Real GDP will increase only if the 
+A) average level of prices rises. 
+B) quantity of goods and services produced increases. 
+C) unemployment rate rises. 
+D) employment rate rises. 
+E) employment rate falls. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+
+32) In recent history, real GDP has risen less rapidly than nominal GDP. This is because
+A) the general price level fell.
+B) capital increased. 
+C) the goal of zero population growth has been reached. 
+D) the general price level rose.
+E) the level of population rose. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+33) If nominal GDP increased by 11 percent during a year while real GDP increased by only 5 percent, then the 
+A) price level decreased by 6 percent. 
+B) price level increased by 16 percent. 
+C) price level remained steady but real output fell by 6 percent. 
+D) unemployment rate fell during the year. 
+E) price level increased by 6 percent. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+34) If you want to investigate the claim that more goods and services were produced in the economy during 2011 than 2012, what should you look at? 
+A) real GDP
+B) nominal GDP
+C) intermediate GDP
+D) GDP calculated using the expenditure approach
+E) either B or D
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+35) Nominal GDP will increase 
+A) only if the average level of prices rises. 
+B) only if the quantity of goods and services produced increases. 
+C) only if the unemployment rate rises. 
+D) only if both the average level of prices rises and the quantity of goods and services produced increases. 
+E) if either the average level of prices rises or the quantity of goods and services produced increases. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+Use the table below to answer the following questions.
+
+Table 20.2.5
+Data From Southton
+
+ 
+
+36) Refer to Table 20.2.5. From the data in the table, compute Southton's nominal GDP in the current year. 
+A) $197
+B) $208
+C) $209
+D) $226
+E) It cannot be calculated given the data. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+Source:  Study Guide
+
+37) Refer to Table 20.2.5. From the data in the table, compute Southton's nominal GDP in the base year.
+A) $208
+B) $197
+C) $209
+D) $226
+E) It cannot be calculated given the data. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+Source:  Study Guide
+ 
+38) Refer to Table 20.2.5. From the data in the table, compute Southton's real GDP in the base year. 
+A) $208
+B) $197
+C) $209
+D) $226
+E) It cannot be calculated given the data.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+Source:  Study Guide
+
+Use the table below to answer the following questions.
+
+Table 20.2.6
+There are only two goods in this economy. 
+
+ 
+
+39) Refer to Table 20.2.6. Consider the data in this table. What is current nominal GDP? 
+A) $189,900
+B) $192,000
+C) $95,000
+D) $93,000
+E) None of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+40) Refer to Table 20.2.6. Consider the data in this table. What is current real GDP in terms of base-year prices? 
+A) $189,900
+B) $192,000
+C) $95,000
+D) $93,000
+E) None of the above
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+41) Choose the correct statement.
+A) When nominal GDP increases, real GDP decreases.
+B) Nominal GDP is just a more precise name for real GDP.
+C) We measure the change in production by comparing nominal GDP in one year with real GDP in the previous year.
+D) Nominal GDP is just a more precise name for GDP.
+E) Nominal GDP and real GDP both increase when the average level of prices increase. 
+Answer:  D
+Type: MC
+Topic:  Measuring Canada's GDP
+Source:  MyEconLab
+
+42) A south sea island produces only coconuts.
+In 2005, the price of a coconut is $2.00 and the quantity produced is 400.
+In 2012, the price of a coconut is $1.50 and the quantity produced is 350.
+2005 is the reference base year.
+Real GDP in 2012 in terms of base-year prices is
+A) $600.
+B) $525.
+C) $800.
+D) $700.
+E) $750.
+Answer:  D
+Type: MC
+Topic:  Measuring Canada's GDP
+Source:  MyEconLab
+
+43) In the National Income and Expenditure Accounts, government expenditure refers to spending on goods and services by 
+A) federal and provincial governments only. 
+B) the federal government only. Provincial and local government expenditures are included in provincial GDP calculations. 
+C) provincial and local governments only. 
+D) federal, provincial, and local governments. 
+E) the federal government and local governments only. Provincial government expenditures are included in provincial GDP calculations. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+44) Consumption expenditure includes only ________.
+A) expenditure by Canadian households on goods and services produced in Canada
+B) expenditure by Canadian households and firms on goods and services produced in Canada
+C) expenditure by Canadian households, firms, and governments on goods and services produced in Canada
+D) expenditure by Canadian households on goods and services produced in Canada and in the rest of the world
+E) expenditure by Canadian households and foreigners on goods and services produced in Canada
+Answer:  D
+Type: MC
+45) The purchase of a new home is categorized as ________.
+A) consumption expenditure
+B) consumption expenditure and investment
+C) investment only if the home owners take out a mortgage
+D) investment
+E) consumption expenditure only if the home owners do not take out a mortgage
+Answer:  D
+Type: MC
+
+46) Government expenditure on goods and services ________.
+A) includes transfer payments
+B) includes expenditure by all levels of government on goods and services
+C) is always greater than consumption expenditure
+D) plus consumption expenditure equals aggregate expenditure
+E) plus consumption expenditure plus investment equals aggregate expenditure
+Answer:  B
+Type: MC
+
+ 
+20.3   The Uses and Limitations of Real GDP
+
+1) Which of the following items would be included in a current measure of GDP? 
+A) Your labour in fixing a leaky pipe under your sink.
+B) The value of safety on the streets of your community.
+C) A professional gardener who regularly cuts your lawn.
+D) The illegal sale of a bag of marijuana.
+E) All of the above.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+
+2) Suppose Angela falls in love with and subsequently marries her regularly employed housekeeper, Tony. What effect would this action have on GDP? 
+A) It would stay the same. 
+B) It would fall. 
+C) It would rise. 
+D) It would fall but then increase after the honeymoon was over. 
+E) It depends on whether he starts to work in the house free of charge or whether she still pays him. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+
+3) Since non-market exchanges are excluded from measures of GDP, the GDP measure tends to 
+A) underestimate the total production of an economy. 
+B) overestimate the total production of an economy. 
+C) be of little significance in determining the total production of an economy. 
+D) be of little use to anyone but market economists. 
+E) place too much value on market transactions. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+4) Which of the following is not a reason for GDP incorrectly measuring the value of total output? 
+A) leisure time
+B) household production
+C) underground economic activity
+D) depreciation
+E) environmental quality
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+
+ 
+5) The existence of which one of the following is not a reason for the fact that GDP gives an incorrect estimate of the value of total output in the economy? 
+A) social justice
+B) political freedom
+C) health and life expectancy
+D) taxes
+E) leisure time
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+
+6) The existence of which one of the following is a reason for the fact that GDP gives an underestimated value of total output in the economy? 
+A) pollution
+B) market activities
+C) underground economy
+D) depreciation
+E) environmental problems
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+
+7) The maximum level of real GDP that can be produced while avoiding shortages of labour, capital, land, and entrepreneurial ability that would bring rising inflation is
+A) real GDP.
+B) nominal GDP.
+C) actual GDP.
+D) potential GDP.
+E) productive GDP.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+8) In any year, real GDP
+A) must always be less than potential GDP.
+B) might be greater than, less than, or equal to potential GDP.
+C) will always be greater than potential GDP because of the tendency of nations to incur inflation.
+D) always equals potential GDP.
+E) increases if potential GDP increases, and decreases if potential GDP decreases.
+Answer:  B
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+9) The business cycle is defined as the
+A) regular growth rate of the real GDP.
+B) regular fluctuations of real GDP below potential GDP.
+C) irregular fluctuations of prices around real GDP.
+D) periodic but irregular up-and-down movement of total production and other measures of economic activity.
+E) periodic and regular up-and-down movement of total production.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+10) Business cycles are
+A) irregular, with some having two recessions and no expansion.
+B) predictable, with a recession following a trough.
+C) unpredictable, but always have two phases and two turning points.
+D) unpredictable, and don't always have two phases and two turning points.
+E) predictable with an expansion following a trough.
+Answer:  C
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+11) The four parts of the business cycle occur in the following order:
+A) recession, trough, peak, expansion.
+B) expansion, trough, peak, recession.
+C) recession, trough, expansion, peak.
+D) expansion, trough, recession, peak.
+E) trough, peak, expansion, recession.
+Answer:  C
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+ 
+12) A recession is a period with
+A) negative growth rate in real GDP that lasts at least one quarter.
+B) positive growth rate in real GDP that lasts at least one quarter.
+C) positive growth rate in real GDP that lasts at least two quarters.
+D) negative growth rate in real GDP that lasts at least two quarters.
+E) a slowdown in real GDP growth but not necessarily negative real GDP growth.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+Use the figure below to answer the following questions.
+
+ 
+Figure 20.3.1
+
+13) Refer to Figure 20.3.1. In the figure, the distance between points S and T represents
+A) an expansion.
+B) a trough.
+C) a peak.
+D) a recession.
+E) a business cycle.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Analytical
+AACSB:  Analytical Skills
+ 
+14) Refer to Figure 20.3.1. In the figure, the distance between points T and U represents
+A) an expansion.
+B) a trough.
+C) a peak.
+D) a recession.
+E) a business cycle.
+Answer:  A
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+Use the figure below to answer the following questions.
+
+ 
+Figure 20.3.2
+
+15) Refer to Figure 20.3.2. In the figure, a recession begins at point ________ and an expansion begins at point ________.
+A) A; B
+B) B; C
+C) B; A
+D) D; C
+E) C; D
+Answer:  A
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Analytical
+AACSB:  Analytical Skills
+ 
+16) Refer to Figure 20.3.2. In the figure, a trough is at point ________ and a peak is at point ________.
+A) A; B
+B) B; C
+C) B; A
+D) D; C
+E) C; D
+Answer:  C
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+17) In comparing Canada and China we find that
+A) real GDP per person is about the same in the two countries. 
+B) Canada's real GDP per person is less than China's real GDP per person once we adjust for currency differences.
+C) China's real GDP per person is less than real GDP per person in Canada.
+D) Canada's real GDP per person is much larger than China's real GDP per person when purchasing power parity prices are used but is less than China's real GDP per person when exchange rate prices are used.
+E) none of the above.
+Answer:  C
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+18) The underground economy is any economic activity that
+A) produces intermediate goods or services. 
+B) is not taxed. 
+C) is unreported or illegal.
+D) has negative social value. 
+E) is conducted underground.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+
+ 
+19) Given that pollution is a by-product of some production processes, 
+A) GDP accountants adjust GDP downward. 
+B) GDP accountants adjust GDP upward.
+C) GDP accountants do not adjust GDP unless pollution is a serious problem.
+D) GDP tends to overstate economic well-being.
+E) GDP tends to understate economic well-being.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+20) Which of the following statements by politicians is talking about the business cycle?
+A) "Canadian unemployment is falling due to the upturn in the economy."
+B) "Crime rates increase every spring as the school year ends."
+C) "An average of 220,000 new jobs are created each year in Canada."
+D) "More capital investment will create more jobs."
+E) "Business always rises just before Christmas."
+Answer:  A
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+
+21) Why is the Human Development Index thought to be a better measure of economic well-being than real GDP per person?
+A) It includes a measure of resource depletion.
+B) It ignores health, which is hard to measure.
+C) It includes leisure time and household production.
+D) It includes health and education measures, as well as real GDP per person.
+E) It includes only health and education measures, ignoring real GDP per person.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+
+22) When we use PPP we can make valid international comparisons of real GDP because we
+A) calculate the value of goods and services produced in two countries using the same quantities.
+B) use data provided by the IMF.
+C) use the price data provided by the two countries but not the quantities.
+D) calculate the value of goods and services produced in two countries using the same prices.
+E) use official government data.
+Answer:  D
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  MyEconLab
+
+ 
+23) All of the following statements are true except
+A) the Lucas wedge is the dollar value of the accumulated gap between what real GDP per person would have been if the 1960s growth rate had persisted and what real GDP per person turned out to be. 
+B) the Lucas wedge accumulated to $400,000 per person by 2010.
+C) the Lucas wedge equals real GDP minus potential GDP.
+D) the Lucas wedge arises from the slowdown of productivity growth that began during the 1970s.
+E) real GDP per person was $30,700 per year lower in 2010 than it would have been with no growth slowdown.
+Answer:  C
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  MyEconLab
+24) Potential GDP is ________.
+A) the maximum amount of GDP that can be produced while avoiding shortages of labour, capital, land, and entrepreneurship that would bring rising inflation 
+B) the same as real GDP
+C) the same as nominal GDP
+D) equal to real GDP multiplied by the price level
+E) equal to nominal GDP multiplied by the price level
+Answer:  A
+Type: MC
+
+25) Real GDP ________.
+A) fluctuates from year to year but is always below potential GDP 
+B) grows at a constant 3 percent per year 
+C) fluctuates around potential GDP
+D) equals potential GDP when the price level is constant
+E) equals potential GDP in the base year
+Answer:  C
+Type: MC
+
+26) What we produce during our working time is ________ as part of GDP and the enjoyment we gain from our leisure time is ________ as part of GDP.
+A) included; included
+B) not included; not included
+C) included; not included
+D) not included; included
+E) included; sometimes but not always included
+Answer:  C
+Type: MC
+
+ 
+20.4   Mathematical Note: Chained-Dollar Real GDP
+
+Use the table below to answer the following questions.
+
+Table 20.4.1
+
+Item	2011 Quantity	2011 Price	2012 Quantity	2012 Price
+CD players	10	$100	15	$110
+bananas	50 bunches	$2	100 bunches	$3
+
+1) Refer to Table 20.4.1. In this table, at 2011 prices, the value of production from 2011 to 2012 has increased by
+A) 77.3 percent. 
+B) 54.5 percent. 
+C) 10.8 percent. 
+D) 91.7 percent. 
+E) 56 percent. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+2) Refer to Table 20.4.1. In this table, at 2012 prices, the value of production from 2011 to 2012 has increased by
+A) 56 percent. 
+B) 91.7 percent. 
+C) 10.8 percent. 
+D) 54.5 percent. 
+E) 77.3 percent. 
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+
+3) Refer to Table 20.4.1. Calculating chained-dollar real GDP, real GDP in 2012 increased by
+A) 56 percent. 
+B) 55.25 percent. 
+C) 54.5 percent. 
+D) 30 percent. 
+E) 75 percent. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+
+ 
+4) Refer to Table 20.4.1. Chained-dollar real GDP in 2012 is
+A) $1665.
+B) $1950.5. 
+C) $1707.75. 
+D) $1250. 
+E) $1100. 
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+
+5) The reference base year is 2011.
+To calculate the chained-dollar real GDP in 2012 we calculate
+A) the value of the final goods and services produced in 2012 valued at the prices that prevailed in 2012.
+B) the value of the final goods and services produced in 2012 valued at the prices that prevailed in the base year.
+C) nominal GDP in 2012 multiplied by price level.
+D) the value of final goods and services produced in the base year valued at the 2012 prices.
+E) the base-year GDP and add the average of the increases in real GDP calculated using 2011 prices and 2012 prices.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  Study Guide
+6) At 2010 prices, the value of production in 2011 was 2 percentage points higher than in 2010.
+At 2011 prices, the value of production in 2011 was 4 percentage points higher than in 2010.
+The chained-dollar real GDP is ________ in 2011 than in 2010.
+A) 4 percent greater
+B) 3 percent greater
+C) 3 percent smaller
+D) 2 percent smaller
+E) 2 percent greater
+Answer:  B
+Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  MyEconLab
+
+ 
+Use the table below to answer the following question.
+
+Table 20.4.2
+
+In 2010		
+Item	Quantity	Price
+Digital cameras	7	$2 each
+Chocolate bars	2	$1 each
+Watches	3	$3 each
+		
+In 2011		
+Item	Quantity	Price
+Digital cameras	1	$9 each
+Chocolate bars	6	$8 each
+Watches	9	$10 each
+
+7) Refer to Table 20.4.2. An economy produces only digital cameras, chocolate bars, and watches.
+The table gives the quantities produced and prices in 2010 and 2011.
+The base year is 2010.
+The chained-dollar real GDP in 2011 is
+A) $34.
+B) $25.
+C) $147.
+D) $109.
+E) $36.
+Answer:  A
+Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  MyEconLab
+ 
+Use the table below to answer the following question.
+
+Table 20.4.3
+
+In 2010		
+Item	Quantity	Price
+Cell phones	2	$1 each
+Pens	9	$1 each
+Pizza	4	$1 each
+		
+In 2011		
+Item	Quantity	Price
+Cell phones	8	$7 each
+Pens	4	$6 each
+Pizza	9	$5 each
+
+8) Refer to Table 20.4.3. An economy produces only cell phones, pens, and pizza.
+The table gives the quantities produced and prices in 2010 and 2011.
+The base year is 2010.
+The chained-dollar real GDP in 2011 is
+A) $13.
+B) $21.
+C) $125.
+D) $88.
+E) $19.
+Answer:  B
+Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  MyEconLab
+ 
+Use the table below to answer the following question.
+
+Table 20.4.4
+
+Quantities	2011	2012
+Bananas	1,000 bunches	1,100 bunches
+Coconuts	500 bunches	525 bunches
+		
+Prices	2011	2012
+Bananas	$2 a bunch	$3 a bunch
+Coconuts	$10 a bunch	$8 a bunch
+
+9) Refer to Table 20.4.4. The table provides data on the economy of Tropical Republic that produces only bananas and coconuts.
+Nominal GDP in 2011 is ________. Nominal GDP in 2012 is ________. The chained-dollar real GDP in 2012 expressed in 2011 dollars is ________.
+A) $7,500; $7,000; $7,472.50
+B) $7,472.50; $7,000; $7,500
+C) $7,000; $7,500; $7,472.50
+D) $7,472.50; $7,500; $7,000
+E) $1,500; $1,625; $1,575
+Answer:  C
+Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  MyEconLab

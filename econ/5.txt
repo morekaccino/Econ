@@ -1,0 +1,1260 @@
+Chapter 21   Monitoring Jobs and Inflation
+
+21.1   Employment and Unemployment
+
+1) The working-age population is the total number of people 
+A) in the labour force. 
+B) in the labour force who are employed. 
+C) aged 15 years and over. 
+D) in the labour force, aged 15 years and over. 
+E) in the labour force, aged 15 years and over, and employed. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+2) Which one of the following people would be counted as unemployed in Canada? 
+A) Veena is not working, but she is looking for a full-time job. 
+B) Kathy has stopped looking for work since she was unable to find a suitable job during a one-month search. 
+C) Sharon is a college student with a job. 
+D) Christos has been laid off from his job a month ago, and has not been looking for a new job as he is waiting for a severance package from his former employer. 
+E) Benoit who was laid off when his firm closed down 2 months ago and has not been looking for work as he is going back to school.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+3) Which one of the following people would be counted as unemployed in Canada? 
+A) Doris works only 5 hours a week but is looking for a full-time job. 
+B) Kanhaya has stopped looking for work since he was unable to find a suitable job during a two-month search. 
+C) Sharon recently began looking for work after staying at home for 10 years to look after her children.
+D) Maurice is on a 2 month vacation out of the country but is still looking for a job using the internet.
+E) Taylor is a homemaker. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+ 
+4) Which one of the following people would be counted as unemployed in Canada? 
+A) Simone is currently working but expects to be laid off by the end of the month, before next month's survey can be completed.
+B) Ruth is a 14-year-old student and has been looking for an after-school job every day for the past month.
+C) Sarah has been looking for a job but is taking a month-long break from the job-seeking effort due to her lack of skills.
+D) Rebekah is a recent graduate looking for work.
+E) Ron has quit looking because he believes that there is no work available for him.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+5) Which one of the following people would be counted as unemployed in Canada? 
+A) a part-time worker who repeatedly expresses a desire to become a full-time worker
+B) a person who has been seeking a job for the last six months, but recently gave up looking because he was discouraged by his job prospects
+C) a person who will be starting a new job in 6 months
+D) a person who expects to be laid off by the end of the month before next month's survey can be completed
+E) a person who has been laid off for 10 weeks and is not looking for a job because he is waiting to be called back to his old job
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+6) The labour force is 
+A) the total number of people employed. 
+B) the total number of people aged 15 years and over. 
+C) the total number of people in the working-age population who are employed. 
+D) the total number of people in the working-age population who are either employed or unemployed. 
+E) none of the above. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+7) The unemployment rate is defined as the number of 
+A) unemployed people divided by the number of employed people. 
+B) employed people divided by the number of people in the country. 
+C) unemployed people divided by the number of people in the country. 
+D) unemployed people divided by the sum of the people employed and the people unemployed. 
+E) unemployed people divided by the number of people in the country who are employed. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+ 
+8) Counting involuntary part-time workers as unemployed would
+A) not change the actual unemployment rate.
+B) lower the measured unemployment rate.
+C) raise the natural unemployment rate.
+D) raise the full employment rate.
+E) raise the measured unemployment rate.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+9) Who of the following would be counted as unemployed in Canada?
+A) Doris only works five hours a week but is looking for a full-time job.
+B) Kanhaya has stopped looking for work since he was unable to find a suitable job during a two-month search.
+C) Sharon is a college student with no job.
+D) Maurice has been laid off from his job for 20 weeks but expects to be called back soon.
+E) Bogdan has been laid off from his job but does not expect to be called back, and is not looking.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+Source:  Study Guide
+
+10) Who of the following would be counted as unemployed in Canada?
+A) Caitlin, who is 14 years old, and looking for a babysitting job.
+B) James, who is a full-time student looking for a part-time job.
+C) Youngmin, who is a part-time hamburger flipper looking for a full-time job.
+D) Emmanuel, who lost his job at the steel plant when an automated assembly line was introduced six months ago, and has been job searching every day.
+E) Vik, who has been staying at home watching "The Old and the Boring" soap opera, and not searching since he was laid off at the flour mill.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+11) If the working-age population increases, then 
+A) the size of the labour force will increase. 
+B) the number of people employed will increase. 
+C) the unemployment rate will increase. 
+D) the labour force participation rate will increase. 
+E) the total number of people aged 15 years and above will increase. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+ 
+12) In a country with a working-age population of 20 million, 13 million are employed, 1.5 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The size of the labour force is
+A) 20 million.
+B) 15.5 million.
+C) 14.5 million.
+D) 13 million.
+E) 11.5 million.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+Source:  Study Guide
+
+13) In a country with a working-age population of 20 million, 13 million are employed, 1.5 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The labour force participation rate is
+A) 75.5 percent.
+B) 72.5 percent.
+C) 65 percent.
+D) 57.5 percent.
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+Source:  Study Guide
+
+14) In a country with a working-age population of 22 million, 16 million are employed, 2 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The unemployment rate is
+A) 10 percent.
+B) 10.3 percent.
+C) 11.1 percent.
+D) 15.4 percent.
+E) none of the above.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+ 
+15) In a country with a working-age population of 22 million, 16 million are employed, 2 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The employment-to-population ratio is
+A) 72.7 percent.
+B) 65 percent.
+C) 75.5 percent.
+D) 57.5 percent.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+16) In a country with a working-age population of 22 million, 16 million are employed, 2 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. The involuntary part-time rate is
+A) 6.3 percent.
+B) 12.5 percent.
+C) 2.8 percent.
+D) 5 percent.
+E) none of the above.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Employment and Unemployment
+
+17) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. The labour force is
+A) 30 million.
+B) 18 million.
+C) 20 million.
+D) 22 million.
+E) 16 million.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+18) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. The labour force participation rate is
+A) 73.3 percent.
+B) 66.7 percent.
+C) 60 percent.
+D) 53.3 percent.
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+19) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. The unemployment rate is 
+A) 10 percent.
+B) 9.1 percent.
+C) 14.3 percent.
+D) 11.1 percent.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+20) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. The employment-to-population ratio is
+A) 73.3 percent.
+B) 66.7 percent.
+C) 60 percent.
+D) 53.3 percent.
+E) none of the above.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+21) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. The involuntary part-time rate is
+A) 10 percent.
+B) 5 percent.
+C) 4.8 percent.
+D) 4.5 percent.
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+22) Which of the following reflects an increase in unemployment? 
+A) an increase in the employment-to-population ratio
+B) a decrease in the unemployment rate
+C) an increase in the labour force participation rate
+D) an increase in the involuntary part-time rate
+E) none of the above
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+ 
+23) The labour force participation rate is
+A) the percentage of the working-age population who are employed.
+B) the percentage of the labour force who are unemployed or employed.
+C) the percentage of the working-age population who are either unemployed or employed.
+D) the percentage of the labour force who are employed.
+E) none of the above.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+24) The employment-to-population ratio is
+A) the percentage of the working-age population who are employed.
+B) the percentage of the labour force who are unemployed or employed.
+C) the percentage of the working-age population who are unemployed or employed.
+D) the percentage of the labour force who are employed.
+E) none of the above.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+25) In a recession, typically
+A) unemployment rises.
+B) the employment-to-population ratio decreases.
+C) the employment-to-population rate rises.
+D) the labour force participation rate rises.
+E) both A and B are correct.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Employment and Unemployment
+
+26) In a recession, typically
+A) unemployment decreases.
+B) the labour force participation rate increases.
+C) the employment-to-population ratio decreases.
+D) the employment-to-population ratio increases.
+E) none of the above.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+
+ 
+27) Complete the following sentence. In an expansion, typically
+A) unemployment increases.
+B) the labour force participation rate increases.
+C) the employment-to-population ratio decreases.
+D) employment decreases.
+E) both B and D are correct.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Employment and Unemployment
+28) Which of the following pieces of information do you need to calculate the labour force participation rate?
+I.	the number of employed persons
+II.	the number of unemployed persons
+III.	the population
+IV.	the working age population
+A) I and II
+B) I and III
+C) I, II and III
+D) I, II and IV
+E) all of the above
+Answer:  D
+Type: MC
+Topic:  Employment and Unemployment
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+29) Since 1960, Canadian labour force participation rate has ________ and the unemployment rate has ________.
+A) trended higher; trended higher
+B) trended lower; varied over the business cycle
+C) varied over the business cycle; trended higher
+D) trended higher; varied over the business cycle
+E) trended higher; trended lower
+Answer:  D
+Type: MC
+Topic:  Employment and Unemployment
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+30) If the people who take early retirement are not counted in the working-age population, then
+A) the unemployment rate would be lower.
+B) the labour force participation rate would be less.
+C) the unemployment rate would be higher.
+D) the labour force participation rate would be higher.
+E) none of the above.
+Answer:  D
+Type: MC
+Topic:  Employment and Unemployment
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+31) If the labour force participation rate is rising and the working-age population is not changing, then the
+A) size of the labour force is rising.
+B) number of unemployed people is rising and the size of the labour force is falling.
+C) size of the labour force is falling.
+D) number of unemployed people is falling and the size of the labour force is rising.
+E) number of employed people must be increasing.
+Answer:  A
+Type: MC
+Topic:  Employment and Unemployment
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+32) The working-age population can be divided into two groups:
+A) those who are employed and those who are unemployed.
+B) those in the labour force and discouraged workers.
+C) those who work full time and those who work part time.
+D) those in the labour force and those not in the labour force.
+E) those who are over the age of 15 and those who are under the age of 15.
+Answer:  D
+Type: MC
+
+33) Which of the following statements is incorrect?
+A) The labour force is equal to the number of people employed plus the number of people unemployed.
+B) The unemployment rate is the number of persons who are unemployed divided by the labour force, all multiplied by 100.
+C) The labour-force participation rate is the labour force divided by the working-age population, all multiplied by 100.
+D) The employment-to-population ratio is the number of people employed divided by the working-age population, all multiplied by 100. 
+E) The involuntary part-time rate is the number of involuntary part-time workers divided by the number employed, all multiplied by 100.
+Answer:  E
+Type: MC
+
+34) Which of the following is NOT included in the working-age population?
+A) discouraged workers
+B) involuntary part-time workers
+C) retired workers
+D) students over the age of 15
+E) All of the above are included in the working-age population.
+Answer:  E
+Type: MC
+35) Suppose the working-age population in Tiny Town is 100 people. If 25 of these people are not in the labour force, the ________ equals ________.
+A) labour force; 75 people
+B) unemployment rate; 25 percent
+C) unemployment rate; 33 percent
+D) employment-to-population ratio; 25 percent
+E) employment-to-population ratio; 75 percent
+Answer:  A
+Type: MC
+
+ 
+21.2   Unemployment and Full Employment
+
+1) In a country with a working-age population of 22 million, 16 million are employed, 2 million are unemployed, and 1 million of the employed are working part-time, half of whom wish to work full-time. If 500,000 of those unemployed are cyclically unemployed, what is the natural unemployment rate?
+A) 11.1 percent
+B) 5.6 percent
+C) 8.3 percent
+D) 9.4 percent
+E) none of the above
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Unemployment and Full Employment
+
+2) In a country with a working-age population of 30 million, 18 million are employed, 2 million are unemployed, and 2 million of the employed are working part-time, half of whom wish to work full-time. If 1 million of those unemployed are cyclically unemployed, what is the natural unemployment rate?
+A) 5.6 percent
+B) 5 percent
+C) 6.7 percent
+D) 11.1 percent
+E) none of the above
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Unemployment and Full Employment
+
+3) Which one of the following people is structurally unemployed? 
+A) a Saskatchewan welder who lost her job when her company relocated to B. C. and is currently looking for a job
+B) a Nova Scotia fishery worker who is searching for a better job closer to home
+C) a steel worker who is laid off but who expects to be called back soon
+D) an office worker who has lost her job because of a general slowdown in economic activity
+E) none of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+ 
+4) Unemployment caused by permanently decreased demand for horse-drawn carriages is an example of
+A) cyclical unemployment.
+B) seasonal unemployment.
+C) frictional unemployment.
+D) structural unemployment.
+E) discouraged unemployment.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+5) Which one of the following people is cyclically unemployed? 
+A) a Saskatchewan welder who lost her job when her company relocated to B. C. and is currently looking for a job
+B) a Nova Scotia fishery worker who is searching for a better job closer to home
+C) a steel worker who is laid off but who expects to be called back soon
+D) an office worker who has lost her job because of a general slowdown in economic activity
+E) none of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+6) Which one of the following people is frictionally unemployed? A steel worker who 
+A) loses her job because of technological change. 
+B) is laid off but expects to be called back soon. 
+C) gives up her job because she retires. 
+D) decides to leave the labour force and become a full-time ballet student. 
+E) becomes discouraged and stops looking for a job. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+7) If the economy is at full employment, then
+A) the entire population is employed. 
+B) the entire labour force is employed. 
+C) the only unemployment is frictional unemployment plus discouraged workers. 
+D) the unemployment rate is less than 3 percent. 
+E) all unemployment arises from normal frictions and structural change. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+ 
+8) The natural unemployment rate is 
+A) equal to 0 percent. 
+B) the same as the cyclical unemployment rate. 
+C) the rate at which cyclical unemployment is equal to 6 percent. 
+D) the rate at which cyclical unemployment is equal to 0 percent. 
+E) none of the above. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+9) At full employment, there is no
+A) natural unemployment.
+B) unemployment.
+C) cyclical unemployment.
+D) structural unemployment.
+E) frictional unemployment.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+10) A zero percent unemployment rate 
+A) is one of the economic goals of the Canadian government. 
+B) would alleviate scarcity. 
+C) is not consistent with the notion of full employment. 
+D) was last achieved during World War II when everyone was willing to work at the going wage rate to end the war. 
+E) is the only efficient unemployment rate. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+11) Complete the following sentence. Full employment 
+A) occurs when all unemployment is cyclical and structural. 
+B) occurs when all unemployment is frictional and discouraged. 
+C) occurs when there is zero unemployment. 
+D) occurs when there is zero frictional unemployment. 
+E) occurs when there is zero cyclical unemployment. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+ 
+Use the table below to answer the following questions.
+
+Table 21.2.1
+This table shows the answers given by interviewees to the Labour Force Survey
+
+Person A	Now that kids are in school full-time, this person is looking for work and has been interviewed for three jobs over the past 2 weeks.
+	
+Person B	This person has been laid off but expects to be called back in a few weeks, just as soon as the economy improves.
+	
+Person C	This person has just graduated from university and will start a new job in 8 weeks. In the meantime, this person is surveying local drinking establishments.
+	
+Person D	This person was laid off last year when new equipment at the plant reduced the number of jobs. Since his layoff, this person has been constantly job searching.
+	
+Person E	This economics graduate is working two nights a week at the 7-11, but wants full-time work as an economist.
+
+12) In Table 21.2.1, which person is frictionally unemployed? 
+A) A
+B) B
+C) C
+D) E
+E) none of them
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+13) In Table 21.2.1, which person is structurally unemployed? 
+A) A
+B) B
+C) C
+D) D
+E) none of them
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+ 
+14) In Table 21.2.1, which person is cyclically unemployed? 
+A) A
+B) B
+C) C
+D) D and B
+E) A and C
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+15) In Table 21.2.1, which person is a discouraged worker? 
+A) A
+B) B
+C) C
+D) D
+E) none of them
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+16) Structural unemployment arises in part because 
+A) there are not enough jobs available. 
+B) of technological change. 
+C) people become discouraged when they cannot find jobs. 
+D) people will not quit their present jobs until they can find suitable employment elsewhere. 
+E) of unrealistic wage expectations. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+17) Full employment does not mean that there is zero unemployment because 
+A) some cyclical unemployment is always present. 
+B) some frictional and structural unemployment is always present. 
+C) business fluctuations are inevitable. 
+D) of the existence of discouraged workers. 
+E) of unrealistic wage expectations. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+ 
+18) In a dynamic economy under ideal conditions, the unemployment rate 
+A) should be zero. 
+B) is greater than zero percent due to natural unemployment. 
+C) increases as the price level rises. 
+D) decreases as the price level falls. 
+E) averages 6 percent. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+19) If the economy is operating at full employment, then 
+A) everyone who wants a job has one. 
+B) the entire labour force is employed. 
+C) the unemployment rate is approximately 3 percent. 
+D) the unemployment rate is zero. 
+E) none of the above. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Unemployment and Full Employment
+20) Jesse just graduated from university, and is looking for her first job. Jesse is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not unemployed.
+D) cyclically unemployed.
+E) not in the labour force.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+21) Caitlin is working part-time at the Mr. G store, but wants to work full-time. She is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not in the labour force.
+D) cyclically unemployed.
+E) none of the above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+ 
+22) Michael lost his job as a night security guard because he kept falling asleep at the job. Now he is looking for a new job. Michael is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not unemployed.
+D) cyclically unemployed.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+23) Rochelle lost her job as a salesperson when sales fell off during the recession. Now she is looking for a new job. Rochelle is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not unemployed.
+D) cyclically unemployed.
+E) none of the above.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+
+24) Henelyn lost her job as a factory worker when she was replaced by a robotic machine. Now she is looking for a new job. Henelyn is
+A) frictionally unemployed.
+B) structurally unemployed.
+C) not unemployed.
+D) cyclically unemployed.
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+25) People become unemployed when they
+A) retire.
+B) are on maternity leave.
+C) quit working to go to university.
+D) leave university and start seeking work.
+E) all of the above.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Unemployment and Full Employment
+
+ 
+26) People end unemployment when they
+A) retire from a job.
+B) quit work to go to school.
+C) quit work to raise a family.
+D) are recalled from a layoff.
+E) are laid off.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Unemployment and Full Employment
+
+27) Counting discouraged workers as unemployed would
+A) not change the measured unemployment rate.
+B) lower the measured unemployment rate.
+C) raise the natural unemployment rate.
+D) raise the full employment rate.
+E) raise the measured unemployment rate.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+28) If the number of discouraged workers increases, everything else remaining the same, then the
+A) unemployment rate will increase.
+B) employment-to-population ratio will decrease.
+C) labour force participation rate will increase.
+D) labour force participation rate will decrease.
+E) employment-to-population ratio will increase.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+Source:  Study Guide
+
+29) If the number of discouraged workers decreases because many of them start to look for work, everything else remaining the same, then the
+A) unemployment rate will increase.
+B) employment-to-population ratio will decrease.
+C) labour force participation rate will increase.
+D) labour force participation rate will decrease.
+E) both A and C.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Unemployment and Full Employment
+ 
+30) Suppose the economy is experiencing frictional unemployment of 1 percent, structural unemployment of 3 percent and cyclical unemployment of 4 percent. What is the natural unemployment rate?
+A) 3 percent
+B) 4 percent
+C) 5 percent
+D) 7 percent
+E) 8 percent
+Answer:  B
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+31) Suppose that the natural unemployment rate is 4.5 percent and the actual unemployment rate is 3.5 percent. Then cyclical unemployment is
+A) 1 percent.
+B) -1 percent.
+C) 8 percent.
+D) 0 percent.
+E) 3.5 percent.
+Answer:  B
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+32) Suppose that the unemployment rate equals 4.5 percent and that the natural unemployment rate is 5.5 percent. We can conclude that
+A) potential GDP is greater than real GDP.
+B) potential GDP equals real GDP.
+C) potential GDP is less than real GDP.
+D) we have mismeasured the natural unemployment rate.
+E) real GDP is greater than nominal GDP.
+Answer:  C
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+33) If the economy is at full employment,
+A) the entire population is employed.
+B) the entire labour force is employed.
+C) the only unemployment is frictional unemployment plus discouraged workers.
+D) real GDP equals potential GDP.
+E) all unemployment is cyclical and structural.
+Answer:  D
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+AACSB:  Reflective Thinking
+34) When the unemployment rate is less than the natural unemployment rate, real GDP is ________ than potential GDP and the output gap is ________.
+A) greater; positive
+B) smaller; positive
+C) greater; negative
+D) smaller; negative
+E) greater; equal to zero
+Answer:  A
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+35) When the unemployment rate ________ the natural unemployment rate, real GDP ________ potential GDP.
+A) equal; is less than
+B) is greater than; is less than
+C) is less than; is less than
+D) equals; is greater than
+E) is greater than; equals
+Answer:  B
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+ 
+36) Some unemployment is unavoidable because ________.
+A) people are making transitions through the stages of life and businesses are making transitions
+B) many part-time workers would like to have full-time work
+C) often people become discouraged workers
+D) many people in the working-age population attend school and are unemployed
+E) there is always some cyclical unemployment
+Answer:  A
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+37) The official unemployment rate might underestimate the underutilization of labour resources for all of the following reasons except ________.
+A) it excludes part-time workers who want full-time jobs
+B) it excludes discouraged workers
+C) it excludes marginally attached workers
+D) it excludes people who are waiting to be called back to jobs from which they have been laid off
+E) the official unemployment rate excludes all of the above
+Answer:  D
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+38) The unemployment rate is supposed to measure ________. It is an imperfect measure because ________.
+A) the number of unemployed plus the number of marginally attached workers expressed as a percentage of the labour force; it excludes the marginally attached workers because Statistics Canada considers them as employed
+B) the percentage of the working-age population who are unemployed; it is impossible to count everyone in the working-age population
+C) the percentage of the labour force who are unemployed; it is impossible to count everyone in the labour force
+D) the underutilization of labour resources; it excludes some underutilized labour and some unemployment is unavoidable
+E) the underutilization of labour resources; it includes part-time workers and excludes discouraged workers
+Answer:  D
+Type: MC
+Topic:  Unemployment and Full Employment
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+39) The three types of unemployment are
+A) frictional, structural, and involuntary.
+B) voluntary, involuntary, and natural.
+C) voluntary, involuntary, and cyclical.
+D) frictional, structural, and cyclical.
+E) cyclical, maternity leave, and paternity leave.
+Answer:  D
+Type: MC
+
+40) Frictional unemployment ________.
+A) includes discouraged workers 
+B) is voluntary part-time unemployment 
+C) includes workers who have lost their jobs due to an economic downturn
+D) is unemployment associated with normal labour turnover 
+E) occurs when changes in technology change the skills needed to perform jobs
+Answer:  D
+Type: MC
+41) Suppose the country of Tiny Town experiences frictional unemployment. This frictional unemployment would 
+A) signal that the country is in a recession.
+B) be considered a natural occurrence in a growing economy.
+C) signal the number of discouraged workers is growing.
+D) increase structural unemployment.
+E) decrease the output gap.
+Answer:  B
+Type: MC
+
+ 
+21.3   The Price Level, Inflation, and Deflation
+
+1) The reference base period is 2002. A consumer price index of 122 in 2012 means that 
+A) prices of consumer goods have gone up by a factor of 12.2. 
+B) if the price of a good was $100 in 2002, its price in 2012 is $122. 
+C) prices of consumer goods have more than doubled. 
+D) the market basket of consumer goods that cost $122 in 2002 can be purchased for $100 in 2012. 
+E) the average of the prices paid by urban consumers for a fixed market basket of consumer goods and services was 22 percent higher in 2012 than it was on average during 2002. 
+Answer:  E
+Diff: 1    Type: MC
+Topic:  The Price Level and Inflation
+
+2) If the CPI was 128 at the end of 2011 and 136 and the end of 2012, what was the inflation rate in 2012? 
+A) 4.2 percent 
+B) 5.9 percent 
+C) 6.25 percent
+D) 8 percent
+E) 9.4 percent 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+3) If the CPI was 95 at the end of 2011 and 105 at the end of 2012, what was the inflation rate in 2012?
+A) 10 percent
+B) 105 percent
+C) 9.5 percent
+D) 5 percent
+E) 10.5 percent
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+4) If the CPI was 228 at the end of 2011 and 236 at the end of 2012, what was the inflation rate in 2012? 
+A) 8 percent
+B) 236 percent
+C) 3.5 percent
+D) 3.4 percent 
+E) 4 percent 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+ 
+5) If the CPI was 140 at the end of 2011 and 150 at the end of 2012, what was the inflation rate in 2012?
+A) 7.14 percent
+B) 10 percent
+C) 6.25 percent
+D) 8 percent
+E) 6.67 percent
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+6) If the CPI was 180 at the end of 2011, and 216 at the end of 2012, the inflation rate in 2012 was
+A) 216 percent.
+B) 36 percent.
+C) 16.67 percent.
+D) 20 percent.
+E) 18 percent.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+7) The cost of the CPI basket in base-period prices is $200 and the cost of the CPI basket in current-period prices is $450. The CPI in the current year is
+A) 450. 
+B) 225. 
+C) 300. 
+D) 250. 
+E) 44.44. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+8) The consumer price index is a measure of 
+A) the average of the prices paid by urban consumers for a fixed basket of consumer goods and services. 
+B) the commodity prices paid by urban consumers for a fixed basket of consumer goods and services.
+C) the consumer prices paid by average households for a fixed basket of goods and services.
+D) the average of the prices paid by rural consumers for a fixed basket of consumer goods and services. 
+E) the lowest prices paid by urban consumers for a fixed basket of consumer goods and services. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+ 
+9) The inflation rate measures 
+A) the annual change in the price level.
+B) the annual percentage change in the price level. 
+C) the average price level. 
+D) the annual percentage change in the wage rate. 
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+Use the table below to answer the following questions.
+
+Table 21.3.1
+Suppose a simple economy produces three goods only. 
+The price and output data for some selected years are shown below. 
+
+	Price
+(dollars)	Price
+(dollars)	Quantity
+(number)	Quantity
+(number)
+	2002	2012	2002	2012
+Pop
+Crackers
+Cucumbers	0.75
+1.25
+2.00	1.10
+2.10
+3.00	100
+300
+200	120
+280
+190
+
+10) Refer to Table 21.3.1. The reference base period is 2002. The CPI in 2012 is
+A) 1,340. 
+B) 158. 
+C) 100. 
+D) 96. 
+E) 63. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+11) Refer to Table 21.3.1. The reference base period is 2002. Which one of the following statements is true? 
+A) From 2002 to 2012, the cost of the market basket rose by 58 percent. 
+B) It costs 158 times more in 2012 than it does in 2002 to buy the same market basket. 
+C) All prices have risen by the same amount. 
+D) The inflation rate in 2012 is greater than the inflation rate in 2002. 
+E) The inflation rate in 2002 is greater than the inflation rate in 2012. 
+Answer:  A
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+
+ 
+12) Refer to Table 21.3.1. The reference base period is 2002. the CPI in 2002 is 
+A) 1,340. 
+B) 158. 
+C) 100. 
+D) 96. 
+E) 63. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+13) Refer to Table 21.3.1. The reference base period is 2008. The CPI in 2002 is
+A) 100. 
+B) 157. 
+C) 129. 
+D) 63. 
+E) 152. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+
+14) Refer to Table 21.3.1. The reference base period is 2012. The CPI in 2012 is
+A) 100. 
+B) 157. 
+C) 129. 
+D) 64. 
+E) 153. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+15) If the CPI in 2008 was 100 and the CPI in 2006 was 115, then the inflation rate in 2006 is
+A) 1.5 percent. 
+B) 100 percent. 
+C) 11.5 percent. 
+D) 115 percent. 
+E) none of the above. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+ 
+16) The fixed basket of Econoland consists of 10 units of A, 20 units of B, and 30 units of C. Current prices are $1 per unit of A, $2 per unit of B, and $3 per unit of C. Base year prices are $1 for each unit of A, B, and C. What is the CPI in the current year? 
+A) 43
+B) 100
+C) 233
+D) 430
+E) 140
+Answer:  C
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+
+17) The Consumer Price Index measures inflation by using
+A) all goods and services that are produced using a current-year basket.
+B) all goods and services that are produced using a base-year basket.
+C) only consumption goods and services purchased using a current-year basket.
+D) only consumption goods and services purchased using a base-year basket.
+E) A and D.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+18) The technique used to calculate the CPI implicitly assumes that consumers buy 
+A) relatively more of goods with relative prices that are increasing. 
+B) relatively less of goods with relative prices that are decreasing. 
+C) the same relative quantities of goods as in a base year. 
+D) goods and services whose quality improves at the rate of growth of real GDP. 
+E) more computers and CD players and fewer black-and-white TVs. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+Source:  Study Guide
+
+19) If there is a 5 percent increase in the CPI, then there will most likely be 
+A) a 5 percent rise in the cost of living. 
+B) a less than 5 percent rise in the cost of living because of consumers substituting away from goods whose relative prices rise towards other goods. 
+C) a more than 5 percent rise in the cost of living because of consumers substituting away from goods whose relative prices rise towards other goods. 
+D) a less than 5 percent rise in the cost of living because of falling quality of goods over time. 
+E) a more than 5 percent rise in the cost of living because of the introduction of new goods. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+ 
+20) All of the following are possible sources of bias in using the Consumer Price Index to measure inflation except
+A) the introduction of new goods. 
+B) an improvement in the quality of goods. 
+C) commodity substitution. 
+D) an increase in the cost of living
+E) Both C and D are exceptions.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+21) If prices at Wendy's rise, more consumers buy their meals at McDonald's and fewer consumers buy their meals at Wendy's. This is an example of 
+A) consumers' action to boycott Wendy's. 
+B) outlet substitution. 
+C) commodity substitution. 
+D) both A and B. 
+E) both B and C. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+
+22) Suppose a trade union and a firm agree to increase the wage rate by the same percentage as the increase in the Consumer Price Index. If the CPI increases by 5 percent, then the real income of workers will 
+A) increase by 5 percent as well. 
+B) remain unchanged, accounting for bias in the calculation of the CPI.
+C) decrease by 5 percent, accounting for bias in the calculation of the CPI.
+D) increase by more than 5 percent, accounting for bias in the calculation of the CPI.
+E) increase by less than 5 percent, accounting for bias in the calculation of the CPI. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  The Price Level and Inflation
+ 
+Use the table below to answer the following question.
+
+Table 21.3.2
+Data From Southton
+
+	Price
+(dollars)	Price
+(dollars)	Quantity
+(number)	Quantity
+(number)
+Item	Base	Current	Base	Current
+Rubber Ducks
+Beach Towels	1.00
+9.00	1.25
+6.00	100
+12	100
+14
+
+23) Refer to Table 21.3.2. From the data in Table 21.3.2, what is Southton's consumer price index for the current year?
+A) 112
+B) 105.6
+C) 100.5
+D) 100
+E) 94.7
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+Source:  Study Guide
+
+24) Comparing the core inflation rate to the Consumer Price Index, the core inflation rate
+A) controls for the biases of the CPI.
+B) measures all goods produced, not just consumer goods.
+C) uses current period quantities, not base period quantities.
+D) excludes the volatile elements of the CPI.
+E) includes volatile elements not in the CPI.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+Source:  Study Guide
+
+25) If the inflation rate is positive, the price level in an economy is
+A) falling rapidly.
+B) rising.
+C) constant.
+D) falling slowly.
+E) zero.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Price Level and Inflation
+Source:  Study Guide
+ 
+26) Commodity substitution bias in the CPI refers to the fact that the CPI
+A) takes into account the substitution of goods by consumers when relative prices change.
+B) takes no account of the substitution of goods by consumers when relative prices change.
+C) substitutes quality changes whenever they occur without taking account of the cost of the quality changes.
+D) substitutes relative prices for absolute prices of goods.
+E) accounts for improved quality in price rises.
+Answer:  B
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+27) Of the following sequences of price levels, which correctly represents a 5 percent inflation rate?
+A) 100, 100, 100, 100
+B) 100, 105, 105, 105
+C) 100, 105, 110, 115
+D) 100, 105, 110.25, 115.76
+E) 95, 100, 105, 110
+Answer:  D
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+28) The commodity substitution bias is that
+A) consumers substitute high-quality goods for low-quality goods.
+B) government spending is a good substitute for investment expenditures.
+C) national saving and foreign borrowing are interchangeable.
+D) consumers decrease the quantity they buy of goods whose relative prices rise and increase the quantity of goods whose relative price falls.
+E) consumers substitute more expensive goods for less expensive goods when technology advances.
+Answer:  D
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+29) Hyperinflation is defined as
+A) declining inflation rates.
+B) rising but low inflation rates.
+C) very high inflation rates.
+D) very low inflation rates.
+E) an increase in the price level.
+Answer:  C
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+AACSB:  Reflective Thinking
+30) Choose the incorrect statement.
+A) The outlet substitution bias injects an upward bias into the CPI.
+B) When the quality of a good improves over time and as a result the price rises, the CPI counts the entire price rise as inflation and so overstates inflation.
+C) When relative prices change and people substitute to the lower priced good, the CPI ignores the substitution and the CPI overstates inflation.
+D) The CPI basket is constantly updated to allow for the introduction of new goods.
+E) All of the above statements are incorrect.
+Answer:  D
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+31) The price indexes that are alternatives to the CPI are ________.
+A) the GDP deflator and the chained price index for consumption
+B) the chained price index for consumption and the CPI deflator
+C) the core GDP deflator and the CPI deflator
+D) the GDP deflator and the CPI deflator
+E) the unbiased CPI and the unbiased GDP deflator
+Answer:  A
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+ 
+32) The CPIC ________.
+A) does not overcome the source of bias in the CPI
+B) overcomes the sources of bias in the CPI by eliminating measures of the goods and services with the most volatile prices
+C) overcomes the sources of bias in the CPI by incorporating substitutions and using current and previous period quantities
+D) overcomes the sources of bias in the CPI by giving extra weight to the measures of the goods and services with the most volatile prices
+E) overcomes the sources of bias in the CPI by always using discount store prices
+Answer:  C
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+Refer to the table below to answer the following question.
+
+Table 21.3.3
+
+Region	2006	2007	2008
+United State
+Euro area
+Japan	117.1
+113.6
+98.1	120.4
+117.1
+98.1	124.0
+119.6
+98.8
+
+33) Refer to Table 21.3.3. The IMF World Economic Outlook reports the price level data given in the table. The region with the highest inflation rate in 2007 is ________. The region with the highest inflation rate in 2008 is ________.
+A) the Euro area; the United States
+B) Japan; the United States
+C) the Euro area; Japan
+D) the United States; Japan
+E) the United States; the Euro area
+Answer:  A
+Type: MC
+Topic:  The Price Level and Inflation
+Skill:  Recognition
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+ 
+34) Between 1972 and 2012, Canada's inflation rate as measured by the CPI ________.
+A) rises in some years and falls in some years
+B) consistently rises every year
+C) consistently falls every year
+D) was always between 1 and 3 percent a year
+E) was always positive
+Answer:  A
+Type: MC
+
+35) In China, suppose that the price level was 100 in 2007, 110 in 2008, 120 in 2009, and 130 in 2011. Over this time period,
+A) zero inflation occurred.
+B) the inflation rate increased.
+C) the inflation rate was positive.
+D) the inflation rate decreased.
+E) Both C and D are correct.
+Answer:  E
+Type: MC
+
+36) If the inflation rate is negative, the price level in an economy is ________.
+A) rising rapidly
+B) rising slowly
+C) falling
+D) constant
+E) none of the above
+Answer:  C
+Type: MC

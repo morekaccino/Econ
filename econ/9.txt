@@ -1,0 +1,1198 @@
+Chapter 25   The Exchange Rate and the Balance of Payments
+
+25.1   The Foreign Exchange Market
+
+1) Foreign currency is
+A) the market for foreign exchange.
+B) the price at which one currency exchanges for another currency.
+C) foreign notes, coins and bank deposits.
+D) foreign notes and coins only.
+E) the purchasing power of foreign money.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+2) The foreign exchange market is
+A) made up of importers, exporters, banks, international travellers, and specialist traders.
+B) the place where people exchange the currencies of different countries.
+C) the market in which more than $600 trillion in foreign exchange is traded each year.
+D) both A and C are correct.
+E) both A and B are correct.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+3) The exchange rate is the
+A) volume of currency exchanged between importers and exporters.
+B) price at which one currency exchanges for another currency.
+C) rate of currency appreciation or depreciation.
+D) percentage change in the volume of currency exchanges.
+E) average rate at which foreign currencies are exchanged.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+4) If the Canadian dollar depreciates, it means that
+A) one Canadian dollar buys less foreign currency.
+B) inflation has eroded the purchasing power of Canadian money.
+C) Canada's exchange rate falls.
+D) both A and C are correct.
+E) all of the above are true.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+5) Suppose that the Canadian dollar exchanges for 1.05 U.S. dollars and also for 0.65 Euros. A U.S. dollar exchanges for
+A) 1.00 Euro.
+B) 1.70 Euros.
+C) 0.40 Euros.
+D) 0.68 Euros.
+E) 0.62 Euros.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+6) If the exchange rate is 97 U.S. cents per Canadian dollar, then 
+A) the Canadian dollar is cheaper than the U.S. dollar. 
+B) the U.S. dollar is more expensive than the Canadian dollar. 
+C) the Canadian dollar will appreciate. 
+D) one U.S. dollar will buy 1.03 Canadian dollars. 
+E) one U.S. dollar will buy 0.97 Canadian dollars. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+7) Currency depreciation is a reduction in the 
+A) precious metal content in coins, such as the replacement of silver with copper in quarters. 
+B) goods and services a currency can purchase within its own country, usually the result of a period of inflation. 
+C) amount of foreign currency that can be obtained in trade for each unit of domestic currency. 
+D) amount of domestic currency that must be exchanged for a unit of foreign exchange. 
+E) amount of domestic goods foreign currency can purchase. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+8) Appreciation of a currency means 
+A) an increase in the amount of goods and services that currency can purchase within its own country. 
+B) an increase in the precious metal content in coins. 
+C) a shortage of currency. 
+D) that currency can buy more foreign currency. 
+E) that currency can buy less foreign currency. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+9) Between 2002 and 2007, the Canadian dollar
+A) depreciated against the U.S. dollar. 
+B) appreciated against the U.S. dollar. 
+C) remained constant against the U.S. dollar. 
+D) was not able to vary against the U.S. dollar, because the exchange rate was fixed against the Japanese yen. 
+E) bought the same number of U.S. dollars as the Euro. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+10) The market in which the currency of one country is exchanged for the currency of another country is the 
+A) money market. 
+B) capital market. 
+C) foreign exchange market. 
+D) forward exchange market. 
+E) international trading market. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+Refer to the table below to answer the following questions.
+
+Table 25.1.1
+
+Currency
+2009 Exchange Rate
+2010 Exchange Rate
+EU euro
+Japanese yen
+2 euros/dollar
+120 yen/dollar
+3 euros/dollar
+90 yen/dollar
+
+11) Refer to Table 25.1.1. Between 2009 and 2010, the Canadian dollar ________ versus the euro and ________ versus the yen. 
+A) appreciated; depreciated 
+B) appreciated; appreciated 
+C) depreciated; depreciated
+D) depreciated; appreciated 
+E) not changed; not changed 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+Source:  Study Guide
+
+12) Refer to Table 25.1.1. Between 2009 and 2010, the yen
+A) must have depreciated in value versus the euro. 
+B) must have appreciated in value versus the euro. 
+C) may or may not have appreciated in value versus the euro.
+D) will have appreciated in value versus the euro if the euro has a high weight in CERI. 
+E) will have appreciated in value versus the euro if the euro has a lower weight in CERI.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+Source:  Study Guide
+13) Suppose the dollar-yen foreign exchange rate changes from 140 yen per dollar to 130 yen per dollar. Then the yen has 
+A) depreciated against the dollar, and the dollar has appreciated against the yen. 
+B) depreciated against the dollar, and the dollar has depreciated against the yen. 
+C) appreciated against the dollar, and the dollar has appreciated against the yen. 
+D) appreciated against the dollar, and the dollar has depreciated against the yen. 
+E) neither appreciated nor depreciated, but the dollar has depreciated against the yen. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+14) Suppose that the following situation exists in the foreign exchange market:  1 Canadian dollar buys $1.05 U.S, and 1 Canadian dollar buys 8.6 Chinese yuan. How many yuan will $1 U.S.buy?
+A) 8.6 yuan
+B) 1.0 yuan
+C) 8.2 yuan 
+D) 0.12 yuan
+E) 0.14 yuan
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+15) Suppose that the following situation exists in the foreign exchange market:  1 Canadian dollar buys $1.01 U.S, and 1 Canadian dollar buys 6.63 South African rand. How many U.S. dollars will one rand buy?
+A) $6.56
+B) $1.01
+C) $0.17
+D) $0.15
+E) $6.63
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+16) Suppose that the following situation exists in the foreign exchange market:  1 Canadian dollar buys 7.2 Chinese yuan and 1 Canadian dollar buys 5.77 South African rand. How many yuan will one rand buy?
+A) 0.80 yuan
+B) 1.25 yuan
+C) 7.20 yuan
+D) 5.77 yuan
+E) 1.43 yuan
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+17) If the exchange rate is too high in the foreign exchange market, 
+A) there is a surplus and the exchange rate will rise. 
+B) there is a surplus and the exchange rate will fall. 
+C) exports are cheap, and the demand curve for Canadian dollars will shift rightward. 
+D) there is a shortage and the exchange rate will fall. 
+E) there is a shortage and the exchange rate will rise. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+Source:  Study Guide
+
+18) The lower the exchange rate, the 
+A) larger is the quantity of Canadian dollars supplied in the foreign exchange market. 
+B) larger is the quantity of Canadian dollars demanded in the foreign exchange market. 
+C) smaller is the quantity of Canadian dollars supplied in the foreign exchange market. 
+D) smaller is the quantity of Canadian dollars demanded in the foreign exchange market. 
+E) B and C. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+19) Which of the following factors influence the demand for Canadian dollars?
+A) The exchange rate and the world demand for Canadian exports.
+B) Interest rates in Canada and other countries, and the expected future exchange rate.
+C) The world demand for Canadian exports and Canadian demand for imports.
+D) Both A and B.
+E) Both B and C.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+20) The law of demand for foreign exchange tells us that other things remaining the same,
+A) the higher the exchange rate, the greater is the quantity of Canadian dollars demanded.
+B) the higher the exchange rate, the greater is the demand for Canadian dollars.
+C) the higher the exchange rate, the greater is the supply of Canadian dollars.
+D) the higher the exchange rate, the smaller is the quantity of Canadian dollars demanded.
+E) the lower the exchange rate, the greater is the supply of Canadian dollars.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+21) The law of supply of foreign exchange tells us that other things remaining the same,
+A) the lower the exchange rate, the greater is the quantity of Canadian dollars supplied.
+B) the higher the exchange rate, the greater is the quantity of Canadian dollars supplied.
+C) the higher the exchange rate, the greater is the supply of Canadian dollars 
+D) the lower the exchange rate, the greater is the supply of Canadian dollars.
+E) the lower the exchange rate, the smaller is the supply of Canadian dollars.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+22) The higher the exchange rate, all other things remaining the same, the 
+A) smaller is the supply of Canadian imports.
+B) smaller is the volume of Canadian imports.
+C) greater is the volume of Canadian imports.
+D) greater is the supply of Canadian imports.
+E) greater is the demand for Canadian exports.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+23) At the equilibrium exchange rate ________.
+A) the demand for dollars equals the supply of dollars
+B) a shortage may exist but a surplus may not exist
+C) a surplus may exist but a shortage may not exist
+D) the quantity of dollars demanded equals the quantity of dollars supplied
+E) the Canadian dollar is trading for 100 U.S. cents per Canadian dollar
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+Source:  MyEconLab
+
+24) In the foreign exchange market, a change in which of the following will result in a movement along the demand curve for Canadian dollars?
+A) the U.S. interest rate
+B) the Canadian interest rate
+C) the exchange rate 
+D) the expected future exchange rate
+E) both A and B
+Answer:  C
+Type: MC
+
+25) Consider the market for Canadian dollars. If the exchange rate rises from 2 Mexican pesos per dollar to 4 Mexican pesos per dollar, ________.
+A) a movement up along the demand curve for Canadian dollars occurs
+B) a movement down along the demand curve for Canadian dollars occurs
+C) the demand for Canadian dollars increases
+D) the demand for Canadian dollars decreases
+E) none of the above
+Answer:  A
+Type: MC
+
+26) If the equilibrium exchange rate is 110 yen per dollar and the current exchange rate is 120 yen per dollar, then the ________.
+A) supply curve of Canadian dollars shifts rightward
+B) demand curve for Canadian dollars shifts rightward
+C) supply curve of Canadian dollars shifts leftward
+D) demand curve for Canadian dollars shifts leftward
+E) dollar will depreciate
+Answer:  E
+Type: MC
+25.2   Exchange Rate Fluctuations
+
+1) Which one of the following shifts the demand curve for dollars rightward? 
+A) An increase in the demand for foreign goods by Canadians.
+B) A decrease in the demand for Canadian goods by foreigners.
+C) The dollar is expected to appreciate. 
+D) The dollar is expected to depreciate. 
+E) U.S. interest rates rise.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+
+2) Which of the following shifts the supply curve of Canadian dollars rightward? 
+A) An increase in the demand for foreign goods by Canadians.
+B) A decrease in the demand for Canadian goods by foreigners.
+C) The dollar is expected to appreciate. 
+D) U.S. interest rates fall.
+E) None of the above. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+
+3) Which one of the following would result in the dollar depreciating against the Japanese yen? 
+A) a fall in the Canadian interest rate
+B) a rise in the Canadian interest rate
+C) a fall in the Japanese interest rate
+D) an increase in the expected future Canadian exchange rate
+E) an increase in the Canadian interest rate differential
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+4) Which one of the following would result in the dollar appreciating against the Japanese yen? 
+A) a rise in the Canadian interest rate
+B) a fall in the Canadian interest rate
+C) a fall in the Japanese interest rate
+D) a decrease in the expected future Canadian exchange rate
+E) both A and C
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+5) The Canadian exchange rate appreciates if
+A) prices increase in the United States and other countries but remain constant in Canada.
+B) the Canadian interest rate falls.
+C) the U.S. interest rate rises.
+D) all of the above.
+E) none of the above.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+6) The Canadian exchange rate depreciates if
+A) prices increase in the United States and other countries but remain constant in Canada.
+B) the Canadian interest rate rises.
+C) the U.S. interest rate rises.
+D) all of the above.
+E) none of the above.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+7) Which of the following quotations best describes purchasing power parity?
+A) "The recent high Canadian interest rate has increased demand for the Canadian dollar."
+B) "The market feeling is that the Canadian dollar is overvalued and will likely depreciate."
+C) "The price of bananas is the same in Canada and the United States, adjusting for the exchange rate."
+D) "The expected depreciation of the Canadian dollar is currently lowering demand for it."
+E) None of the above.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+
+8) Suppose that people expect that the Canadian exchange rate will decrease in the near future.  How will this situation affect the Canadian exchange rate?
+A) The supply of Canadian dollars decreases, the demand for Canadian dollars increases and the exchange rate rises.
+B) The supply of Canadian dollars increases, the demand for Canadian dollars decreases and the exchange rate falls.
+C) The supply of Canadian dollars decreases, the demand for Canadian dollars decreases and the exchange rate falls.
+D) The supply of Canadian dollars increases, the demand for Canadian dollars decreases and the exchange rate rises.
+E) Neither the supply of Canadian dollars nor the demand for Canadian dollars changes.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+9) Suppose that a U.S. dollar can earn interest of 5 percent a year in Chicago and a Canadian dollar can earn interest of 7 percent a year in Winnipeg. Will money flow from Chicago to Winnipeg?
+A) Yes, because the returns on money are higher in Winnipeg.
+B) No, because the outflow of U.S. funds would create a decrease in the U.S. dollar value, penalizing investors when they attempted to recover their funds.
+C) No, if investors expect that the Canadian dollar will appreciate by at least 2 percent per year.
+D) No, if investors expect the U.S. dollar to appreciate by at least 2 percent per year.
+E) No, as long as the U.S. dollar maintains higher purchasing power than the Canadian dollar.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+10) If the price of a burger is $2.90 Canadian in Toronto and $3 U.S. in New York, and if purchasing power parity holds, then the exchange rate is 
+A) $1 U.S. per Canadian dollar. 
+B) $3 U.S. per Canadian dollar. 
+C) 97 cents U.S. per Canadian dollar. 
+D) 103 cents U.S. per Canadian dollar. 
+E) none of the above. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+11) Suppose the price of a burger is $4.50 Canadian in Toronto, and the exchange rate is 103 U.S. cents per Canadian dollar. Then 
+A) the price of a burger is $4.50 U.S. in New York if purchasing power parity holds. 
+B) the price of a burger is $4.64 U.S. in New York if interest rate parity holds. 
+C) the price of a burger is $4.64 U.S. in New York if purchasing power parity holds. 
+D) the Canadian dollar is expected to appreciate according to purchasing power parity. 
+E) the Canadian dollar is expected to depreciate according to purchasing power parity. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+12) Suppose the interest rate in Canada rises and the interest rate in Japan remains the same. Interest rate parity implies that given equal risk
+A) the inflation rate is higher in Japan. 
+B) Japanese financial investments are less profitable. 
+C) the yen is expected to depreciate against the dollar.
+D) the yen is expected to appreciate against the dollar. 
+E) Canadian financial investments are less profitable.
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+13) Suppose the interest rate in Canada falls and the interest rate in Japan remains the same. Interest rate parity implies that given equal risk
+A) the inflation rate is higher in Japan. 
+B) Japanese financial investments are more profitable.
+C) the yen is expected to depreciate against the dollar. 
+D) the yen is expected to appreciate against the dollar. 
+E) Canadian financial investments are less profitable. 
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+14) Suppose interest rates are 3 percent in Japan and 6 percent in Canada. The current value of the exchange rate is 110 Japanese yen per dollar, and it is generally expected that in one year the exchange rate will be 106.7 yen per dollar. Under these circumstances, 
+A) interest rate parity is violated. 
+B) an international investor could make money by borrowing in Japan and lending in Canada, assuming no transaction costs. 
+C) an international investor could make money by borrowing in Canada and lending in Japan, assuming no transaction costs. 
+D) interest rate parity is not violated. 
+E) A and C are true. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+15) Suppose interest rates are 3 percent in Japan and 6 percent in Canada. The current value of the exchange rate is 110 Japanese yen per dollar, and it is generally expected that in one year the exchange rate will be 106.7 yen per dollar. However, new information is released that changes everyone's expectations, and they think the exchange rate in one year will still be 110 yen per dollar. As a result of this change, 
+A) the demand for Canadian dollars increases. 
+B) the supply of Canadian dollars decreases. 
+C) people will borrow in Canada and lend in Japan. 
+D) the demand for Canadian dollars decreases. 
+E) A and B. 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+16) Which of the following quotations best describes interest rate parity in action?
+A) "The demand for the Canadian dollar has increased due to the recent increase in the Canadian interest rate."
+B) "The market feeling is that the Canadian dollar is overvalued and will likely appreciate."
+C) "The price of bananas is the same in Canada and the United States, adjusting for the exchange rate."
+D) "The expected appreciation of the Canadian dollar is currently lowering demand for it."
+E) none of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+17) Suppose you think that the Canadian dollar exchange rate will depreciate against the U.S. dollar over the next month.  What should you do now in anticipation of profit?
+A) Buy Canadian dollars.
+B) Buy U.S. dollars.
+C) Sell Canadian dollars.
+D) Sell U.S. dollars.
+E) Do both B and C.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+18) Suppose you think that the Canadian dollar exchange rate will appreciate against the U.S. dollar over the next month.  What should you do now in anticipation of profit? 
+A) Buy Canadian dollars.
+B) Buy U.S. dollars.
+C) Sell Canadian dollars.
+D) Sell U.S. dollars.
+E) Do both A and D.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+19) When would the exchange rate fall the most?
+A) The supply of and demand for dollars both increase.
+B) The supply of dollars increases, and the demand for dollars decreases.
+C) The supply of dollars decreases, and the demand for dollars increases.
+D) The supply of and demand for dollars both decrease.
+E) The Bank of Canada intervenes.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+
+20) When would the exchange rate rise the most?
+A) The supply of and demand for dollars both increase.
+B) The supply of dollars increases, and the demand for dollars decreases.
+C) The supply of dollars decreases, and the demand for dollars increases.
+D) The supply of and demand for dollars both decrease.
+E) The Bank of Canada intervenes.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+21) Which of the following factors move the demand curve for Canadian dollars and the supply curve of Canadian dollars in opposite directions?
+A) The interest rate differential increases or decreases.
+B) The world demand for Canadian exports increases or decreases.
+C) Canadian imports increase or decrease.
+D) The expected future exchange rate rises or falls.
+E) Both A and D above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+22) Suppose that Canada's demand for imports decreases. All other things equal, 
+A) the demand for Canadian dollars decreases and the supply of Canadian dollars increases. 
+B) the demand for Canadian dollars increases.
+C) both the supply of and demand for Canadian dollars decreases.
+D) the supply of Canadian dollars decreases.
+E) the supply of Canadian dollars decreases and demand for Canadian dollars increases.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+23) Suppose new information leads people to expect future appreciation of the Canadian dollar. Then all of the following occurs except
+A) the demand for dollars increases
+B) the supply of dollars decreases
+C) the current exchange rate rises
+D) the interest rate must rise
+E) none of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+24) Suppose the exchange rate between the Canadian dollar and the British pound is 0.5 pounds per dollar. If a radio sells for 38 pounds in Britain and purchasing power parity holds, what is the dollar price of the radio? 
+A) $19
+B) $26
+C) $38
+D) $57
+E) $76
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  Study Guide
+25) A change in the exchange rate, other things remaining the same, brings a
+A) change in the quantity of Canadian dollars demanded and a movement along the demand curve.
+B) change in the quantity of Canadian dollars demanded with no movement along the demand curve.
+C) shift of the demand curve for Canadian dollars with a movement along the demand curve.
+D) change in the quantity of Canadian dollars demanded and a shift of the demand curve.
+E) shift of the demand curve for Canadian dollars with no movement along the demand curve.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+26) A change in the exchange rate, other things remaining the same, brings a
+A) shift of the supply curve for Canadian dollars with no movement along the supply curve.
+B) change in the quantity of Canadian dollars supplied and a shift of the supply curve.
+C) shift of the supply curve for Canadian with a movement along the demand curve.
+D) change in the quantity of Canadian dollars supplied with no movement along the supply curve.
+E) change in the quantity of Canadian dollars supplied and a movement along the supply curve.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+27) Suppose that the following situation exists in the foreign exchange market.  1 Canadian dollar buys 5.77 South African rand. If the price of a bottle of South African wine is 32 rand, what is the price in Canadian dollars if purchase power parity exists?
+A) $184.64
+B) $32.00
+C) $5.55
+D) $18.46
+E) $18.02
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+28) The exchange rate is volatile because 
+A) government policy promotes interest rate fluctuation.
+B) the demand curve for foreign exchange is very flat.
+C) the demand curve for foreign exchange is very steep.
+D) the supply curve of dollars is vertical. 
+E) the supply of dollars and demand for dollars are influenced by similar events. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+29) The demand curve for dollars shifts rightward if
+A) the Canadian exchange rate falls. 
+B) the price of Canadian goods and services increases. 
+C) Canadian interest rates rise. 
+D) foreign interest rates rise. 
+E) the expected future value of the dollar falls. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+30) The supply curve of dollars shifts rightward if
+A) the Canadian exchange rate rises. 
+B) the price of Canadian goods and services decreases. 
+C) Canadian interest rates rise. 
+D) foreign interest rates rise. 
+E) none of the above. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+31) Choose the correct statements.
+1. The exchange rate is the value of the Canadian dollar expressed in units of foreign currency per Canadian dollar.
+2. The real exchange rate is the relative price of Canadian-produced goods and services to foreign-produced goods and services.
+3. The exchange rate is a measure of the quantity of the real GDP of other countries that a unit of Canadian real GDP buys.
+4. The exchange rate is the relative price of Canadian-produced goods and services to foreign-produced goods and services.
+A) Statements 1 and 2 are correct.
+B) Statements 3 and 4 are correct.
+C) Statements 1 and 3 are correct.
+D) Statements 2 and 4 are correct.
+E) Statements 2 and 3 are correct.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  MyEconLab
+32) Choose the correct statements about the real exchange rate.
+1. The real exchange rate is a measure of how much of one money exchanges for a unit of another money. 
+2. The real exchange rate is the value of the Canadian dollar expressed in units of foreign currency per Canadian dollar. 
+3. The real exchange rate is the relative price of Canadian-produced goods and services to foreign-produced goods and services. 
+4. The real exchange rate is a measure of the quantity of the real GDP of other countries that we get for a unit of Canadian real GDP. 
+A) Statements 1 and 2 are correct.
+B) Statements 2 and 4 are correct.
+C) Statements 1 and 3 are correct.
+D) Statements 3 and 4 are correct.
+E) Statements 2 and 3 are correct. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  MyEconLab
+
+33) Airbus is a European producer of airliners. Indian Airlines wants to buy 23 Airbus planes from Airbus because of an increased demand for world travel. The currency of India is the rupee. The currency of the European Union is the euro. As a result, ________.
+A) the supply curve of euros shifts rightward
+B) the supply curve of euros shifts leftward
+C) the demand curve for rupees shifts rightward
+D) the demand curve for euros shifts leftward
+E) demand curve for euros shifts rightward
+Answer:  E
+Type: MC
+
+34) Other things remaining the same, the Canadian interest rate differential increases for sure if the Canadian interest rate ________.
+A) rises and the U.S. interest rate falls
+B) rises and the U.S. interest rate rises
+C) falls and the U.S. interest rate falls
+D) falls and the U.S. interest rate rises
+E) doesn't change and the U.S. interest rate rises
+Answer:  A
+Type: MC
+
+35) Given the Canadian price level P, the foreign country price level P*, and the nominal exchange rate E in foreign currency per Canadian dollar, the real exchange rate RER equals ________.
+A) E × (P*/P)
+B) (P/P*) / E
+C) P × (E/P*)
+D) P × E × P*
+E) E × (P/P*)
+Answer:  E
+Type: MC
+36) Initially the exchange rate between the South Korean won and the Canadian dollar is 950 won per dollar. If the exchange rate rises to 1,000 won per dollar and the Canadian and South Korean price levels do not change, then in the short run the real exchange rate ________.
+A) rises
+B) falls
+C) does not change
+D) either rises, falls, or remains the same but we don't know for sure
+E) is 1,000 won per dollar
+Answer:  A
+Type: MC
+
+37) If the price level in Canada is 120, the price level in South Africa is 140, and the exchange rate is 7 South African rands per dollar, then the real exchange rate is ________.
+A) 8.2
+B) 7
+C) 6
+D) 8.4
+E) 9.8
+Answer:  C
+Type: MC
+
+25.3   Exchange Rate Policy
+
+1) Which of the following exchange rate policies uses a target exchange rate, but allows the target to change?
+A) crawling peg
+B) flexible exchange rate
+C) fixed exchange rate
+D) moving target
+E) none of the above
+Answer:  A
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+2) Suppose the Bank of Canada follows a fixed exchange rate of $1 U.S. per Canadian dollar. If the demand for Canadian dollars temporarily increases, to maintain the target exchange rate, the Bank can
+A) sell Canadian dollars.
+B) buy Canadian dollars.
+C) violate interest rate parity.
+D) violate purchasing power parity.
+E) enforce interest rate parity.
+Answer:  A
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+3) Suppose the Bank of Canada follows a fixed-exchange rate of 0.50 U.K. pounds per Canadian dollar. If the demand for dollars temporarily decreases, to maintain the target exchange rate, the Bank can
+A) sell dollars.
+B) buy dollars.
+C) increase Canadian exports.
+D) increase Canadian imports.
+E) violate purchasing power parity.
+Answer:  B
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+4) If the Bank of Canada sets a target exchange rate that is higher than the current exchange rate, then
+A) the Bank must sell dollars.
+B) the Bank must buy dollars.
+C) the Bank can do nothing in the short run.
+D) will print more dollars for foreign distribution.
+E) None of the above.
+Answer:  B
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+5) If the exchange rate is higher than the Bank of Canada's target exchange rate, the Bank
+A) implements purchasing power parity.
+B) implements interest rate parity.
+C) buys dollars.
+D) sells dollars.
+E) none of the above.
+Answer:  D
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+Refer to the figure below to answer the following questions.
+
+
+Figure 25.3.1
+
+6) In Figure 25.3.1, suppose the demand for dollars temporarily increases so that the demand curve shifts to D1. To maintain the target exchange rate, the Bank of Canada
+A) sells dollars.
+B) buys dollars.
+C) must violate interest rate parity but not purchasing power parity.
+D) must raise the target exchange rate.
+E) must lower the target exchange rate.
+Answer:  A
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+7) In Figure 25.3.1, suppose the demand for dollars temporarily decreases so that the demand curve shifts to D2. To maintain the target exchange rate, the Bank of Canada
+A) sells dollars.
+B) buys dollars.
+C) must violate both interest rate parity and purchasing power parity.
+D) must raise the target exchange rate.
+E) must lower the target exchange rate.
+Answer:  B
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+8) In Figure 25.3.1, suppose the demand for dollars permanently decreases to D2. To maintain the target, the Bank of Canada
+A) buys dollars.
+B) sells dollars.
+C) must decrease the nation's net exports.
+D) cannot permanently maintain the exchange rate target of 90 U.S. cents per Canadian dollar.
+E) none of the above.
+Answer:  D
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+9) If a nation's central bank increased domestic interest rates, the nation's exchange rate would change if the country's exchange rate was
+A) a flexible exchange rate. 
+B) a fixed exchange rate. 
+C) a crawling peg. 
+D) a nominally fixed exchange rate.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+10) China has used a fixed yuan exchange rate and a crawling peg exchange rate. In both cases, China pegs its currency to the
+A) U.S. dollar. 
+B) Japanese yen. 
+C) euro. 
+D) Mexican peso.
+E) Russian ruble.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+11) If a country's central bank does not intervene in the foreign exchange market, the country has
+A) a crawling peg exchange rate policy.
+B) a fixed exchange rate policy.
+C) a flexible exchange rate policy.
+D) no exchange rate policy.
+E) a responsible exchange rate policy.
+Answer:  C
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+12) If a country's currency appreciates and its official holdings of foreign currency increase. The central bank is ________ foreign currency to limit the appreciation, and the official settlements account balance is ________.
+A) buying; negative
+B) selling negative
+C) buying; positive
+D) selling; positive
+E) buying; zero
+Answer:  A
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+13) One consequence of China operating a crawling peg is that China ________.
+A) is accumulating U.S. dollar reserves
+B) will eventually run out of foreign reserves, and the yuan will depreciate
+C) will eventually run out of foreign reserves, and the yuan will appreciate
+D) will become more competitive in the long run
+E) none of the above
+Answer:  A
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+14) The Bank of Canada ________.
+A) has no influence on the exchange rate 
+B) sells Canadian dollars to the United States in an attempt to depreciate the Canadian dollar and increase Canadian exports to the United States
+C) alternates between a flexible, fixed, and crawling peg exchange rate policy depending on economic conditions 
+D) follows a flexible exchange rate policy, although the Bank's actions can impact the exchange rate 
+E) buys Canadian dollars from the United States in an attempt to depreciate the Canadian dollar and increase Canadian exports to the United States
+Answer:  D
+Type: MC
+
+15) All of the following statements are true except ________.
+A) China's exchange rate policy increases exports in the long run 
+B) China's exchange rate policy is mainly an attempt to control inflation 
+C) China's exchange rate policy results in a yuan that has a lower foreign exchange rate against the U.S. dollar than it would otherwise have 
+D) China's exchange rate policy does not impact the real exchange rate in the long run 
+E) All of the above are true.
+Answer:  A
+Type: MC
+25.4   Financing International Trade
+
+1) If the current account is in surplus and the capital and financial account is also in surplus, then the official settlements account balance is
+A) negative.
+B) positive.
+C) probably close to zero, but could be either negative or positive.
+D) zero. 
+E) equal to the sum of the current account and the capital account.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+2) If the current account is in deficit and the capital and financial account is also in deficit, then the official settlements account balance is
+A) negative.
+B) positive.
+C) probably close to zero, but could be either negative or positive.
+D) zero. 
+E) equal to the sum of the current account and the capital account.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+3) NX =
+A) C + I + G.
+B) (S + I) - (T + G).
+C) (G - T) + (I - S).
+D) (S - I) + (G - T).
+E) (T - G) + (S - I).
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+4) Which one of the following transactions would be recorded as a positive entry in the Canadian balance of payment accounts? 
+A) A Canadian tourist spends $3,000 while visiting France. 
+B) A Canadian tourist spends $3,000 while visiting Banff. 
+C) A Canadian citizen purchases a U.K. government bond. 
+D) A Canadian corporation sends interest payments on outstanding bonds to U.S. citizens. 
+E) A French tourist spends $3,000 while visiting Banff.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+5) Complete the following sentence. Foreign borrowing 
+A) always leads to a lower level of consumption in the future for the debtor nation because part of its future GDP is used to pay off the foreign debt. 
+B) always leads to a higher level of consumption in the future for the debtor nation because foreign borrowing enables a greater than otherwise possible increase in the nation's capital stock. 
+C) could lead to higher consumption levels in the future, if the borrowing is used to finance investment that generates economic growth. 
+D) could lead to lower consumption levels in the future, if the borrowing is used for current consumption. 
+E) C and D
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+Use the information below to answer the following questions.
+
+Fact 25.4.1
+
+You are given the following information about the country of Ecoland, whose currency is the turkey, and whose official settlements balance is zero.
+
+
+
+6) Refer to Fact 25.4.1. What is the value of the private sector deficit or surplus? 
+A) zero
+B) -3 billion turkies
+C) -1 billion turkies
+D) -2 billion turkies
+E) +1 billion turkies
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+7) Refer to Fact 25.4.1. What is the value of the capital account and financial balance for Ecoland, given the value of net interest income plus net transfers is +3 billion turkies?
+A) +3 billion turkies
+B) +6 billion turkies
+C) -3 billion turkies
+D) -1 billion turkies
+E) zero
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+8) Refer to Fact 25.4.1. What is the current account balance for Ecoland, given the value of net interest income plus net transfers is +3 billion turkies? 
+A) -3 billion turkies
+B) -6 billion turkies
+C) +3 billion turkies
+D) +1 billion turkies
+E) zero
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+9) Refer to Fact 25.4.1. What is the net exports? 
+A) -2 billion turkies
+B) -1 billion turkies
+C) 3 billion turkies
+D) -3 billion turkies
+E) 1 billion turkies
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+10) Refer to Fact 25.4.1. What is the imports? 
+A) 13 billion turkies
+B) 7 billion turkies
+C) 11 billion turkies
+D) 9 billion turkies
+E) 12 billion turkies
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+11) Refer to Fact 25.4.1. What is the amount of saving by the people of Ecoland? 
+A) 8 billion turkies
+B) 10 billion turkies
+C) 20 billion turkies
+D) 6 billion turkies
+E) 12 billion turkies
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+12) Refer to Fact 25.4.1. What is the amount of net taxes? 
+A) 10 billion turkies
+B) 12 billion turkies
+C) 2 billion turkies
+D) 8 billion turkies
+E) 14 billion turkies
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+13) A debtor nation is one that during its entire history has 
+A) lent more to the rest of the world than it has borrowed from it.
+B) borrowed more from the rest of the world than it has lent to it.
+C) invested more in the rest of the world than has been invested in it. 
+D) a public sector deficit that is larger than its net exports. 
+E) had a government debt. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+14) If Northland is currently a net lender and a debtor nation,
+A) it has loaned more than it borrowed from the rest of the world this year, but borrowed more than it loaned during its history. 
+B) it has borrowed more from the rest of the world than it loaned this year and also borrowed more than it loaned during its history. 
+C) it has loaned more than it borrowed from the rest of the world this year and has loaned more than it borrowed during its history. 
+D) its accounting system must be in error if it shows the nation to be a net lender and a debtor nation at the same time. 
+E) its debts must be currently growing. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+15) Suppose that a country's government expenditures are $500 billion, net taxes are $400 billion, saving is $200 billion, and investment is $250 billion. The country has a government budget 
+A) surplus and a private sector surplus. 
+B) surplus and a private sector deficit. 
+C) deficit and a private sector surplus. 
+D) deficit and a private sector deficit. 
+E) surplus and a private sector balance. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+16) Suppose that a country's government expenditures are $500 billion, net taxes are $400 billion, saving is $200 billion, and investment is $250 billion. Net exports are a 
+A) surplus of $150 billion. 
+B) surplus of $50 billion. 
+C) deficit of $150 billion. 
+D) deficit of $50 billion. 
+E) deficit of $250 billion. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+17) Suppose that a country's government expenditures are $400 billion, net taxes are $300 billion, saving is $300 billion, and investment is $250 billion. There is a private sector
+A) surplus of $150 billion. 
+B) surplus of $50 billion. 
+C) deficit of $150 billion. 
+D) deficit of $50 billion. 
+E) deficit of $250 billion. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+18) Suppose that a country's government expenditures are $400 billion, net taxes are $300 billion, saving is $300 billion, and investment is $250 billion. This country has a government budget 
+A) surplus and a private sector surplus. 
+B) surplus and a private sector deficit. 
+C) deficit and a private sector surplus. 
+D) deficit and a private sector deficit. 
+E) surplus and a private sector balance. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+
+19) Suppose that a country's government expenditures are $400 billion, net taxes are $300 billion, saving is $300 billion, and investment is $250 billion. Net exports are a 
+A) surplus of $150 billion. 
+B) surplus of $50 billion. 
+C) deficit of $150 billion. 
+D) deficit of $50 billion. 
+E) deficit of $250 billion. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+Use the table below to answer the following questions.
+
+Table 25.4.1
+
+
+
+20) Refer to Table 25.4.1. If Mengia's official settlement balance was in balance every year, for which year or years can you say for sure there was a current account surplus?
+A) year 4 only
+B) year 2 only
+C) years 2 and 3
+D) years 1 and 2
+E) years 3 and 4
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+
+21) Refer to Table 25.4.1. If Mengia's official settlement balance was in surplus every year, for which year or years can you say for sure there was a current account deficit?
+A) year 1 only
+B) year 2 only
+C) years 2 and 3
+D) years 1 and 2
+E) years 3 and 4
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+
+22) Refer to Table 25.4.1. If Mengia's official settlement balance was in deficit every year, for which year or years can you say for sure there was a current account surplus?
+A) year 1 only
+B) year 2 only
+C) years 2 and 3
+D) years 1 and 2
+E) years 3 and 4
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+23) Refer to Table 25.4.1. The country Mengia came into existence at the beginning of year 1. Given the information, in year 4 Mengia is a 
+A) net lender and a creditor nation. 
+B) net lender and a debtor nation. 
+C) net borrower and a creditor nation. 
+D) net borrower and a debtor nation. 
+E) net lender and neither a creditor nor a debtor nation. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+
+24) Suppose initially Canada has all its international payments accounts in balance (no surplus or deficit). Then Canadian firms increase the amount they export to Japan, and the Japanese finance the increase by borrowing from Canada. In Canada everything else remaining the same there will now be a 
+A) current and financial account surplus and capital account surplus. 
+B) current and financial account surplus and capital account deficit. 
+C) current and financial account deficit and capital account surplus. 
+D) current and financial account deficit and capital account deficit. 
+E) current and financial account deficit and capital account balance. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+25) Suppose initially Canada has all its international payments accounts in balance (no surplus or deficit). Then Canadian firms increase the amount they import from Japan, financing that increase by borrowing from Japan. Everything else remaining the same there will now be a current and financial account 
+A) surplus and a capital account surplus. 
+B) surplus and a capital account deficit. 
+C) deficit and a capital account surplus. 
+D) deficit and a capital account deficit. 
+E) surplus and a capital account balance. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+
+26) Which one of the following is a balance of payments account?
+A) capital and financial account
+B) foreign exchange account
+C) saving account
+D) trade account
+E) all of the above
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+27) Which one of the following is a balance of payments account? 
+A) current account
+B) borrowing account
+C) official lending account
+D) net interest account
+E) public account
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+28) Between 1999 and 2008, Canada was a 
+A) a net borrower from the rest of the world. 
+B) a net lender to the rest of the world. 
+C) neither a borrower nor a lender to the rest of the world. 
+D) borrowing and lending in equal amounts with the rest of the world. 
+E) none of the above 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+29) A creditor nation is a country  
+A) that has contributed money for the advancement of health care in less developed countries. 
+B) that does not borrow money from foreign nations. 
+C) that during its entire history has invested more in the rest of the world than other countries have invested in it. 
+D) that has active monetary policy to ensure adequate loans for housing of the poor. 
+E) whose official settlements account is rising in value. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+30) The change in Canadian official reserves is recorded in the 
+A) current account. 
+B) capital and financial account. 
+C) consumption expenditure account. 
+D) international investment account. 
+E) official settlements account. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+31) The current account records  
+A) net exports, net interest income and net transfers. 
+B) net value of Canadian investments and foreign investments.
+C) current government expenditure. 
+D) current consumption expenditure.  
+E) current investment.  
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+32) The official settlements account measures the 
+A) value of Canadian merchandise purchased by foreigners. 
+B) net value of foreign goods officially purchased by Canada. 
+C) net value of Canadian official exports of services. 
+D) change in the government's holdings of foreign currency. 
+E) change in Canada's net exports. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+33) In 2010, the largest item in the current account is 
+A) exports. 
+B) imports. 
+C) net interest income. 
+D) net transfers. 
+E) foreign investment in Canada. 
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+34) Canada's balance of payments accounts are the
+A) current account, capital and financial account, and net interest account. 
+B) capital and financial account, official settlements account, and merchandise trade account. 
+C) current account, capital and financial account, and official settlements account. 
+D) official settlements account, current account, and net interest account. 
+E) capital and financial account, current account, and merchandise trade account. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+35) The world's largest net borrower and debtor nation, ________, borrows internationally to finance ________.
+A) the United States; consumption
+B) the United States; private and public investment
+C) China; consumption
+D) China; private and public investment
+E) Japan; consumption
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+Source:  MyEconLab
+36) The private sector balance and the government sector balance tend to move in ________. Net exports respond ________.
+A) opposite directions; closely to the government sector balance
+B) the same direction; to the sum of the government sector and private sector balances
+C) the same direction; closely to the government sector balance
+D) opposite directions; to the sum of the government sector and private sector balances
+E) the same direction; to changes in the exchange rate
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+Source:  MyEconLab

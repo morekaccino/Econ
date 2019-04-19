@@ -1,0 +1,969 @@
+Chapter 30   Monetary Policy
+
+30.1   Monetary Policy Objectives and Framework
+
+1) Core inflation is the percentage change in
+A) the Consumer Price Index including the eight most volatile prices.
+B) an inflation rate that ranges between 1 percent and 3 percent annually.
+C) the Consumer Price Index excluding the eight most volatile prices.
+D) the average of the 8 most volatile prices in the Consumer Price Index.
+E) the target midpoint inflation rate of 2 percent per year.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+2) How is responsibility for monetary policy set forth in Canada?
+A) The Canadian Government administers monetary policy through the office of the Minister of Finance.
+B) The Bank of Canada administers monetary policy as directed by the Minister of Finance.
+C) The Bank of Canada Act places responsibility for the conduct of monetary policy on the Bank's Governing Council.
+D) The Prime Minister bears ultimate responsibility for monetary policy.
+E) Both B and D.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+3) Which of the following benefits flow from the application of an inflation-control target?
+A) If actual inflation exceeds the target range, the Bank of Canada can induce a recession to correct the matter.
+B) The monetary authorities can change the target range whenever they feel it is appropriate.
+C) People can make decisions with an understanding that inflation rates will remain relatively low.
+D) Financial market traders have a clearer understanding of the Bank of Canada's intentions.
+E) Both C and D.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+ 
+4) Which of the following issues is a concern that critics express about the use of an inflation-control target?
+A) The policy control rests in the hands of civil servants rather than in the hands of elected officials.
+B) The policy control rests in the hands of elected officials rather than in the hands of civil servants.
+C) It encourages a focus on real GDP growth at the expense of employment and of inflation.
+D) It encourages a focus on inflation at the expense of employment and real GDP growth.
+E) Monetary policy tends to be sensitive to the state of employment while focusing on inflation control targets.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+5) Who are the members of the Bank of Canada's Governing Council?
+A) The Ministers of Finance from each province as well as the Federal Minister of Finance.
+B) The Prime Minister, the Minister of Finance, and the Bank's Governor.
+C) The Minister of Finance, the Governor, and four Deputy Governors.
+D) The Bank's Governor, Senior Deputy Governor, and four Deputy governors who are appointed by the Prime Minister to represent the public interest.
+E) The Bank's Governor, Senior Deputy Governor, and four Deputy Governors.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+6) How is consultation between the Bank of Canada and the Government of Canada on monetary policy arranged? 
+A) Consultations are arranged at the discretion of the Minister of Finance.
+B) No consultation is required or needed.
+C) The Bank of Canada Act requires regular consultations between the Governor and the Minister of Finance.
+D) Consultations are arranged at the discretion of the Governor of the Bank of Canada.
+E) Consultations are arranged through the Parliamentary Committee on Finance.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+ 
+7) Why does the Bank of Canada pay close attention to the core inflation rate in addition to the overall CPI inflation rate?
+A) The core rate is more volatile and therefore a better predictor of trend inflation.
+B) The core rate includes taxes, while the overall CPI rate does not.
+C) The core rate has a lower average value and therefore makes the Bank look better.
+D) The core rate is less volatile and a better predictor of future CPI inflation.
+E) The core rate excludes eight volatile prices and is therefore more likely to stay within the target band.
+Answer:  D
+Type: MC
+Topic:  Monetary Policy Objective and Framework
+Source:  Study Guide
+8) One criticism of the Bank of Canada's focus on an inflation control target is that
+A) if inflation falls below the target range a recession will result.
+B) if inflation edges above the target range, the Bank decreases aggregate demand and could create a recession.
+C) the Bank pays too much attention to unemployment and real GDP growth and not enough to inflation control.
+D) it makes setting expectations of inflation difficult.
+E) the Bank rarely achieves its target.
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Objective and Framework
+Source:  Study Guide
+
+9) The objective of the Bank of Canada's monetary policy is
+A) to keep the unemployment rate below 5 percent, the inflation rate between 1 and 3 percent a year, and long-term real GDP growth above 4 percent a year.
+B) to control the quantity of money and interest rates to avoid inflation and when possible prevent excessive swings in real GDP growth and unemployment.
+C) to keep the unemployment rate below 5 percent, the inflation rate between 1 and 3 percent a year, and long-term interest rates below 4 percent a year.
+D) to keep the labour force participation rate above 80 percent, the inflation rate below 2 percent a year, and the exchange rate fluctuating by less than 3 percent a year.
+E) to keep the overnight loans rate below 2 percent a year and the unemployment rate at its natural rate.
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Objective and Framework
+Source:  MyEconLab
+
+ 
+10) The two parts of the inflation-control target are that the inflation-control target range will be ________ percent a year, and policy will aim at keeping the trend of inflation at ________ percent a year.
+A) 3 to 5; 4
+B) 1 to 3; 2
+C) 2 to 4; 3
+D) 0 to 2; 1
+E) -1 to 1; 0
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Objective and Framework
+Source:  MyEconLab
+
+11) Choose the statement that is incorrect.
+A) The actual path of the CPI was on trend from 1995 through 1998.
+B) Between 1999 and 2001, the CPI moved below the 2 percent trend line.
+C) The actual path of the CPI was below trend from 2001 through 2007.
+D) The Bank of Canada and the Government of Canada agree that the inflation-control target range will be 1 percent to 3 percent.
+E) All of the above statements are incorrect. 
+Answer:  C
+Type: MC
+12) The current Governor of the Bank of Canada is 
+A) Stephen Harper.
+B) Mark Carney.
+C) David Dodge.
+D) Paul Martin.
+E) Ben Bernanke.
+Answer:  B
+Type: MC
+
+ 
+30.2   The Conduct of Monetary Policy
+
+1) As the sole issuer of Canadian money, the Bank of Canada can set any one of three variables:
+A) the monetary base, the exchange rate, and the short-term interest rate.
+B) the money base, the interest rate, and the unemployment rate.
+C) the rate of inflation, the interest rate, and the unemployment rate.
+D) the exchange rate, the interest rate, and the inflation rate.
+E) the inflation rate, the unemployment rate, and the real economic growth rate.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+2) What is the overnight loans rate?
+A) The percentage change in the volume of loans that take place overnight.
+B) The interest rate that the Bank of Canada charges chartered banks.
+C) The interest rate on loans that the big banks make to each other.
+D) The volume of loans that take place during the night.
+E) The interest rate that the Bank of Canada pays when it buys securities from chartered banks.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+3) How can the Bank of Canada use the bank rate to regulate the overnight loans rate?
+A) The overnight loans rate is set at a quarter percentage point above the bank rate, which in turn is set by the Bank of Canada.
+B) The bank rate is set at the settlement balances rate plus 0.25 percentage points.
+C) The bank rate is set at 0.25 percentage points below the settlement balances rate, which is used to determine the overnight loans rate.
+D) The overnight loans rate is set at 25 basis points above the bank rate.
+E) The bank rate is set at the target overnight rate plus 0.25 percentage points.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+4) 25 basis points is
+A) a quarter of a percentage point.
+B) a quarter of the Bank of Canada's target inflation rate.
+C) the spread between the savings rate and the lending rate.
+D) the spread between the bank rate and the settlement balances rate.
+E) the gap by which real GDP exceeds potential GDP.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+ 
+5) The operating band is
+A) the interest rate that is established through an open market operation.
+B) the target overnight interest rate plus or minus 25 basis points.
+C) the target inflation rate plus or minus a quarter of a percentage point.
+D) a half percentage point range in the target inflation rate.
+E) the range between the lending rate and the borrowing rate.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+6) The settlement balances rate is the
+A) proportion of outstanding loans from chartered banks that are resolved.
+B) interest rate that the Bank of Canada charges the big banks on loans.
+C) interest rate paid to chartered banks on their reserves held at the Bank of Canada.
+D) ratio of the value securities sold by the Bank of Canada to securities outstanding.
+E) proportion of overnight inter-bank loans that are resolved.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+7) The policy tools used by the Bank of Canada include 
+A) prime rate and bank rate. 
+B) the operating band and open market operations. 
+C) open market operations and prime rate. 
+D) prime rate and the exchange rate. 
+E) the exchange rate and open market operations. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+8) How does the Bank of Canada set the bank rate?
+A) The Bank of Canada does not determine the bank rate.
+B) The bank rate is set at a quarter percentage point above the prime lending rate.
+C) The bank rate is set at a quarter percentage point above the target overnight loans rate.
+D) The bank rate is set at a quarter percentage point below the overnight loans rate.
+E) The bank rate is set at 25 basis points above the operating band.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+ 
+9) An open market operation
+A) refers to the Bank of Canada's sales and purchases of corporate stock. 
+B) can change bank deposits but cannot alter the quantity of money.
+C) is the purchase or sale of government of Canada securities by the Bank of Canada from or to a chartered bank or the public.
+D) refers to loans made by the Bank of Canada to chartered banks. 
+E) refers to the purchase or sale of Canadian currency in exchange for foreign currency. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+10) The bank rate is the interest rate 
+A) banks charge their very best loan customers. 
+B) banks pay on term deposits. 
+C) the Bank of Canada pays on reserves held by banks. 
+D) the Bank of Canada charges when it lends reserves to the big banks. 
+E) received for holding Government of Canada Treasury Bills. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+
+11) The overnight loans rate is the interest rate 
+A) banks charge their best loan customers. 
+B) banks pay on term deposits. 
+C) the Bank of Canada pays on reserves held by banks. 
+D) the Bank of Canada charges when it lends reserves to banks. 
+E) on overnight loans that the big banks make to each other.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+12) The Bank of Canada can lower the overnight loans rate by
+A) raising the bank rate.
+B) lowering the bank rate.
+C) raising the settlement balances rate.
+D) lowering the settlement balances rate.
+E) both B and D.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+ 
+13) The sale of government bonds by the Bank of Canada
+A) lowers interest rates.
+B) decreases bank reserves.
+C) increases the quantity of money.
+D) increases the banks' loans to the public.
+E) increases bank reserves.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+14) The purchase of government bonds by the Bank of Canada
+A) decreases bank reserves.
+B) increases bank loans.
+C) decreases the price of bonds.
+D) fights inflation.
+E) tightens credit conditions.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+15) If the Bank of Canada aims to lower the overnight rate, it will
+A) lower the bank rate and settlement balances rate, as well as buy government securities.
+B) lower the bank rate, increase the settlement balances rate, as well as buy government securities.
+C) lower the bank rate and settlement balances rate, as well as sell government securities.
+D) raise the bank rate and settlement balances rate, as well as buy government securities.
+E) raise the bank rate and settlement balances rate, as well as sell government securities.
+Answer:  A
+Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+
+16) In an open market operation aimed at increasing expenditure, the Bank of Canada
+A) sells government bonds, decreasing bank reserves, decreasing lending, decreasing the overnight rate.
+B) sells government bonds, decreasing bank reserves, decreasing lending, increasing the overnight rate.
+C) sells government bonds, decreasing bank reserves, increasing lending, increasing the overnight rate.
+D) buys government bonds, increasing bank reserves, increasing lending, decreasing the overnight rate.
+E) buys government bonds, increasing bank reserves, increasing lending, increasing the overnight rate.
+Answer:  D
+Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+17) The current overnight loans rate is 3 percent, with the Bank of Canada's operating band set at 2.75 to 3.25 percent. If the Bank of Canada lowers their operating band to 2.25 to 2.75 percent, which of the following is one of the reasons the overnight rate will fall to within this new range?
+A) Since the banking system can now borrow from the Bank of Canada at 2.75 percent, no bank would borrow on the overnight loan market at 3 percent.
+B) Since the banking system can now borrow from the Bank of Canada at 2.25 percent, no bank would borrow on the overnight loan market at 3 percent.
+C) Since the banking system can now earn 2.75 percent from the Bank of Canada, no bank would lend on the overnight loan market at 3 percent.
+D) Since the banking system can now earn 2.25 percent from the Bank of Canada, no bank would lend on the overnight loan market at 3 percent.
+E) There is a legal requirement that the overnight rate must be within the Bank of Canada's operating band.
+Answer:  A
+Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+
+18) The overnight rate is determined by equilibrium in the market for ________. The overnight rate ________.
+A) loanable funds; equals the real interest rate minus the inflation rate
+B) reserves; is the rate that sets the quantity of reserves demanded equal to the quantity of reserves supplied
+C) loanable funds; equals the real interest rate
+D) reserves; equals the real interest rate minus the inflation rate
+E) money; equals the real interest rate
+Answer:  B
+Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  MyEconLab
+
+19) Choose the statement that is incorrect.
+A) The Bank of Canada's choice of policy instrument is the overnight loans rate.
+B) When the Bank of Canada wants to slow inflation, it raises the overnight loans rate.
+C) The Bank has established 12 fixed dates each year on which it announces its overnight rate target for the coming period.
+D) Recently, the overnight loans rate has been at historically low levels because the Bank is leaning in the direction of avoiding recession.
+E) The overnight rate was a bit more than 8 percent a year in 1995.
+Answer:  C
+Type: MC
+
+ 
+20) If the overnight rate is above target, the Bank ________ securities to ________ reserves, which ________ the supply of overnight funds and ________ the overnight rate.
+A) buys; increase; decreases; raises
+B) sells; increase; increases; lowers
+C) buys; decrease; decreases; raises
+D) sells; decrease; decreases; raises
+E) buys; increase; increases; lowers
+Answer:  E
+Type: MC
+21) If the overnight rate is below target, the Bank ________ securities to ________ reserves, which ________ the supply of overnight funds and ________ the overnight rate.
+A) buys; increase; decreases; raises
+B) sells; increase; increases; lowers
+C) buys; decrease; decreases; raises
+D) sells; decrease; decreases; raises
+E) buys; increase; increases; lowers
+Answer:  D
+Type: MC
+
+ 
+30.3   Monetary Policy Transmission
+
+1) If the Bank of Canada buys government bonds, all of the following happens except
+A) bank reserves increase.
+B) the quantity of money increases.
+C) the supply of loanable funds increases.
+D) the bank rate rises.
+E) net exports increase.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+2) Which of the following quotations correctly describes the impact of monetary policy on the economy?
+A) "House sales are down lots, due to the higher money growth."
+B) "The extra money pumped into the economy by the central bank is creating less exports."
+C) "The tightening of money growth is helping sell goods abroad."
+D) "Businesses are investing more, now that monetary policy has become less expansionary."
+E) "The extra money pumped into the economy by the central bank is creating more jobs."
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+3) Which of the following quotations correctly describes the impact of monetary policy on the economy?
+A) "House sales are down lots, due to the higher money growth."
+B) "The extra money pumped into the economy by the central bank is creating more exports."
+C) "The tightening of money growth is helping sell goods abroad."
+D) "Businesses are investing more, now that monetary policy has become less expansionary."
+E) "The extra money pumped into the economy by the central bank is creating fewer jobs."
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+4) Monetary policy is difficult to conduct because
+A) the monetary policy transmission process is long and drawn out.
+B) the tools available don't work.
+C) politicians frequently block the policy's intended outcomes.
+D) the interest rate always rises.
+E) it takes several years for the real GDP growth rate to respond to a change in the interest rate.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+ 
+5) To lower interest rates, the Bank of Canada can
+A) increase the treasury bill rate.
+B) raise the exchange rate.
+C) buy government securities.
+D) decrease bank reserves.
+E) raise the bank rate.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+6) To decrease aggregate demand, the Bank of Canada can
+A) raise the overnight loans rate, which decreases the quantity of money.
+B) lower the overnight loans rate, which increases the quantity of money.
+C) lower the overnight loans rate, which decreases the quantity of money.
+D) raise the overnight loans rate, which increases the quantity of money.
+E) raise the overnight loans rate, which decreases the government budget deficit.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+7) Which of the following statements correctly describes an anti-inflationary monetary policy?
+A) "The Bank of Canada's recent purchases of government securities is stimulating the housing sector."
+B) "The Bank of Canada's recent moves to lower interest rates are behind the recent decreases in the value of the Canadian dollar."
+C) "The Bank of Canada's recent moves to increase the overnight loans rate are leading to less lending and less consumer spending."
+D) "The Bank of Canada's recent sales of government securities are stimulating the housing sector."
+E) "The Bank of Canada's recent moves to decrease the value of the Canadian dollar are leading to more spending in the economy."
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+8) Which statement below best expresses the relationship between the 3-month Treasury bill rate and the overnight loans rate? The rates are
+A) not similar because banks can not readily substitute between them.
+B) similar because they are both required to remain with the Bank of Canada's operating band.
+C) similar because banks can readily substitute between them.
+D) not similar because the treasury bill rate is established through the financial markets whereas the overnight loans rate is set by the Bank of Canada.
+E) not similar because the treasury bill rate is set by the Government of Canada whereas the overnight loans rate is set by the Bank of Canada.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+9) An increase in the quantity of money leads to
+A) an increase in short-run aggregate supply.
+B) a decrease in net exports.
+C) a decrease in real GDP.
+D) a decrease in the price level.
+E) an increase in aggregate demand.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+10) In a situation of inflationary pressure, an increase in the overnight loans rate results in
+A) an increase in real GDP and the price level.
+B) an increase in real GDP, but a fall in the price level.
+C) an increase in real GDP, but no change in the price level.
+D) a rise in the price level, but no change in real GDP.
+E) a fall in the price level and a decrease in real GDP.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+11) The purchase of government bonds by the Bank of Canada
+A) raises the overnight loans rate.
+B) decreases bank reserves.
+C) decreases the supply of loanable funds.
+D) increases aggregate demand.
+E) decreases the quantity of money.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+ 
+Use the figure below to answer the following questions.
+
+ 
+
+Figure 30.3.1
+
+12) Refer to Figure 30.3.1. Everything else remaining the same, which graph best illustrates the effect of the Bank of Canada lowering the overnight rate?
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) none of the above
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+ 
+13) Refer to Figure 30.3.1.  Everything else remaining the same, which graph best illustrates the effect of the Bank of Canada raising the overnight rate?
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) none of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+14) If the Bank of Canada buys government securities in the open market, the supply curve of real money shifts
+A) leftward and the overnight rate rises.
+B) leftward and the overnight rate falls.
+C) rightward and the overnight rate rises.
+D) rightward and the overnight rate remains constant because the demand for money increases at the same time.
+E) none of the above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Source:  Study Guide
+
+15) Which of the following statements about the overnight loans rate is false?
+A) The overnight loans rate and the treasury bill rate move closely together.
+B) The overnight loans rate and the long-term bond rate trend in the same direction.
+C) The overnight loans rate is most often less than the long-term bond rate.
+D) The long-term bond rate fluctuates less than the short-term rates.
+E) The higher the overnight loans rate, the greater the quantity of money.
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Monetary Policy Transmission
+
+16) If the Bank of Canada lowers the overnight loans rate, the exchange rate ________, imports ________, and exports ________.
+A) rises; increase; increase
+B) rises; increase; decrease
+C) falls; decrease; increase
+D) falls; decrease; decrease
+E) falls; increase; decrease
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+17) If Canadian interest rates rise, the exchange rate value of the dollar ________ and net exports ________.
+A) rises; increase
+B) rises; decrease
+C) falls; increase
+D) falls; decrease
+E) rises only if the U.S. interest rates fall concurrently; decrease
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+18) When the Bank of Canada lowers the overnight loans rate, the Canadian dollar ________ on the foreign exchange market and ________.
+A) falls; aggregate demand decreases
+B) rises; aggregate demand decreases
+C) falls; the increase in imports is greater than the increase in exports
+D) falls; aggregate demand increases
+E) rises; U.S. aggregate demand decreases
+Answer:  D
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+19) The ripple effects that occur when the Bank of Canada raises the overnight loan rate include ________.
+A) a decrease in consumption expenditure and investment
+B) an increase in net exports
+C) a decrease in short-run interest rates
+D) an increase in short-run aggregate supply
+E) a decrease in short-run aggregate supply
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+20) The Bank of Canada raises the overnight loans rate. In the foreign exchange market people ________ dollars and the price of the dollar ________ because the Canadian interest rate differential ________.
+A) sell; rises; falls
+B) sell; falls; falls
+C) buy; rises; rises
+D) buy; falls; rises
+E) buy; rises; falls
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+21) If the Bank of Canada lowers the overnight loans rate,
+A) other short-term interest rates fall.
+B) other short-term interest rates rise.
+C) the exchange rate falls.
+D) the long-term interest rate falls.
+E) A, C and D are correct.
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+22) When the Bank of Canada lowers the overnight loans rate, the Canadian interest rate differential ________ and the Canadian dollar ________ on the foreign exchange market.
+A) rises; appreciates
+B) rises; depreciates
+C) falls; appreciates
+D) falls; depreciates
+E) falls; changes to equal the value of the U.S. dollar
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+23) If the Bank of Canada lowers the overnight loans rate, other short-term interest rates ________ and the exchange rate ________.
+A) fall; falls
+B) fall; does not change
+C) fall; rises
+D) do not change; falls
+E) fall, and the long-term interest rate rises; falls
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+24) When the Bank of Canada raises the overnight loans rate, other short-term interest rates
+A) fall, consumption expenditure, investment and net exports increase, and the aggregate demand curve shifts rightward.
+B) fall, consumption expenditure, investment and net exports decrease, and the aggregate demand curve shifts leftward.
+C) rise, consumption expenditure, investment and net exports decrease, and the aggregate demand curve shifts leftward.
+D) rise, consumption expenditure, investment and net exports increase, and the aggregate demand curve shifts rightward.
+E) none of the above.
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+25) A decrease in the overnight loans rate
+A) increases other short-term interest rates, decreases investment, and decreases aggregate demand.
+B) lowers the exchange rate, increases the supply of loanable funds, and increases aggregate demand.
+C) lowers other short-term interest rates, raises the real interest rate, and increases aggregate demand.
+D) decreases the demand for loanable funds, lowers the real interest rate, and decreases aggregate demand.
+E) lowers the exchange rate, increases the demand for loanable funds, and increases aggregate demand.
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+26) A decrease in the overnight loans rate leads to
+A) an increase in the quantity of money.
+B) a fall in the exchange rate.
+C) an increase in exports.
+D) an increase in consumption expenditure.
+E) all of the above.
+Answer:  E
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+27) If the Bank of Canada is concerned with recession it will ________ the overnight loans rate to ________.
+A) raise; increase aggregate demand
+B) lower; increase aggregate demand
+C) raise; decrease aggregate demand
+D) lower; decrease aggregate demand
+E) lower; increase potential GDP
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+28) When the Bank of Canada fights recession by lowering the overnight loan rate, the supply of loanable funds curve shifts ________ and the aggregate demand curve shifts ________.
+A) leftward; leftward
+B) leftward; rightward
+C) rightward; leftward
+D) rightward; rightward
+E) rightward and the demand for loanable funds curve shifts rightward; rightward
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Analytical Skills
+
+ 
+29) If the Bank of Canada wants to stimulate the economy to limit the effects of a recessionary gap, then it ________ the overnight loans rate to ________ the real interest rate and ________ investment.
+A) lowers; lower; increase
+B) lowers; raise; increase
+C) raises; raise; decrease
+D) lowers; lower; decrease
+E) lowers; raise; decrease
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+30) When the Bank of Canada lowers the overnight loans rate, there is a ________ shift of the ________ curve.
+A) rightward; AD
+B) leftward; AD
+C) rightward; SAS
+D) leftward; SAS
+E) rightward; LAS
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+31) In the short run, lowering the overnight loans rate shifts the ________ curve ________ and ________ real GDP.
+A) aggregate demand; leftward; decreases
+B) aggregate demand; rightward; increases
+C) short-run aggregate supply; rightward; increases
+D) aggregate demand; leftward; increases
+E) long-run aggregate supply; rightward; increases
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+ 
+32) The short-run effect of lowering the overnight loans rate is that the
+A) price level rises and real GDP increases.
+B) price level rises and real GDP decreases.
+C) price level lowers and real GDP increases.
+D) price level lowers and real GDP decreases.
+E) none of the above.
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+33) When the Bank of Canada fights recession by lowering the overnight loans rate, the supply of reserves curve shifts ________ and the supply of money curve shifts ________.
+A) leftward; leftward
+B) leftward; rightward
+C) rightward; leftward
+D) rightward; rightward
+E) rightward; rightward, and the demand for loanable funds increases
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+34) To combat a recession, the Bank of Canada ________ the overnight loans rate, which ________ the quantity of money.
+A) raises; increases
+B) lowers; increases
+C) raises; decreases
+D) lowers; decreases
+E) lowers; decreases the demand for bank reserves and increases
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+35) In response to an inflationary gap, the Bank of Canada
+A) waits until the price level falls before acting.
+B) lowers the overnight loans rate by selling securities.
+C) raises the overnight loans rate by selling securities.
+D) lowers the overnight loans rate by buying securities.
+E) raises the overnight loans rate by buying securities.
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+36) If the Bank of Canada wants to eliminate an inflationary gap, which of the following would be an appropriate policy?
+A) Raise the overnight loans rate.
+B) Lower the overnight loans rate.
+C) Buy government securities.
+D) Decease the government budget deficit.
+E) Lower the exchange rate.
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+37) If the Bank of Canada is concerned with inflation it will ________ the overnight loans rate to ________.
+A) raise; increase aggregate demand
+B) lower; increase aggregate demand
+C) raise; decrease aggregate demand
+D) lower; decrease aggregate demand
+E) raise; increase potential GDP
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+38) If the Bank of Canada fears inflation it will undertake an open market ________ of securities, the overnight loans rate will ________ and the long-term real interest rate will ________.
+A) sale; rise; fall
+B) sale; rise; rise
+C) purchase; rise; fall
+D) purchase; fall; rise
+E) sale; fall; fall
+Answer:  B
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+39) If a central bank wants to implement a contractionary policy that decreases real GDP, it conducts an open market operation by ________ securities. Bank reserves ________ and the supply of loanable funds ________. The quantity of money ________.
+A) selling; decrease; decreases; decreases
+B) purchasing; decrease; decreases; decreases
+C) purchasing; decrease; increases; decreases
+D) selling; increase; increases; increases
+E) purchasing; increase; increases; increases
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+40) When the Bank of Canada fights inflation by implementing an open market operation, the supply of reserves curve shifts ________ and the supply of money curve shifts ________.
+A) leftward; leftward
+B) leftward; rightward
+C) rightward; leftward
+D) rightward; rightward
+E) none of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Analytical Skills
+
+ 
+41) When the Bank of Canada fights inflation by implementing open market operations, the supply of loanable funds curve shifts ________ and the aggregate demand curve shifts ________.
+A) leftward; leftward
+B) leftward; rightward
+C) rightward; leftward
+D) rightward; rightward
+E) leftward; leftward, and potential GDP decreases
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+Skill:  Conceptual
+AACSB:  Analytical Skills
+
+42) The headline "The Bank of Canada Has Cut the Bank Rate" suggests that the Bank of Canada is trying to
+A) lower inflationary pressures.
+B) increase the overnight loans rate.
+C) stimulate aggregate demand.
+D) raise the value of the Canadian dollar.
+E) help banks make profits.
+Answer:  C
+Type: MC
+Topic:  Monetary Policy Transmission
+Source:  Study Guide
+
+43) A monetary policy aimed at increasing domestic expenditure will
+A) increase interest rates and decrease the exchange rate.
+B) have no impact on interest rates, but increase the exchange rate.
+C) have no impact on interest rates nor on the exchange rate.
+D) decrease interest rates and increase the exchange rate.
+E) decrease interest rates and the exchange rate.
+Answer:  E
+Type: MC
+Topic:  Monetary Policy Transmission
+Source:  Study Guide
+ 
+Use the figure below to answer the following question.
+
+ 
+Figure 30.3.2
+
+44) Refer to Figure 30.3.2. The figure shows the economy of Freezone. Potential GDP is $250 billion.
+To return the economy to full employment, the central bank can ________ the overnight rate and ________ securities.
+A) lower; sell
+B) raise; sell
+C) raise; buy
+D) lower; buy
+E) lower; not change its holdings of
+Answer:  D
+Type: MC
+Topic:  Monetary Policy Transmission
+Source:  MyEconLab
+ 
+Use the figure below to answer the following question.
+
+ 
+Figure 30.3.3
+
+45) Refer to Figure 30.3.3. The figure shows the economy of Freezone. Potential GDP is $350 billion.
+To return the economy to full employment, the central bank can ________ the overnight rate and ________ securities.
+A) raise; sell
+B) lower; sell
+C) lower; buy
+D) raise; buy
+E) lower; not change its holdings of
+Answer:  A
+Type: MC
+Topic:  Monetary Policy Transmission
+Source:  MyEconLab
+
+46) Which of the following does not occur as a result of the Bank of Canada lowering the overnight loans rate?
+A) the supply of loanable funds increase
+B) the long-term real interest rate falls
+C) exports increase
+D) the inflation rate decreases
+E) imports decrease
+Answer:  D
+Type: MC
+ 
+47) Which of the following does not occur as a result of the Bank of Canada raising the overnight loans rate?
+A) the supply of loanable funds decrease
+B) the long-term real interest rate rises
+C) exports decrease
+D) aggregate demand increases
+E) imports increase
+Answer:  D
+Type: MC
+
+48) Choose the correct statement.
+A) Demand and supply in the loanable funds market determine the long-term real interest rate.
+B) The long-term real interest rate influences expenditure decisions.
+C) In the short run, the supply of loanable funds is influenced by the supply of bank loans.
+D) A fall in the overnight loans rate that increases the supply of bank loans increases the supply of loanable funds and lowers the equilibrium real interest rate.
+E) All of the above are correct.
+Answer:  E
+Type: MC
+
+ 
+30.4   Extraordinary Monetary Stimulus
+
+1) What is the Taylor Rule?
+A) The overnight loan rate is set in response to the current inflation rate and to the current estimate of the output gap.
+B) The monetary base is set in response to the current inflation rate and to the current estimate of the output gap.
+C) The monetary base should grow at a rate equal to the target inflation rate plus the long-term real GDP growth rate minus the medium-term velocity growth rate.
+D) The money supply should grow at a rate equal to the long-run real growth rate.
+E) The money supply should be regulated by setting the exchange rate equal to purchasing power parity with other countries.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Extraordinary Monetary Stimulus
+
+2) Suppose the Bank of Canada uses the Taylor rule to set the overnight loans rate.  If the inflation rate is 3 percent, and the output gap is 0 percent, then the Taylor rule sets the overnight rate equal to
+A) 5 percent.
+B) 5.5 percent.
+C) 0 percent.
+D) 2.5 percent.
+E) 6 percent.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Extraordinary Monetary Stimulus
+3) Suppose the inflation rate is 2.5 percent, and the output gap is 1 percent.  Using the Taylor rule, the Bank of Canada sets the overnight loans rate equal to
+A) 3 percent.
+B) 3.5 percent.
+C) 5.25 percent.
+D) 5.5 percent.
+E) 5.75 percent.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Extraordinary Monetary Stimulus
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+4) Suppose the inflation rate is 3 percent and the output gap is -1 percent. Using the Taylor rule, the Bank of Canada sets the overnight loans rate equal to
+A) 5 percent.
+B) 6 percent.
+C) 4 percent.
+D) 1 percent.
+E) 5.5 percent.
+Answer:  A
+Type: MC
+Topic:  Extraordinary Monetary Stimulus
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+5) Which of the following can put a bank under stress?
+A) a widespread fall in asset prices
+B) a significant currency drain
+C) an increase in the number of customers using tellers
+D) an increase in the number of customers applying for loans
+E) Both A and B are correct.
+Answer:  E
+Type: MC
+
+6) Which of the following central banks does not follow an inflation rate targeting strategy?
+A) The Federal Reserve (the central bank of the United States)
+B) The Bank of Canada
+C) The Reserve Bank of Australia
+D) The Bank of England
+E) The European Central Bank (the central bank of the Eurozone)
+Answer:  A
+Type: MC
+7) Consider policy actions in a financial and banking crisis.
+________ addresses the problem of ________.
+A) The extension of deposit insurance; solvency
+B) An open market operation; liquidity
+C) Swapping government securities for toxic assets; solvency
+D) Buying bank shares; liquidity
+E) Fair value accounting; liquidity
+Answer:  B
+Type: MC

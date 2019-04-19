@@ -1,0 +1,187 @@
+4) Which one of the following newspaper quotations describes a shift of only the SAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the work force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+
+Answer:  C
+----------------------------------
+8) Complete the following sentence. Potential GDP
+A) increases as the price level rises.
+B) is the level of real GDP when unemployment is zero. 
+C) increases as the quantity of money in the economy increases.
+D) does not vary with the price level. 
+E) never changes. 
+
+Diff: 2    Type: MC
+Topic:  Aggregate Supply
+
+
+Answer:  D
+----------------------------------
+1) Aggregate demand 
+A) measures the amount of a nation's goods and services that people are willing to buy.
+B) measures the amount of a nation's labour, capital, and technology that people are willing to buy. 
+C) is the relationship between the quantity of real GDP  demanded and the price level.
+D) increases when the price level falls.
+E) both C and D are correct.
+
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+
+
+Answer:  C
+----------------------------------
+2) Which of the following situations illustrates how fiscal policy can influence aggregate demand?
+A) The Bank of Canada raises interest rates so people plan to buy less consumer durables.  As a result, the aggregate demand curve shifts leftward.
+B) Investors, anticipating an erosion of financial wealth due to inflation, decide to save more.  As a result, aggregate demand decreases.
+C) The government reduces the goods and services tax.  As a result, consumption expenditure increases and aggregate demand increases.
+D) The exchange rate value of the Canadian dollar rises.  As a result, people living near the U.S.-Canada border increase their imports of goods and net exports decrease.
+E) Both A and C are examples of fiscal policy.
+
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+
+Answer:  C
+----------------------------------
+4) Disposable income is aggregate income
+A) minus taxes and benefits.
+B) minus taxes plus transfer payments.
+C) minus fixed expenses such as rent and utilities.
+D) plus transfer payments.
+E) minus taxes.
+
+Diff: 1    Type: MC
+Topic:  Aggregate Demand
+
+Answer:  B
+----------------------------------
+14) If a change in wealth is induced by a change in the price level, then this would be shown as a 
+A) movement along the aggregate demand curve. 
+B) shift of the aggregate demand curve due to the substitution effects. 
+C) movement along the aggregate demand curve due to the substitution effects. 
+D) movement along the aggregate supply curve. 
+E) shift of the aggregate demand curve due to the wealth effect. 
+
+Diff: 2    Type: MC
+Topic:  Aggregate Demand
+
+ 
+
+Answer:  A
+----------------------------------
+1) Which one of the following newspaper quotations describes a movement along an SAS curve?
+A) "The decrease in consumer spending may lead to a recession."
+B) "The increase in consumer spending is expected to lead to inflation, without any increase in real GDP."
+C) "Recent higher wage settlements are expected to cause higher inflation this year."
+D) "Growth has been unusually high the last few years due to more women entering the labour force."
+E) "The recent tornadoes destroyed many factories in Calgary and Edmonton."
+
+Diff: 3    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+Source:  Study Guide
+
+Answer:  A
+----------------------------------
+36) We observe an increase in the price level and an increase in real GDP. Which of the following is a possible explanation? 
+A) a decrease in the quantity of money
+B) a decrease in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in expected future profits
+
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+ 
+
+Answer:  E
+----------------------------------
+38) We observe a decrease in the price level and an increase in real GDP. Which of the following is a possible explanation? 
+A) a decrease in the quantity of money
+B) a decrease in expected future income
+C) an increase in factor prices
+D) an increase in the quantity of capital
+E) an increase in expected future profits
+
+Diff: 2    Type: MC
+Topic:  Explaining Macroeconomic Fluctuations
+
+
+Answer:  D
+----------------------------------
+1) Which of the following news quotes best describes a Keynesian view of a recession?
+A) "Rapid computerization is creating obsolete workers and higher unemployment."
+B) "The unexpectedly tight fiscal policy is raising spending and lowering unemployment."
+C) "The anti-inflationary policy of the Bank of Canada is increasing spending."
+D) "The cuts in government spending have helped lower consumer spending and created unemployment."
+E) "Businesses are very worried about future sales and have lowered their purchases of capital equipment."
+
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  Study Guide
+
+Answer:  E
+----------------------------------
+4) A ________ macroeconomist believes that business cycle fluctuations are the efficient responses of a well-functioning market economy that is bombarded by shocks that arise from the uneven pace of technological change.
+A ________ macroeconomist believes that the short-run aggregate supply curve is horizontal at a fixed price level.
+A) new classical; monetarist
+B) classical; monetarist
+C) Keynesian; new Keynesian
+D) new classical; new Keynesian
+E) monetarist; new classical
+
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+Answer:  D
+----------------------------------
+5) Which of the following statements about the monetarist view of the macroeconomy is incorrect?
+A) The money wage rate is sticky.
+B) Taxes should be kept low to avoid disincentive effects that decrease potential GDP.
+C) All recessions result from inappropriate monetary policy.
+D) Left alone, the economy rarely operates at full employment.
+E) Provided that the quantity of money is kept on a steady growth path, no active stabilization is needed to offset changes in aggregate demand.
+
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+
+Answer:  D
+----------------------------------
+6) Which of the following statements about the Keynesian view of the macroeconomy is incorrect?
+A) Technological change is the most significant influence on both aggregate demand and aggregate supply.
+B) To achieve and maintain full employment, active help from fiscal policy and monetary policy is required.
+C) Expectations are based on "animal spirits."
+D) The money wage rate is extremely sticky in the downward direction so there is no automatic mechanism for eliminating a recessionary gap.
+E) Expectations are the most significant influence on aggregate demand.
+
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+ 
+
+Answer:  A
+----------------------------------
+8) Classical macroeconomists recommend
+A) policies that actively offset changes in long-run aggregate supply that result in negative economic growth.
+B) an increase in the quantity of money to offset decreases in aggregate demand and a decrease in the quantity of money to offset increases in aggregate demand.
+C) policies that actively offset changes in aggregate demand that bring recession.
+D) policies that minimize the disincentive effects of taxes on employment, investment, and technological change.
+E) all of the above.
+
+Type: MC
+Topic:  Macroeconomic Schools of Thought
+Source:  MyEconLab
+
+Answer:  D
+----------------------------------

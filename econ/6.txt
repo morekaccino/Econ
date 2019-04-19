@@ -1,0 +1,1062 @@
+Chapter 22   Economic Growth
+
+22.1   The Basics of Economic Growth
+
+1) Economic growth is
+A) a sustained expansion of production possibilities measured as the increase in nominal GDP over a given period.
+B) a sustained expansion of consumption expenditure over a given period.
+C) always accompanied by a rising price level.
+D) equal to real GDP per capita multiplied by 70.
+E) a sustained expansion of production possibilities measured as the increase in real GDP over a given period.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+2) In 2010, Northland had real GDP of $4.21 billion and a population of 2.98 million.  In 2011, real GDP was $4.59 billion and population was 2.97 million. What was Northland's economic growth rate in 2011?
+A) 0.38 percent
+B) 3.8 percent
+C) 8.3 percent
+D) 9.0 percent
+E) 11.1 percent
+Answer:  D
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+3) In 2010, Northland had real GDP of $4.21 billion and a population of 2.98 million.  In 2011, real GDP was $4.59 billion and population was 2.97 million. Between 2010 and 2011, Northland's standard of living ________.
+A) increased
+B) decreased
+C) did not change
+D) might have increased, decreased, or remained unchanged
+E) doubled.
+Answer:  A
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Conceptual
+AACSB:  Analytical Skills
+ 
+4) In 2010, Northland had real GDP of $4.21 billion and a population of 2.98 million.  In 2011, real GDP was $4.59 billion and population was 2.97 million. Northland's real GDP per person in 2011 was
+A) $1,545.
+B) $380.
+C) $1,413.
+D) $132.
+E) $1.41.
+Answer:  A
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+5) During 2011, the country of Economia had real GDP  of $115 billion and the population was 0.9 billion.  In 2010, real GDP was $105 billion and the population was 0.85 billion.  In 2011, real GDP per person was
+A) $124.
+B) $135.
+C) $117.
+D) $12,778.
+E) $128.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+6) During 2011, the country of Economia had real GDP  of $115 billion and the population was 0.9 billion.  In 2010, real GDP was $105 billion and the population was 0.85 billion.  In 2010, real GDP per person was
+A) $128.
+B) $124.
+C) $135.
+D) $117.
+E) $1,235.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+ 
+7) Suppose a country's population grows by 2 percent a year and, at the same time, its real GDP grows by 5 percent a year. Real GDP per person is increasing by ________ a year.
+A) 2 percent
+B) 5 percent
+C) 10 percent
+D) 16 percent
+E) 3 percent
+Answer:  E
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+8) The Rule of 70 is used to
+A) estimate how much of an economy's growth rate is attributable to increases in capital per hour of labour.
+B) calculate the standard of living.
+C) calculate the economy's growth rate.
+D) estimate how long it will take the level of any variable to double.
+E) estimate how much of an economy's growth rate is attributable to technological advance.
+Answer:  D
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+9) Using the Rule of 70, if the country of Flowerdom's current growth rate of real GDP per person is 7 percent a year, how long will it take the country's real GDP per person to double?
+A) 1 year
+B) 2 years
+C) 10 years
+D) 49 years
+E) 7 years
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+10) Using the Rule of 70, if the country of Flowerdom's current growth rate of real GDP per person is 10 percent a year, how long will it take the country's real GDP per person to double?
+A) 0.7 years
+B) 1 year
+C) 10 years
+D) 49 years
+E) 7 years
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+11) Slowdonia's current growth rate of real GDP per person is 2 percent a year.  How long will it take to double real GDP per person?
+A) half a year
+B) approximately 10 years
+C) 28.6 years
+D) 35 years
+E) 2 years
+Answer:  D
+Diff: 3    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+12) Slowdonia's current growth rate of real GDP per person is 1 percent a year.  How long will it take to double real GDP per person?
+A) 10 years
+B) 35 years
+C) 70 years
+D) 100 years
+E) Real GDP per person will never double
+Answer:  C
+Diff: 3    Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+13) If real GDP per person is growing at 4 percent per year, it will double in
+A) 17.5 years.
+B) 25 years.
+C) 4 years.
+D) 8 years.
+E) 56 years.
+Answer:  A
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+14) Suppose a country is producing $20 million of real GDP.  If the economy grows at 10 percent per year, approximately how many years will to take for real GDP to grow to $80 million?
+A) 14
+B) 7
+C) 4
+D) 30
+E) 3.5 years
+Answer:  A
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+15) Real GDP per person in the country of Flip is $10,000, and the growth rate is 10 percent a year. Real GDP per person in the country of Flap is $20,000 and the growth rate is 5 percent a year. When will real GDP per person be greater in Flip than in Flap?
+A) in 2 years
+B) in 15 years
+C) never
+D) in 10 years
+E) in 7 years
+Answer:  B
+Type: MC
+Topic:  The Basics of Economic Growth
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+16) Growthland's real GDP per person was $112,000 in 2009 and $117,000 in 2010. What is the growth rate of Growthland's real GDP per person in 2010?
+A) 4.3%
+B) 4.5%
+C) 5%
+D) 12%
+E) 17%
+Answer:  B
+Type: MC
+Topic:  The Basics of Economic Growth
+Source:  Study Guide
+
+ 
+22.2   Economic Growth Trends
+
+1) In which of the following decades did Canada experience the slowest economic growth?
+A) 1960s
+B) 1970s
+C) 1980s
+D) 1940s
+E) 1990s
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Economic Growth Trends
+
+2) Canada's economic growth rate was highest in which of the following decades?
+A) the 1930s
+B) the 1960s
+C) the 1970s
+D) the 1980s
+E) the 1990s
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Economic Growth Trends
+Source:  Study Guide
+3) Which of the following statements about Canada's long-term growth trends is false?
+A) Economic growth rates have been steady, except for the business cycle.
+B) Economic growth rates show periods of slow and high growth.
+C) Economic growth rates were faster in the 1990s than in the 1980s.
+D) Economic growth rates have slightly faster in the United States than in Canada.
+E) African countries have fallen further behind Canada in recent years.
+Answer:  A
+Type: MC
+Topic:  Economic Growth Trends
+Source:  Study Guide
+
+4) Between 1926 and 2010 real GDP per person in Canada grew at an average rate of
+A) 2.8 percent a year.
+B) 1.7 percent a year.
+C) 2.0 percent a year.
+D) 3.6 percent a year.
+E) 4.3 percent a year.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Economic Growth Trends
+
+ 
+5) Compared to growth in other countries, between 1960 and 2010 Canada
+A) fell behind most other countries.
+B) dramatically caught up to and passed other countries.
+C) worsened dramatically versus the United States, but did better versus other countries.
+D) did as well or better than most countries except certain Asian countries.
+E) did none of the above.
+Answer:  D
+Type: MC
+Topic:  Economic Growth Trends
+Source:  Study Guide
+
+6) Between 1926 and 2010, the average growth rate of real GDP per person in Canada was ________ percent a year. During this period, ________ grew at a faster rate than ________.
+A) 2.0; GDP; the population
+B) 2.0; real GDP; the population
+C) 1.0; inflation; real GDP
+D) 3.0; the population; real GDP
+E) 3.0; inflation; real GDP
+Answer:  B
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+7) Convergence between real GDP per person in Canada and Japan was relatively ________ during the 1960s; convergence has recently been ________.
+A) slow; increasing
+B) rapid; decreasing
+C) rapid; increasing at an even faster rate
+D) slow; decreasing
+E) rapidly; continuing at the 1960s pace
+Answer:  B
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+8) The gap between real GDP per person in Canada and Hong Kong has ________ since 1960. During this period, the growth rate of real GDP per person in Canada has been ________ than in Hong Kong.
+A) reversed; faster
+B) increased; faster
+C) remained constant; equal
+D) reversed; slower
+E) decreased; faster
+Answer:  D
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+9) Between 1960 and 2010, growth rates in real GDP per person in Hong Kong, Korea, Singapore, Taiwan, and China ________ the growth rate of real GDP per person in Canada.
+China's real GDP per person in 2010 is approximately equal to real GDP per person in Hong Kong in ________.
+A) exceeded; 1998
+B) were less than; 1988
+C) were less than; 1976
+D) exceeded; 1976
+E) were approximately equal to; 1968
+Answer:  D
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+10) During the last 10 years, which of the following had the lowest level of real GDP per person?
+A) Eastern Europe
+B) Central and South America
+C) Africa
+D) Japan
+E) China
+Answer:  C
+Type: MC
+11) Of the following countries, which has the lowest level of real GDP per person?
+A) China
+B) Singapore
+C) Hong Kong
+D) Korea
+E) Canada
+Answer:  A
+Type: MC
+
+ 
+22.3   How Potential GDP Grows
+
+1) An increase in labour hours will lead to
+A) an upward shift of the aggregate production function.
+B) a movement along the aggregate production function.
+C) both a movement along and an upward shift of the aggregate production function.
+D) neither a movement along nor a shift of the aggregate production function.
+E) a downward shift of the aggregate production function.
+Answer:  B
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+2) The aggregate production function is graphed as
+A) a downward-sloping curve.
+B) an upward-sloping straight line.
+C) an upward-sloping line that becomes flatter as the quantity of labour increases.
+D) an upward-sloping line that becomes steeper as the quantity of labour increases.
+E) a production possibilities frontier.
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+3) The decreasing slope of the aggregate production function reflects
+A) diminishing returns.
+B) rising unemployment.
+C) decreasing costs.
+D) increasing aggregate demand.
+E) a decrease in potential GDP.
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+ 
+4) According to the law of diminishing returns, along the aggregate production function an additional unit of
+A) capital produces more output than an additional unit of labour.
+B) labour decreases output. 
+C) labour produces more output than the previous unit.
+D) labour produces less output than the previous unit.
+E) labour increases the real wage rate.
+Answer:  D
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+Use the figure below to answer the following question.
+
+ 
+Figure 22.3.1
+
+5) Refer to Figure 22.3.1. The country of Kemper is on its aggregate production function at point W in the above figure. If the population increases with no change in capital or technology, the economy will
+A) move to point such as Y.
+B) remain at point W.
+C) move to point such as X.
+D) move to point such as Z.
+E) either remain at point W or move to point X.
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Conceptual
+AACSB:  Analytical Skills
+ 
+6) If the money wage rate is $15.00 an hour and the price level is 120, the real wage rate is
+A) $8.50 an hour.
+B) $10.75 an hour.
+C) $12.50 an hour.
+D) $15.00 an hour.
+E) $18 an hour.
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+7) If the money wage rate is $10.00 an hour and the price level is 60, the real wage rate is
+A) $16.67 an hour.
+B) $18.75 an hour.
+C) $10.00 an hour.
+D) $12.50 an hour.
+E) $6.00 an hour.
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+8) If the real wage rate is $10.00 an hour and the price level is 60, the money wage rate is
+A) $16.75 an hour.
+B) $18.50 an hour.
+C) $10.00 an hour.
+D) $6.00 an hour.
+E) $16.67 an hour.
+Answer:  D
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+9) When the quantity of labour demanded exceeds the quantity of labour supplied, the real wage rate
+A) rises to eliminate the labour market shortage.
+B) falls to eliminate the labour market surplus.
+C) rises to eliminate the labour market surplus.
+D) falls to eliminate the labour market shortage.
+E) does not change but the money wage rate rises to eliminate the labour market shortage.
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+10) In the labour market, an increase in labour productivity ________ the real wage rate and ________ the level of employment.
+A) raises; increases	
+B) raises; decreases
+C) lowers; increases
+D) lowers; decreases
+E) raises; does not change
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+Use the figure below to answer the following questions.
+
+ 
+Figure 22.3.2
+
+11) Refer to Figure 22.3.2. The equilibrium real wage rate is
+A) $10 an hour.
+B) $15 an hour.
+C) $20 an hour.
+D) any wage rate above $15 an hour.
+E) any wage rate below $15 an hour.
+Answer:  B
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+12) Refer to Figure 22.3.2. The equilibrium quantity of labour is
+A) 100 billion hours.
+B) 150 billion hours.
+C) 200 billion hours.
+D) 50 billion hours.
+E) 250 billion hours.
+Answer:  B
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+13) Refer to Figure 22.3.2. If the real wage is $20 an hour, a labour
+A) shortage will occur and the real wage will rise.
+B) shortage will occur and the real wage will fall.
+C) surplus will occur and the real wage will rise.
+D) surplus will occur and the real wage will fall.
+E) surplus will occur and the demand for labour will increase.
+Answer:  D
+Type: MC
+Topic:  How Potential GDP Grows
+
+14) When the population increases with no change in labour productivity, employment ________ and potential GDP ________.
+A) decreases; decreases
+B) increases; increases
+C) decreases; increases
+D) increases; decreases
+E) increases; does not change
+Answer:  B
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Reflective Thinking
+ 
+Use the table below to answer the following questions.
+
+Table 22.3.1
+
+Real wage rate (2002 dollars per hour)	Quantity of labour demanded
+(billions of hours per year)	Quantity of labour supplied
+(billions of hours per year)
+15	70	10
+20	60	20
+25	50	30
+30	40	40
+35	30	50
+
+Real GDP
+(trillions of 2002 dollars per year)	Quantity of labour (billions of hours per year)
+3	20
+9	30
+14	40
+18	50
+21	60
+
+15) Refer to Table 22.3.1. The tables show the labour market and the aggregate production function schedule for the country of Pickett. Potential GDP is ________.
+A) $40 trillion
+B) $6 trillion
+C) $14 trillion
+D) $25 trillion
+E) $9 trillion
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+16) Refer to Table 22.3.1. The tables show the labour market and the production function schedule for the country of Pickett. An increase in population changes the quantity of labour supplied by 20 billion hours at each real wage rate. Potential GDP ________.
+A) does not change.
+B) decreases to $3 trillion.
+C) increases to $50 trillion.
+D) increases to $18 trillion.
+E) increases to $20 trillion.
+Answer:  D
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+17) Labour productivity is
+A) real GDP per hour of labour times the hours of work.
+B) real GDP per hour of labour times the population.
+C) the quantity of real GDP produced by an hour of labour.
+D) the rate of change in real GDP per hour of labour.
+E) none of the above.
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+18) If real GDP is $800 million and aggregate labour hours are 20 million, labour productivity is ________.
+A) $40 an hour
+B) $16,000 million
+C) $40 million
+D) $160 an hour
+E) $16 an hour
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+19) If real GDP is $12,150 billion and aggregate labour hours are 270 billion, labour productivity equals
+A) $6.50 an hour.
+B) $45 an hour.
+C) $48 an hour.
+D) $650 an hour.
+E) $32.81 an hour.
+Answer:  B
+Diff: 3    Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+20) When labour productivity increases, the demand for labour curve ________ and the supply of labour curve ________.
+A) shifts rightward; shifts rightward
+B) shifts rightward; does not shift
+C) shifts leftward; shifts rightward
+D) shifts leftward; does not shift
+E) shifts rightward; shifts leftward
+Answer:  B
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+21) An increase in labour productivity ________ the real wage rate and an increase in population ________ the real wage rate.
+A) raises; lowers
+B) raises; raises
+C) lowers; lowers
+D) lowers; raises
+E) raises; does not change
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+22) An increase in population results in
+A) an upward shift in the production function.
+B) a movement along the production function.
+C) a leftward shift of the labour supply curve.
+D) a rightward shift of the labour demand curve.
+E) both B and D are correct.
+Answer:  B
+Diff: 3    Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Conceptual
+AACSB:  Analytical Skills
+
+23) If the population increases, then potential GDP ________, employment ________, and ________ potential GDP per hour of labour.
+A) increases; increases; decreases
+B) increases; decreases; decreases
+C) decreases; increases; increases
+D) decreases; decreases; decreases
+E) increases; increases; increases
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+24) If new capital increases labour productivity, the supply of labour ________ and the demand for labour ________.
+A) stays the same; increases
+B) increases; increases
+C) increases; decreases
+D) decreases; stays the same
+E) increases; stays the same
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Reflective Thinking
+ 
+Use the figure below to answer the following question.
+
+ 
+Figure 22.3.3
+
+25) Refer to Figure 22.3.3. As a result of the rightward shift in the demand curve for labour from LD0 to LD1, the equilibrium level of employment ________, potential GDP ________, and potential GDP per hour of labour ________.
+A) increases; increases; increases
+B) increases; decreases; increases
+C) decreases; increases; decreases
+D) decreases; decreases; decreases
+E) increases; increases; decreases
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+26) Ceteris paribus, an increase in labour productivity results in a
+A) higher real wage rate and higher potential GDP per hour of labour.
+B) lower real wage rate and higher potential GDP per hour of labour.
+C) higher real wage rate and lower potential GDP per hour of labour.
+D) lower real wage rate and lower potential GDP per hour of labour.
+E) constant real wage rate in the long run.
+Answer:  A
+Type: MC
+Topic:  How Potential GDP Grows
+Source:  Study Guide
+ 
+27) Ceteris paribus, an increase in population results in a
+A) higher level of labour employed and higher potential GDP per hour of labour.
+B) lower level of labour employed and higher potential GDP per hour of labour.
+C) higher level of labour employed and lower potential GDP per hour of labour.
+D) lower level of labour employed and lower potential GDP per hour of labour.
+E) constant level of labour employed and constant potential GDP per hour of labour.
+Answer:  C
+Type: MC
+Topic:  How Potential GDP Grows
+Source:  Study Guide
+
+28) The aggregate production function shows how ________ varies with ________.
+A) real GDP; labour
+B) labour; leisure
+C) real GDP; leisure
+D) labour; capital
+E) real GDP; capital
+Answer:  A
+Type: MC
+
+29) A movement along the aggregate production function is the result of a change in ________.
+A) capital
+B) technology
+C) the quantity of labour
+D) the interest rate
+E) the inflation rate
+Answer:  C
+Type: MC
+
+ 
+22.4   Why Labour Productivity Grows
+
+1) Labour productivity grows as
+A) consumption expenditure increases.
+B) depreciation increases.
+C) physical capital grows.
+D) human capital grows.
+E) both C and D are correct.
+Answer:  E
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+2) If capital per worker increases, labour productivity
+A) decreases for a given level of technology.
+B) increases because the level of technology increases.
+C) increases for a given level of technology.
+D) decreases because the level of technology decreases.
+E) does not change unless technology advances at the same time.
+Answer:  C
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+3) If capital per worker decreases, real GDP per hour of labour
+A) decreases because the level of technology decreases.
+B) increases because the level of technology increases.
+C) increases for a given level of technology.
+D) decreases for a given level of technology.
+E) none of the above.
+Answer:  D
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+ 
+4) An increase in education and training
+A) increases labour productivity.
+B) increases aggregate hours.
+C) decreases real GDP growth.
+D) increases the employment-to-population ratio.
+E) is an increase in physical capital.
+Answer:  A
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+5) ________ is the accumulated skill and knowledge of human beings.
+A) Labour productivity
+B) Human capital
+C) Capital
+D) Technology
+E) Human investment
+Answer:  B
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Recognition
+AACSB:  Reflective Thinking
+6) Human capital is the
+A) machinery used by humans to produce GDP.
+B) technology used by humans to produce GDP.
+C) skill and knowledge accumulated by humans.
+D) plant and equipment produced by humans and not by machines.
+E) none of the above.
+Answer:  C
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+7) Which of the following statements regarding human capital is INCORRECT?
+A) Human capital is the accumulated skill and knowledge of human beings.
+B) Education is the only vehicle for the creation of human capital because training simply reinforces what has already been learned.
+C) The accumulation of human capital is the source of both increased labour productivity and technological advance.
+D) Writing and mathematics, the most basic of human skills, are crucial elements in economic progress.
+E) All of the above statements are correct.
+Answer:  B
+Type: MC
+Topic:  Why Labour Productivity Grows
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+8) Which of the following is not a source of economic growth?
+A) increasing stock market prices
+B) better educated workers
+C) growing physical capital
+D) appropriate incentive system
+E) advances in technology
+Answer:  A
+Type: MC
+Topic:  Why Labour Productivity Grows
+Source:  Study Guide
+
+9) The Industrial Revolution in England was largely the result of
+A) growth in human capital.
+B) population growth.
+C) technological innovations that were financed mainly by government spending.
+D) technological innovations encouraged by the patent system.
+E) the elimination of the patent system.
+Answer:  D
+Type: MC
+10) Factors that influence labour productivity include ________.
+A) the inflation rate, the real wage rate, and the exchange rate
+B) the labour demand curve
+C) physical capital, the real wage rate, and technology
+D) the demand for labour, the real wage rate, and technology 
+E) physical capital, human capital, and technology
+Answer:  E
+Type: MC
+
+ 
+11) Labour productivity rises when
+A) technological progress is stagnant.
+B) firms invest more in hiring workers than in replacing worn-out capital.
+C) the amount of capital per worker decreases.
+D) the real wage rate falls.
+E) the amount of capital per worker increases.
+Answer:  E
+Type: MC
+
+12) In developing nations, microloans ________.
+A) have enabled small businesses with limited access to credit to purchase capital and expand, allowing greater economic growth
+B) have increased the indebtedness of impoverished people, slowing economic growth
+C) are primarily used to finance consumption expenditure, leading to economic growth
+D) are far too small to have any discernible effect
+E) discourage saving and investment
+Answer:  A
+Type: MC
+
+22.5   Growth Theories, Evidence, and Policies
+
+1) Which one of the following quotations could be attributed to a supporter of the classical growth theory? 
+A) "Growth will last as long as technology keeps advancing."
+B) "Prosperity will last as long as technology keeps advancing."
+C) "Growth will last only until the increase in population brings productivity down to the subsistence level."
+D) "Prosperity will last as long as there is knowledge accumulation."
+E) "Growth will last as long as knowledge accumulation continues."
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+2) The new growth theory holds that growth can persist indefinitely based on the major assumption that 
+A) discoveries result from regulations.
+B) knowledge capital does not experience diminishing returns.
+C) knowledge is a public capital good.
+D) discoveries bring profit.
+E) knowledge destroys profit.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+ 
+3) Which theory of economic growth argues that growth does not automatically slow down?
+A) classical growth theory
+B) neoclassical growth theory
+C) new growth theory
+D) all of the theories
+E) none of the theories
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+4) Which theory of economic growth argues that, in the long run, people do not benefit from growth?
+A) classical growth theory
+B) neoclassical growth theory
+C) new growth theory
+D) all of the theories
+E) none of the theories
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+5) Which theory of economic growth argues that population growth lowers the real wage rate and stops economic growth?
+A) classical growth theory
+B) neoclassical growth theory
+C) new growth theory
+D) all of the theories
+E) none of the theories
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+6) The key difference between the neoclassical growth theory and the classical growth theory is that
+A) capital is not subject to diminishing returns under classical growth theory.
+B) capital is subject to diminishing returns under classical growth theory.
+C) increases in population drive workers' incomes back down to the subsistence level in classical growth theory.
+D) growth in the neoclassical growth theory ends with a population explosion.
+E) in classical growth theory, the pace of technological change influences the economic growth rate but economic growth does not influence the pace of technological change.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Growth Theories and Policies
+ 
+7) The key difference between the neoclassical growth theory and the new growth theory is that
+A) capital is not subject to diminishing returns under new growth theory.
+B) capital is subject to diminishing returns under new growth theory.
+C) increases in population drive workers' incomes back down to the subsistence level in neoclassical growth theory.
+D) the pace of technological advances are caused by chance in new growth theory.
+E) labour productivity grows indefinitely in neoclassical growth theory.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Growth Theories and Policies
+
+8) In the classical growth theory, economic growth eventually stops due to
+A) diminishing returns.
+B) knowledge capital being easily replicated.
+C) the real rate of interest falling back down to its target rate.
+D) real GDP per person becoming too high.
+E) high population growth resulting from the increase in real GDP per person.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+Source:  Study Guide
+
+9) In the neoclassical growth theory, economic growth eventually stops after a technological advance when
+A) the return on capital falls and the incentive to invest weakens.
+B) knowledge capital is replicated.
+C) the subsistence real wage rate falls.
+D) the real wage rate increases.
+E) high population growth occurs.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Growth Theories and Policies
+
+10) Knowledge capital is different from physical capital because knowledge capital
+A) does not experience diminishing returns.
+B) experiences diminishing returns.
+C) is free.
+D) increases with investment.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+ 
+11) Growth eventually stops in neoclassical growth theory when
+A) technology stops advancing.
+B) saving increases.
+C) discoveries are replicated.
+D) the return on capital increases.
+E) population growth lowers the real wage rate.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+12) An assumption of the neoclassical growth theory is that
+A) people earn a subsistence real wage in the long run.
+B) technological advances are the result of chance.
+C) the marginal product of all types of capital increases as more capital is accumulated.
+D) discoveries are a public capital good.
+E) encouraging international trade increases economic growth.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+13) An assumption of the new growth theory is that
+A) people earn a subsistence real wage in the long run.
+B) all technological advances are the result of chance.
+C) the marginal product of all types of capital increases as more capital is accumulated.
+D) the growth rate of labour productivity depends on people's ability to innovate.
+E) technological advances encourage international trade.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+14) Which theory of economic growth concludes that technological advances are influenced by the profit motive?
+A) classical growth theory
+B) neoclassical growth theory
+C) new growth theory
+D) neo growth theory
+E) none of the theories
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+
+ 
+15) Compared to physical capital, knowledge capital
+A) can be replicated without diminishing returns.
+B) can be held in your hand.
+C) leads to an automatic slowdown in growth.
+D) cannot be replicated without diminishing returns.
+E) none of the above.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Growth Theories and Policies
+Source:  Study Guide
+
+16) Which of the following is a suggestion for increasing Canadian economic growth rates?
+A) Stimulate saving by taxing consumption.
+B) Reduce the time period for patent protection to increase replication.
+C) Put less public research funds into universities.
+D) Protect our industries from foreign competition.
+E) Tax education.
+Answer:  A
+Type: MC
+Topic:  Growth Theories and Policies
+Source:  Study Guide
+17) In neoclassical growth theory, if the rate of return on capital increases due to a technological advance, then
+A) the rate of return on capital will eventually decline.
+B) capital per hour of labour will decrease.
+C) real GDP per hour of labour will decrease.
+D) the rate of return on capital will never decline.
+E) population growth will explode.
+Answer:  A
+Type: MC
+Topic:  Growth Theories and Policies
+Source:  Study Guide
+
+ 
+18) According to ________ growth theory, growth of real GDP per person comes to a stop because a population explosion returns real GDP per person to the subsistence level.
+According to ________ growth theory, growth of real GDP per person comes to a stop when technology stops advancing.
+According to ________ growth theory, growth of real GDP per person is unending.
+A) classical; new; neoclassical
+B) neoclassical; classical; new
+C) new; neoclassical; classical
+D) classical; neoclassical; new
+E) new; classical; neoclassical
+Answer:  D
+Type: MC
+Topic:  Growth Theories and Policies
+Source:  MyEconLab
+
+19) Choose the statements concerning neoclassical growth theory which are true.
+1.	Neoclassical growth theory was developed in the late 19th century.
+2.	The rate of technological change influences the economic growth rate but economic growth does not influence the pace of technological change.
+3.	Economic growth will stop if technology stops advancing.
+4.	Technological change results from the choices people make in the pursuit of profit.
+A) Statements 1 and 4 are correct.
+B) Statements 3 and 4 are correct.
+C) Statements 2 and 3 are correct.
+D) Statements 1 and 3 are correct.
+E) Statements 2 and 4 are correct.
+Answer:  C
+Type: MC
+Topic:  Growth Theories and Policies
+Source:  MyEconLab
+20) All of the following statements are included in new growth theory except ________.
+A) discoveries are a public capital good
+B) discoveries result from choices
+C) the forces of competition destroy incentives to make new discoveries
+D) discoveries bring profit, and competition destroys profit
+E) knowledge is capital that is not subject to the law of diminishing returns
+Answer:  C
+Type: MC
+Topic:  Growth Theories and Policies
+Source:  MyEconLab
+
+ 
+21) According to Thomas Robert Malthus, ________.
+A) labour productivity increases continuously
+B) the population growth rate is fixed
+C) technological advances lead to permanent increases in real GDP per person
+D) increases in real GDP per person are only temporary
+E) knowledge capital does not experience diminishing returns
+Answer:  D
+Type: MC
+
+22) Which of the following ideas apply to the neoclassical growth theory?
+I.	The rate of technological change influences the rate of economic growth.
+II.	Technological change promotes saving and investment.
+III.	Convergence of economic growth rates across countries.
+A) I only
+B) II only
+C) III only
+D) I and II only
+E) I, II, and III
+Answer:  E
+Type: MC

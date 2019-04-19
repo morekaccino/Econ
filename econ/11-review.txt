@@ -1,0 +1,389 @@
+5) The marginal propensity to consume is calculated as 
+A) consumption expenditure divided by the change in disposable income. 
+B) the change in consumption expenditure divided by disposable income. 
+C) consumption expenditure divided by total disposable income. 
+D) the change in consumption expenditure divided by saving. 
+E) the change in consumption expenditure divided by the change in disposable income. 
+
+Diff: 1    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+
+
+Answer:  E
+----------------------------------
+27) The consumption functions for the Canadian economy covering the period from 1970 to 2010 indicate a marginal propensity to consume approximately equal to 
+A) 0.9. 
+B) 0.65. 
+C) 0.85. 
+D) 0.7. 
+E) 0.54. 
+
+Diff: 2    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+ 
+Use the table below to answer the following questions.
+
+Table 27.1.2
+
+Disposable Income
+(dollars)	Consumption Expenditure
+(dollars)
+325
+400
+475
+550
+625	325
+375
+425
+475
+525
+
+
+
+Answer:  C
+----------------------------------
+42) Which of the following events would shift the consumption function upward?
+A) an increase in disposable income
+B) a decrease in disposable income
+C) a decrease in wealth
+D) a decrease in expected future disposable income
+E) an increase in wealth
+
+Diff: 2    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+Source:  Study Guide
+
+
+Answer:  E
+----------------------------------
+44) Everything else remaining the same, if Canadians expect future disposable income to rise, then
+A) Canada's consumption function shifts downward. 
+B) Canada's consumption function shifts upward. 
+C) a movement occurs up along Canada's consumption function. 
+D) a movement occurs down along Canada's consumption function. 
+E) Canada's saving function shifts upward. 
+
+Diff: 2    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+
+
+Answer:  B
+----------------------------------
+45) The marginal propensity to import is calculated as 
+A) imports divided by the change in real GDP. 
+B) the change in imports divided by real GDP. 
+C) imports divided by real GDP. 
+D) the change in imports divided by the change in real GDP. 
+E) none of the above. 
+
+Diff: 1    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+
+
+Answer:  D
+----------------------------------
+1) The aggregate expenditure curve shows the relationship between aggregate planned expenditure and 
+A) disposable income. 
+B) real GDP. 
+C) the interest rate. 
+D) consumption expenditure. 
+E) the price level. 
+
+Diff: 1    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+Source:  Study Guide
+
+
+Answer:  B
+----------------------------------
+3) If aggregate planned expenditure exceeds real GDP, then inventories 
+A) increase and real GDP increases. 
+B) increase and real GDP falls. 
+C) decrease and real GDP increases. 
+D) decrease and real GDP decreases. 
+E) remain constant and real GDP remains constant. 
+
+Diff: 2    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+
+
+Answer:  C
+----------------------------------
+18) If AE = 50 + 0.6Y and Y = 200, then unplanned inventories 
+A) increase by 75. 
+B) increase by 30. 
+C) decrease by 75. 
+D) decrease by 30. 
+E) do not change and equilibrium exists. 
+
+Diff: 2    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+Source:  Study Guide
+
+ 
+
+Answer:  B
+----------------------------------
+20) A change in consumption, in response to a change in income, is
+A) unplanned consumption. 
+B) autonomous consumption. 
+C) induced consumption. 
+D) equilibrium consumption. 
+E) planned consumption. 
+
+Diff: 1    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+
+
+Answer:  C
+----------------------------------
+21) Consumption expenditure minus imports, which varies with real GDP, is
+A) aggregate expenditure.
+B) autonomous expenditure. 
+C) planned consumption. 
+D) induced expenditure. 
+E) unplanned consumption. 
+
+Diff: 1    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+
+
+Answer:  D
+----------------------------------
+22) Equilibrium expenditure occurs when 
+A) consumption equals real GDP.
+B) aggregate planned expenditure equals real GDP.
+C) aggregate planned expenditure equals consumption.
+D) induced consumption equals aggregate planned expenditure.
+E) none of the above.
+
+Diff: 1    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+
+ 
+
+Answer:  B
+----------------------------------
+26) As real GDP increases 
+A) autonomous consumption increases. 
+B) planned investment increases. 
+C) exports increase. 
+D) imports increase. 
+E) imports decrease. 
+
+Diff: 2    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+
+ 
+
+Answer:  D
+----------------------------------
+30) In Figure 27.2.3, the marginal propensity to consume, assuming no income taxes, is 
+A) 0.3. 
+B) 0.6. 
+C) 0.9. 
+D) 1.0. 
+E) 0.93. 
+
+Diff: 2    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+Source:  Study Guide
+
+
+Answer:  C
+----------------------------------
+36) If aggregate planned expenditure exceeds real GDP then ________.
+A) inventories decrease, and the AE curve shifts downward
+B) inventories increase, and the AE curve shifts upward
+C) inventories decrease, and as real GDP increases a movement up along the AE curve occurs
+D) inventories increase, and as real GDP increases a movement up along the AE curve occurs
+E) inventories increase, and the short-run aggregate supply curve shifts rightward
+
+Diff: 3    Type: MC
+Topic:  Real GDP with a Fixed Price Level
+Source:  MyEconLab
+
+
+Answer:  C
+----------------------------------
+37) The components of aggregate expenditure that are influenced by real GDP are ________.
+A) investment, exports, and imports 
+B) consumption expenditure, government expenditure, investment, and imports
+C) consumption expenditure, investment, and imports 
+D) consumption expenditure and imports
+E) wages, transfer payments, and government expenditure
+
+Diff: 2    Type: MC
+Topic:  Fixed Prices and Expenditure Plans
+Source:  MyEconLab
+
+Answer:  D
+----------------------------------
+38) Everything else remaining the same, an increase in the marginal propensity to import ________ the slope of the AE curve and ________ equilibrium expenditure.
+A) decreases; increases
+B) increases; increases
+C) decreases; decreases
+D) increases; decreases
+E) does not change; does not change
+
+Type: MC
+
+
+Answer:  C
+----------------------------------
+2) All else constant, a decrease in the income tax rate will result in 
+A) a movement down along the aggregate expenditure curve. 
+B) an upward shift of the AE curve with no change in its slope. 
+C) a downward shift of the AE curve with no change in its slope. 
+D) a decrease in the consumption expenditure. 
+E) an AE curve with a steeper slope. 
+
+Diff: 2    Type: MC
+Topic:  The Multiplier
+
+
+Answer:  E
+----------------------------------
+4) The slope of the AE curve equals 
+A) aggregate expenditure divided by real GDP. 
+B) the change in aggregate expenditure divided by the change in real GDP. 
+C) the change in consumption divided by the change in real GDP. 
+D) the change in consumption plus government expenditure divided by the change in aggregate income. 
+E) the change in income divided by the change in autonomous expenditure. 
+
+Diff: 2    Type: MC
+Topic:  The Multiplier
+
+ 
+
+Answer:  B
+----------------------------------
+13) The multiplier can take on any value 
+A) only between zero and 1. 
+B) only between -1 and 1. 
+C) only between 1 and 2. 
+D) only greater than 1. 
+E) greater than zero. 
+
+Diff: 3    Type: MC
+Topic:  The Multiplier
+
+ 
+Use the table below to answer the following question(s).
+
+Table 27.3.1
+
+The following table shows the relationship between aggregate planned 
+expenditure and real GDP in the hypothetical economy of Econoworld.
+
+Real GDP
+(billions of 2002 dollars)	Aggregate planned expenditure
+(billions of 2002 dollars)
+0
+200
+400
+600
+800	100
+260
+420
+580
+740
+
+
+Answer:  E
+----------------------------------
+26) You observe that unplanned inventories are increasing. You predict that there will be ________.
+A) a trough
+B) a business cycle
+C) a recession
+D) an expansion
+E) a collapse of the stock market
+
+Diff: 2    Type: MC
+Topic:  The Multiplier
+Source:  MyEconLab
+
+Answer:  C
+----------------------------------
+8) Suppose the multiplier is 2 and the short-run aggregate supply curve is positively sloped. Investment increases by $10 billion. In the short run, equilibrium real GDP
+A) increases by $20 billion. 
+B) increases by more than $20 billion. 
+C) decreases by less than $20 billion. 
+D) does not change. 
+E) increases by less than $20 billion. 
+
+Diff: 2    Type: MC
+Topic:  The Multiplier and the Price Level
+Source:  Study Guide
+
+
+Answer:  E
+----------------------------------
+11) Suppose that investment increases by $10 billion. Which one of the following would reduce the effect of this increase in autonomous expenditure on equilibrium real GDP in the short run? 
+A) an increase in the marginal propensity to consume.
+B) a decrease in the marginal propensity to import
+C) a decrease in the marginal tax rate
+D) a steeper short-run aggregate supply curve
+E) a flatter short-run aggregate supply curve
+
+Diff: 2    Type: MC
+Topic:  The Multiplier and the Price Level
+
+ 
+
+Answer:  D
+----------------------------------
+13) Suppose there is an increase in exports. Assuming the price level is held constant, which one of the following best describes the sequence of changes in the economy? 
+A) Autonomous expenditure increases, induced expenditure increases, real GDP increases, and the price level rises. 
+B) Induced expenditure increases, autonomous expenditure increases, real GDP increases, and consumption increases. 
+C) Induced expenditure increases, real GDP increases,  autonomous expenditure increases, and the price level increases, lowering autonomous expenditure and real GDP increases by a smaller amount. 
+D) Induced expenditure increases, real GDP increases, autonomous expenditure increases, real GDP increases more, autonomous expenditure increases again, etc. 
+E) Autonomous expenditure increases, real GDP increases, induced expenditure increases, real GDP increases more, induced expenditure increases again, and the process continues until equilibrium expenditure is reached. 
+
+Diff: 2    Type: MC
+Topic:  The Multiplier and the Price Level
+
+Answer:  E
+----------------------------------
+16) Autonomous consumption is 50. With every increase of one dollar in disposable income, consumption increases 60 cents. The marginal tax rate is 10 percent. The equation of the consumption function is
+A) C = 50 + 0.6Y.
+B) C = 50 + 0.54YD.
+C) C = 50 + 0.5YD.
+D) C = 50 + 0.06Y.
+E) C = 50 + 0.54Y.
+
+Diff: 3    Type: MC
+Topic:  Mathematical Note: The Algebra of the Keynesian Model
+
+
+Answer:  E
+----------------------------------
+17) The slope of the aggregate planned expenditure curve is equal to 
+A) [b(1 - t) - m]. 
+B) the marginal propensity to consume. 
+C) the marginal propensity to import. 
+D) 1 minus the marginal propensity to import. 
+E) the autonomous expenditure multiplier. 
+
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Algebra of the Keynesian Model
+
+ 
+
+Answer:  A
+----------------------------------
+18) You are given the following information about the Canadian economy. Autonomous consumption expenditure is $50 billion, investment is $200 billion, and government expenditure is $250 billion. The marginal propensity to consume is 0.7 and net taxes are $250 billion. Net taxes are assumed to be constant and not vary with income. Exports are $500 billion and imports are $450 billion.
+
+The consumption function in billions of dollars is ________.
+A) C = 50 + 0.7Y
+B) C = 0.7(Y - 250)
+C) C = 50 + 0.7(Y - 250)
+D) C = 50 + 0.7(YD - 250)
+E) C = 50 + 0.7Y - 250
+
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Algebra of the Keynesian Model
+Source:  MyEconLab
+
+Answer:  C
+----------------------------------

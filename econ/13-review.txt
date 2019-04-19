@@ -1,0 +1,199 @@
+4) All of the following statements are true except
+A) total revenues have no strong trends. 
+B) revenues include corporate income taxes, personal income taxes; indirect taxes and investment income. 
+C) the main source of fluctuations in revenues is corporate income taxes.
+D) indirect taxes decreased during the 1990s due to the introduction of the GST. 
+E) total revenues increased through the 1960s and 1980s. 
+
+Diff: 2    Type: MC
+Topic:  Government Budgets
+ 
+
+Answer:  C
+----------------------------------
+5) All of the following statements are true except
+A) the three components of government outlays are transfer payments, expenditures on goods and services, and debt interest. 
+B) debt interest has been steadily increasing since 1960. 
+C) expenditures on goods and services have a downward trend. 
+D) outlays increased steadily from 1971 through 1985. 
+E) transfer payments decreased sharply during the 1990s. 
+
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+
+Answer:  B
+----------------------------------
+6) Choose the correct statement
+A) The federal government debt was 5 percent of GDP in 1970. 
+B) The debt-to-GDP ratio increased slightly during the 2008-2009 recession. 
+C) The debt-to-GDP ratio increased from 1974 through 1997, and then began to decrease. 
+D) The government debt increases when the government has a budget deficit. 
+E) All of the above.
+
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+
+Answer:  E
+----------------------------------
+15) As a percentage of provincial GDP, provincial government outlays are highest in
+A) Alberta.
+B) Newfoundland and Labrador.
+C) the Yukon Territory.
+D) Nunavut.
+E) Quebec.
+
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+
+Answer:  D
+----------------------------------
+17) Outlays as a percentage of provincial GDP are the highest in ________, whereas the largest transfers from the federal government are made to ________. 
+A) Ontario; Northern Canada and the Atlantic provinces
+B) British Columbia; Northern Canada and the Atlantic provinces 
+C) Alberta; Northern Canada and the Atlantic provinces 
+D) Northern Canada; Northern Canada and the Atlantic provinces
+E) Northern Canada and the Atlantic provinces; Quebec 
+
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+Answer:  D
+----------------------------------
+20) Prior to World War II, the purpose of the federal budget was to ________.
+A) stabilize the economy
+B) achieve macroeconomic objectives such as full employment and price level stability
+C) finance the business of government
+D) provide incentives to encourage investment
+E) oversee revenue equalization among the provinces
+
+Type: MC
+
+ 
+
+Answer:  C
+----------------------------------
+3) Consider all the effects of fiscal policy. A cut in the income tax 
+A) shifts the AD curve rightward but does not shift either the LAS or SAS curve. 
+B) shifts the AD, SAS, and LAS curves rightward. 
+C) shifts the SAS curve rightward but does not shift either the AD or LAS curve. 
+D) shifts both the SAS and LAS curves rightward but does not shift the AD curve. 
+E) shifts the LAS curve rightward but does not shift either the AD or SAS curve. 
+
+Diff: 3    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+Answer:  B
+----------------------------------
+4) Consider all the effects on fiscal policy. A cut in the tax on capital income
+A) shifts the AD curve rightward. 
+B) shifts the SAS curve rightward. 
+C) shifts the LAS curve rightward. 
+D) all of the above.
+E) only B and C.
+
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+ 
+
+Answer:  D
+----------------------------------
+6) An income tax cut that provides a greater incentive to work than an alternative tax cut will result in comparatively
+A) higher long-run real GDP and a higher price level.
+B) higher long-run real GDP and a lower price level.
+C) the same level of long-run real GDP and price level.
+D) the same level of long-run real GDP and a higher price level.
+E) the same level of long-run real GDP and a lower price level.
+
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+
+Answer:  B
+----------------------------------
+7) If the nominal interest rate is 11%, the inflation rate is 4% and the tax rate is 25%, what is the real after-tax interest rate?
+A) -1.25%
+B) 4.25%
+C) 5.25%
+D) 8%
+E) 10%
+
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  Study Guide
+
+Answer:  B
+
+(Nominal * (1-tax)) - inflation
+
+----------------------------------
+19) Suppose that in China, investment is $400 billion, saving is $400 billion, tax revenues are $500 billion, exports are $300 billion, and imports are $200 billion. The government budget ________ the supply of loanable funds, which ________ the real interest rate and ________ investment.
+A) surplus increases; lowers; decreases
+B) surplus decreases; raises; increases
+C) surplus increases; lowers; increases
+D) deficit decreases; raises; decreases
+E) surplus increases; raises; decreases
+
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+
+Answer:  C
+----------------------------------
+3) If the economy is in a recession, and the government has a budget deficit, then there 
+A) must be a structural deficit. 
+B) must be a structural surplus. 
+C) may be a structural deficit, but not a structural surplus. 
+D) may be a structural surplus, but not a structural deficit. 
+E) may be either a structural surplus or deficit. 
+
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+
+Answer:  E
+----------------------------------
+4) The structural deficit is the deficit 
+A) in a recession. 
+B) in an expansion. 
+C) that would occur at potential GDP. 
+D) caused by the business cycle. 
+E) that would occur at the trough of the business cycle. 
+
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+ 
+
+Answer:  C
+----------------------------------
+21) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. A discretionary fiscal restraint policy would be shown as
+A) a movement from left to right along the revenues curve.
+B) a movement from left to right along the outlays curve.
+C) an upward shift of the revenues curve.
+D) an upward shift of the outlays curve.
+E) both A and C.
+
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+
+Answer:  C
+----------------------------------
+26) Which one of the following happens automatically if the economy goes into a recession? 
+A) Government outlays increase and revenues do not change. 
+B) Revenues decrease and government outlays do not change. 
+C) The government budget deficit increases or the government budget surplus decreases. 
+D) The government budget deficit decreases. 
+E) Both government outlays and revenues increase, and the deficit stays the same. 
+
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+ 
+
+Answer:  C
+----------------------------------

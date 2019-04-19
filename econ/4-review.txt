@@ -1,0 +1,266 @@
+12) For the aggregate economy, income equals 
+A) expenditure, but these are not generally equal to GDP. 
+B) GDP, but expenditure is generally less than these. 
+C) expenditure equals GDP. 
+D) expenditure equals GDP only if there is no government or foreign sectors. 
+E) expenditure equals GDP only if there is no depreciation. 
+
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+Source:  Study Guide
+
+ 
+
+Answer:  C
+----------------------------------
+17) SaskWidget produces plastic parts. At the beginning of the year, they held $24 million worth of capital. At the end of the year, they held $20 million worth of capital. One can conclude that
+A) net investment increased by $4 million. 
+B) gross investment decreased by $4 million. 
+C) gross investment increased by $4 million. 
+D) depreciation exceeded gross investment by $4 million.
+E) depreciation equals $4 million. 
+
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+
+Answer:  D
+----------------------------------
+18) One of the reasons why real GDP grows is that 
+A) prices increase.
+B) governments collect more taxes. 
+C) capital grows as a result of investment. 
+D) imports increase. 
+E) people have more income. 
+
+Diff: 2    Type: MC
+Topic:  Gross Domestic Product
+
+Answer:  C
+----------------------------------
+28) Refer to Fact 20.1.1. Peter's gross investment in 2012 is
+A) $2,800.
+B) $3,800.
+C) $1,800.
+D) $7,800.
+E) $5,800.
+
+Diff: 3    Type: MC
+Topic:  Gross Domestic Product
+
+ 
+
+Answer:  B
+----------------------------------
+4) The expenditure approach measures GDP by adding together 
+A) wages, salaries and supplementary labour income, and other factor incomes. 
+B) wages, salaries and supplementary labour income, other factor income, subsidies paid by the government, indirect taxes paid, and income of nonfarm unincorporated businesses. 
+C) compensation of employees, rental income, corporate profits, net interest, proprietors' income, indirect taxes paid, and capital consumption expenditures, and by subtracting subsidies paid by the government. 
+D) the total expenditures of consumers, firms, net exporters, and by governments at all levels. 
+E) the total expenditures of consumers and firms.
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+Use the table below to answer the following questions.
+
+Table 20.2.1
+Data From Eastland
+
+Wages, salaries, and supplementary labour income	800
+Other factor incomes	260
+Government expenditures on goods and services	240
+Depreciation	240
+Investment	400
+Personal income taxes net of transfer payments	140
+Indirect taxes	120
+Net exports	80
+Consumption expenditure	640
+
+
+Answer:  D
+----------------------------------
+8) Refer to Table 20.2.1. From the data in the table, what is total income in Eastland? 
+A) $1,120
+B) $1,180
+C) $1,360
+D) $1,420
+E) $1,280
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+
+Answer:  C
+----------------------------------
+10) Which one of the following would be included in the calculation of GDP by the expenditure approach? 
+A) the purchase of 20 shares of a new issue of IBM stock
+B) the purchase of an original eighteenth century work of art
+C) the value of your brother's services when he mows the lawn for the family
+D) the cost of adding a new kitchen to your house
+E) the income you pay to your gardener
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+Use the table below to answer the following questions.
+
+Table 20.2.2
+
+Government expenditures on goods and services	$ 500
+Wages, salaries, and supplementary labour income	2,000
+Depreciation	   400
+Investment	   400
+Consumption expenditure	2,200
+Net exports 	   -50
+Indirect taxes 	   150
+Statistical discrepancy	       0
+
+
+Answer:  D
+----------------------------------
+17) The sum of wages, salaries and supplementary labour income, and other factor incomes is
+A) gross domestic product. 
+B) gross domestic income. 
+C) net domestic income at factor cost. 
+D) net domestic product. 
+E) total output of the economy. 
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+
+Answer:  C
+----------------------------------
+18) In the Canadian economy, market prices and factor costs would be the same except for
+A) depreciation. 
+B) exports. 
+C) personal taxes. 
+D) indirect taxes and subsidies. 
+E) capital consumption. 
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+
+
+Answer:  D
+----------------------------------
+19) Net domestic income at market prices equals 
+A) consumption expenditure plus government expenditure plus net exports plus investment.
+B) consumption expenditure plus government expenditure plus exports plus personal taxes. 
+C) indirect business taxes plus personal income plus net exports. 
+D) all incomes plus indirect taxes minus subsidies. 
+E) all incomes minus depreciation. 
+
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+Use the table below to answer the following questions.
+
+Table 20.2.4
+
+Other factor incomes	$570
+Indirect taxes 	230
+Depreciation	250
+Wages, salaries and supplementary labour income	1,350
+Consumption expenditure	1,400
+Government expenditure on goods and services	500
+Government transfer payments	50
+Net exports	40
+Subsidies	0
+
+
+Answer:  D
+----------------------------------
+27) To obtain the factor cost of a good from its market price
+A) add indirect taxes and subtract subsidies. 
+B) subtract indirect taxes and add subsidies. 
+C) subtract both indirect taxes and subsidies. 
+D) add both indirect taxes and subsidies. 
+E) subtract depreciation. 
+
+Diff: 1    Type: MC
+Topic:  Measuring Canada's GDP
+Source:  Study Guide
+
+
+Answer:  B
+----------------------------------
+30) Suppose in current dollar terms, GDP increased by approximately 7 percent between one period and the next, but real GDP fell by 2 percent. Which one of the following explanations is most likely? 
+A) Prices fell by 9 percent. 
+B) Prices fell by 2 percent. 
+C) Output rose by 2 percent. 
+D) Prices increased by 7 percent. 
+E) Prices increased by 9 percent. 
+
+Diff: 2    Type: MC
+Topic:  Measuring Canada's GDP
+ 
+
+Answer:  E
+----------------------------------
+44) Consumption expenditure includes only ________.
+A) expenditure by Canadian households on goods and services produced in Canada
+B) expenditure by Canadian households and firms on goods and services produced in Canada
+C) expenditure by Canadian households, firms, and governments on goods and services produced in Canada
+D) expenditure by Canadian households on goods and services produced in Canada and in the rest of the world
+E) expenditure by Canadian households and foreigners on goods and services produced in Canada
+
+Type: MC
+
+Answer:  D
+----------------------------------
+3) Since non-market exchanges are excluded from measures of GDP, the GDP measure tends to 
+A) underestimate the total production of an economy. 
+B) overestimate the total production of an economy. 
+C) be of little significance in determining the total production of an economy. 
+D) be of little use to anyone but market economists. 
+E) place too much value on market transactions. 
+
+Diff: 2    Type: MC
+Topic:  The Uses and Limitations of Real GDP
+
+Answer:  A
+----------------------------------
+10) Business cycles are
+A) irregular, with some having two recessions and no expansion.
+B) predictable, with a recession following a trough.
+C) unpredictable, but always have two phases and two turning points.
+D) unpredictable, and don't always have two phases and two turning points.
+E) predictable with an expansion following a trough.
+
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+
+Answer:  C
+----------------------------------
+20) Which of the following statements by politicians is talking about the business cycle?
+A) "Canadian unemployment is falling due to the upturn in the economy."
+B) "Crime rates increase every spring as the school year ends."
+C) "An average of 220,000 new jobs are created each year in Canada."
+D) "More capital investment will create more jobs."
+E) "Business always rises just before Christmas."
+
+Type: MC
+Topic:  The Uses and Limitations of Real GDP
+Source:  Study Guide
+
+
+Answer:  A
+----------------------------------
+5) The reference base year is 2011.
+To calculate the chained-dollar real GDP in 2012 we calculate
+A) the value of the final goods and services produced in 2012 valued at the prices that prevailed in 2012.
+B) the value of the final goods and services produced in 2012 valued at the prices that prevailed in the base year.
+C) nominal GDP in 2012 multiplied by price level.
+D) the value of final goods and services produced in the base year valued at the 2012 prices.
+E) the base-year GDP and add the average of the increases in real GDP calculated using 2011 prices and 2012 prices.
+
+Diff: 2    Type: MC
+Topic:  Mathematical Note: Chained-Dollar Real GDP
+Source:  Study Guide
+
+Answer:  E
+----------------------------------

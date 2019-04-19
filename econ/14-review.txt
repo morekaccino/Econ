@@ -1,0 +1,144 @@
+5) Who are the members of the Bank of Canada's Governing Council?
+A) The Ministers of Finance from each province as well as the Federal Minister of Finance.
+B) The Prime Minister, the Minister of Finance, and the Bank's Governor.
+C) The Minister of Finance, the Governor, and four Deputy Governors.
+D) The Bank's Governor, Senior Deputy Governor, and four Deputy governors who are appointed by the Prime Minister to represent the public interest.
+E) The Bank's Governor, Senior Deputy Governor, and four Deputy Governors.
+
+Diff: 1    Type: MC
+Topic:  Monetary Policy Objective and Framework
+
+
+Answer:  E
+----------------------------------
+7) Why does the Bank of Canada pay close attention to the core inflation rate in addition to the overall CPI inflation rate?
+A) The core rate is more volatile and therefore a better predictor of trend inflation.
+B) The core rate includes taxes, while the overall CPI rate does not.
+C) The core rate has a lower average value and therefore makes the Bank look better.
+D) The core rate is less volatile and a better predictor of future CPI inflation.
+E) The core rate excludes eight volatile prices and is therefore more likely to stay within the target band.
+
+Type: MC
+Topic:  Monetary Policy Objective and Framework
+Source:  Study Guide
+
+Answer:  D
+----------------------------------
+1) As the sole issuer of Canadian money, the Bank of Canada can set any one of three variables:
+A) the monetary base, the exchange rate, and the short-term interest rate.
+B) the money base, the interest rate, and the unemployment rate.
+C) the rate of inflation, the interest rate, and the unemployment rate.
+D) the exchange rate, the interest rate, and the inflation rate.
+E) the inflation rate, the unemployment rate, and the real economic growth rate.
+
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+
+Answer:  A
+----------------------------------
+2) What is the overnight loans rate?
+A) The percentage change in the volume of loans that take place overnight.
+B) The interest rate that the Bank of Canada charges chartered banks.
+C) The interest rate on loans that the big banks make to each other.
+D) The volume of loans that take place during the night.
+E) The interest rate that the Bank of Canada pays when it buys securities from chartered banks.
+
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+
+Answer:  C
+----------------------------------
+4) 25 basis points is
+A) a quarter of a percentage point.
+B) a quarter of the Bank of Canada's target inflation rate.
+C) the spread between the savings rate and the lending rate.
+D) the spread between the bank rate and the settlement balances rate.
+E) the gap by which real GDP exceeds potential GDP.
+
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+ 
+
+Answer:  A
+----------------------------------
+6) The settlement balances rate is the
+A) proportion of outstanding loans from chartered banks that are resolved.
+B) interest rate that the Bank of Canada charges the big banks on loans.
+C) interest rate paid to chartered banks on their reserves held at the Bank of Canada.
+D) ratio of the value securities sold by the Bank of Canada to securities outstanding.
+E) proportion of overnight inter-bank loans that are resolved.
+
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+
+Answer:  C
+----------------------------------
+10) The bank rate is the interest rate 
+A) banks charge their very best loan customers. 
+B) banks pay on term deposits. 
+C) the Bank of Canada pays on reserves held by banks. 
+D) the Bank of Canada charges when it lends reserves to the big banks. 
+E) received for holding Government of Canada Treasury Bills. 
+
+Diff: 1    Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+
+
+Answer:  D
+----------------------------------
+12) The Bank of Canada can lower the overnight loans rate by
+A) raising the bank rate.
+B) lowering the bank rate.
+C) raising the settlement balances rate.
+D) lowering the settlement balances rate.
+E) both B and D.
+
+Diff: 2    Type: MC
+Topic:  The Conduct of Monetary Policy
+
+ 
+
+Answer:  E
+----------------------------------
+16) In an open market operation aimed at increasing expenditure, the Bank of Canada
+A) sells government bonds, decreasing bank reserves, decreasing lending, decreasing the overnight rate.
+B) sells government bonds, decreasing bank reserves, decreasing lending, increasing the overnight rate.
+C) sells government bonds, decreasing bank reserves, increasing lending, increasing the overnight rate.
+D) buys government bonds, increasing bank reserves, increasing lending, decreasing the overnight rate.
+E) buys government bonds, increasing bank reserves, increasing lending, increasing the overnight rate.
+
+Type: MC
+Topic:  The Conduct of Monetary Policy
+Source:  Study Guide
+
+Answer:  D
+----------------------------------
+20) If the overnight rate is above target, the Bank ________ securities to ________ reserves, which ________ the supply of overnight funds and ________ the overnight rate.
+A) buys; increase; decreases; raises
+B) sells; increase; increases; lowers
+C) buys; decrease; decreases; raises
+D) sells; decrease; decreases; raises
+E) buys; increase; increases; lowers
+
+Type: MC
+
+Answer:  E
+----------------------------------
+8) Which statement below best expresses the relationship between the 3-month Treasury bill rate and the overnight loans rate? The rates are
+A) not similar because banks can not readily substitute between them.
+B) similar because they are both required to remain with the Bank of Canada's operating band.
+C) similar because banks can readily substitute between them.
+D) not similar because the treasury bill rate is established through the financial markets whereas the overnight loans rate is set by the Bank of Canada.
+E) not similar because the treasury bill rate is set by the Government of Canada whereas the overnight loans rate is set by the Bank of Canada.
+
+Diff: 2    Type: MC
+Topic:  Monetary Policy Transmission
+
+
+Answer:  C
+----------------------------------

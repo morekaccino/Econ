@@ -1,0 +1,214 @@
+2) The foreign exchange market is
+A) made up of importers, exporters, banks, international travellers, and specialist traders.
+B) the place where people exchange the currencies of different countries.
+C) the market in which more than $600 trillion in foreign exchange is traded each year.
+D) both A and C are correct.
+E) both A and B are correct.
+
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+
+Answer:  D
+----------------------------------
+19) Which of the following factors influence the demand for Canadian dollars?
+A) The exchange rate and the world demand for Canadian exports.
+B) Interest rates in Canada and other countries, and the expected future exchange rate.
+C) The world demand for Canadian exports and Canadian demand for imports.
+D) Both A and B.
+E) Both B and C.
+
+Diff: 2    Type: MC
+Topic:  The Foreign Exchange Market
+
+
+Answer:  D
+----------------------------------
+21) The law of supply of foreign exchange tells us that other things remaining the same,
+A) the lower the exchange rate, the greater is the quantity of Canadian dollars supplied.
+B) the higher the exchange rate, the greater is the quantity of Canadian dollars supplied.
+C) the higher the exchange rate, the greater is the supply of Canadian dollars 
+D) the lower the exchange rate, the greater is the supply of Canadian dollars.
+E) the lower the exchange rate, the smaller is the supply of Canadian dollars.
+
+Diff: 1    Type: MC
+Topic:  The Foreign Exchange Market
+
+Answer:  B
+----------------------------------
+26) If the equilibrium exchange rate is 110 yen per dollar and the current exchange rate is 120 yen per dollar, then the ________.
+A) supply curve of Canadian dollars shifts rightward
+B) demand curve for Canadian dollars shifts rightward
+C) supply curve of Canadian dollars shifts leftward
+D) demand curve for Canadian dollars shifts leftward
+E) dollar will depreciate
+
+Type: MC
+25.2   Exchange Rate Fluctuations
+
+
+Answer:  E
+----------------------------------
+5) The Canadian exchange rate appreciates if
+A) prices increase in the United States and other countries but remain constant in Canada.
+B) the Canadian interest rate falls.
+C) the U.S. interest rate rises.
+D) all of the above.
+E) none of the above.
+
+Diff: 3    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+
+Answer:  A
+----------------------------------
+9) Suppose that a U.S. dollar can earn interest of 5 percent a year in Chicago and a Canadian dollar can earn interest of 7 percent a year in Winnipeg. Will money flow from Chicago to Winnipeg?
+A) Yes, because the returns on money are higher in Winnipeg.
+B) No, because the outflow of U.S. funds would create a decrease in the U.S. dollar value, penalizing investors when they attempted to recover their funds.
+C) No, if investors expect that the Canadian dollar will appreciate by at least 2 percent per year.
+D) No, if investors expect the U.S. dollar to appreciate by at least 2 percent per year.
+E) No, as long as the U.S. dollar maintains higher purchasing power than the Canadian dollar.
+
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+
+Answer:  D
+----------------------------------
+16) Which of the following quotations best describes interest rate parity in action?
+A) "The demand for the Canadian dollar has increased due to the recent increase in the Canadian interest rate."
+B) "The market feeling is that the Canadian dollar is overvalued and will likely appreciate."
+C) "The price of bananas is the same in Canada and the United States, adjusting for the exchange rate."
+D) "The expected appreciation of the Canadian dollar is currently lowering demand for it."
+E) none of the above
+
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+Answer:  A
+----------------------------------
+28) The exchange rate is volatile because 
+A) government policy promotes interest rate fluctuation.
+B) the demand curve for foreign exchange is very flat.
+C) the demand curve for foreign exchange is very steep.
+D) the supply curve of dollars is vertical. 
+E) the supply of dollars and demand for dollars are influenced by similar events. 
+
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+
+Answer:  E
+----------------------------------
+31) Choose the correct statements.
+1. The exchange rate is the value of the Canadian dollar expressed in units of foreign currency per Canadian dollar.
+2. The real exchange rate is the relative price of Canadian-produced goods and services to foreign-produced goods and services.
+3. The exchange rate is a measure of the quantity of the real GDP of other countries that a unit of Canadian real GDP buys.
+4. The exchange rate is the relative price of Canadian-produced goods and services to foreign-produced goods and services.
+A) Statements 1 and 2 are correct.
+B) Statements 3 and 4 are correct.
+C) Statements 1 and 3 are correct.
+D) Statements 2 and 4 are correct.
+E) Statements 2 and 3 are correct.
+
+Diff: 2    Type: MC
+Topic:  Exchange Rate Fluctuations
+Source:  MyEconLab
+
+Answer:  A
+----------------------------------
+8) In Figure 25.3.1, suppose the demand for dollars permanently decreases to D2. To maintain the target, the Bank of Canada
+A) buys dollars.
+B) sells dollars.
+C) must decrease the nation's net exports.
+D) cannot permanently maintain the exchange rate target of 90 U.S. cents per Canadian dollar.
+E) none of the above.
+
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+
+Answer:  D
+----------------------------------
+13) One consequence of China operating a crawling peg is that China ________.
+A) is accumulating U.S. dollar reserves
+B) will eventually run out of foreign reserves, and the yuan will depreciate
+C) will eventually run out of foreign reserves, and the yuan will appreciate
+D) will become more competitive in the long run
+E) none of the above
+
+Type: MC
+Topic:  Exchange Rate Policy
+Skill:  Conceptual
+Source:  MyEconLab
+AACSB:  Reflective Thinking
+
+
+Answer:  A
+----------------------------------
+14) The Bank of Canada ________.
+A) has no influence on the exchange rate 
+B) sells Canadian dollars to the United States in an attempt to depreciate the Canadian dollar and increase Canadian exports to the United States
+C) alternates between a flexible, fixed, and crawling peg exchange rate policy depending on economic conditions 
+D) follows a flexible exchange rate policy, although the Bank's actions can impact the exchange rate 
+E) buys Canadian dollars from the United States in an attempt to depreciate the Canadian dollar and increase Canadian exports to the United States
+
+Type: MC
+
+
+Answer:  D
+----------------------------------
+15) All of the following statements are true except ________.
+A) China's exchange rate policy increases exports in the long run 
+B) China's exchange rate policy is mainly an attempt to control inflation 
+C) China's exchange rate policy results in a yuan that has a lower foreign exchange rate against the U.S. dollar than it would otherwise have 
+D) China's exchange rate policy does not impact the real exchange rate in the long run 
+E) All of the above are true.
+
+Type: MC
+25.4   Financing International Trade
+
+
+Answer:  A
+----------------------------------
+14) If Northland is currently a net lender and a debtor nation,
+A) it has loaned more than it borrowed from the rest of the world this year, but borrowed more than it loaned during its history. 
+B) it has borrowed more from the rest of the world than it loaned this year and also borrowed more than it loaned during its history. 
+C) it has loaned more than it borrowed from the rest of the world this year and has loaned more than it borrowed during its history. 
+D) its accounting system must be in error if it shows the nation to be a net lender and a debtor nation at the same time. 
+E) its debts must be currently growing. 
+
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+
+
+Answer:  A
+----------------------------------
+23) Refer to Table 25.4.1. The country Mengia came into existence at the beginning of year 1. Given the information, in year 4 Mengia is a 
+A) net lender and a creditor nation. 
+B) net lender and a debtor nation. 
+C) net borrower and a creditor nation. 
+D) net borrower and a debtor nation. 
+E) net lender and neither a creditor nor a debtor nation. 
+
+Diff: 2    Type: MC
+Topic:  Financing International Trade
+Source:  Study Guide
+
+
+Answer:  B
+----------------------------------
+33) In 2010, the largest item in the current account is 
+A) exports. 
+B) imports. 
+C) net interest income. 
+D) net transfers. 
+E) foreign investment in Canada. 
+
+Diff: 1    Type: MC
+Topic:  Financing International Trade
+
+
+Answer:  B
+----------------------------------

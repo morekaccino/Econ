@@ -1,0 +1,114 @@
+1) In which of the following decades did Canada experience the slowest economic growth?
+A) 1960s
+B) 1970s
+C) 1980s
+D) 1940s
+E) 1990s
+
+Diff: 2    Type: MC
+Topic:  Economic Growth Trends
+
+
+Answer:  C
+----------------------------------
+2) Canada's economic growth rate was highest in which of the following decades?
+A) the 1930s
+B) the 1960s
+C) the 1970s
+D) the 1980s
+E) the 1990s
+
+Diff: 2    Type: MC
+Topic:  Economic Growth Trends
+Source:  Study Guide
+
+Answer:  B
+----------------------------------
+3) Which of the following statements about Canada's long-term growth trends is false?
+A) Economic growth rates have been steady, except for the business cycle.
+B) Economic growth rates show periods of slow and high growth.
+C) Economic growth rates were faster in the 1990s than in the 1980s.
+D) Economic growth rates have slightly faster in the United States than in Canada.
+E) African countries have fallen further behind Canada in recent years.
+
+Type: MC
+Topic:  Economic Growth Trends
+Source:  Study Guide
+
+
+Answer:  A
+----------------------------------
+7) Convergence between real GDP per person in Canada and Japan was relatively ________ during the 1960s; convergence has recently been ________.
+A) slow; increasing
+B) rapid; decreasing
+C) rapid; increasing at an even faster rate
+D) slow; decreasing
+E) rapidly; continuing at the 1960s pace
+
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+
+Answer:  B
+----------------------------------
+8) The gap between real GDP per person in Canada and Hong Kong has ________ since 1960. During this period, the growth rate of real GDP per person in Canada has been ________ than in Hong Kong.
+A) reversed; faster
+B) increased; faster
+C) remained constant; equal
+D) reversed; slower
+E) decreased; faster
+
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+
+Answer:  D
+----------------------------------
+9) Between 1960 and 2010, growth rates in real GDP per person in Hong Kong, Korea, Singapore, Taiwan, and China ________ the growth rate of real GDP per person in Canada.
+China's real GDP per person in 2010 is approximately equal to real GDP per person in Hong Kong in ________.
+A) exceeded; 1998
+B) were less than; 1988
+C) were less than; 1976
+D) exceeded; 1976
+E) were approximately equal to; 1968
+
+Type: MC
+Topic:  Economic Growth Trends
+Source:  MyEconLab
+
+
+Answer:  D
+----------------------------------
+6) If the money wage rate is $15.00 an hour and the price level is 120, the real wage rate is
+A) $8.50 an hour.
+B) $10.75 an hour.
+C) $12.50 an hour.
+D) $15.00 an hour.
+E) $18 an hour.
+
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+
+Answer:  C
+Real wage rate = Nominal wage Rate/ Price Index = (15)/ (120/100) = 12.5
+----------------------------------
+14) When the population increases with no change in labour productivity, employment ________ and potential GDP ________.
+A) decreases; decreases
+B) increases; increases
+C) decreases; increases
+D) increases; decreases
+E) increases; does not change
+
+Type: MC
+Topic:  How Potential GDP Grows
+Skill:  Analytical
+AACSB:  Reflective Thinking
+
+
+Answer:  B
+----------------------------------

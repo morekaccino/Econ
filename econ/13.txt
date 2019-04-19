@@ -1,0 +1,969 @@
+Chapter 29   Fiscal Policy
+
+29.1   The Federal Budget
+
+1) If revenues exceed outlays, the government's budget balance is ________, and the government has a budget ________.
+A) negative; deficit
+B) positive; surplus
+C) positive; deficit
+D) negative; surplus
+E) zero; deficit
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Government Budgets
+
+2) If outlays exceed revenues, the government's budget balance is ________, and the government has a budget ________.
+A) negative; deficit
+B) positive; surplus
+C) positive; deficit
+D) negative; surplus
+E) zero; surplus
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Government Budgets
+
+3) Government debt is
+A) equal to revenues minus outlays. 
+B) always increasing. 
+C) a phenomena that occurs only during times of war. 
+D) the total amount of government borrowing. 
+E) the result of a rising price level. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Government Budgets
+
+4) All of the following statements are true except
+A) total revenues have no strong trends. 
+B) revenues include corporate income taxes, personal income taxes; indirect taxes and investment income. 
+C) the main source of fluctuations in revenues is corporate income taxes.
+D) indirect taxes decreased during the 1990s due to the introduction of the GST. 
+E) total revenues increased through the 1960s and 1980s. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Government Budgets
+ 
+5) All of the following statements are true except
+A) the three components of government outlays are transfer payments, expenditures on goods and services, and debt interest. 
+B) debt interest has been steadily increasing since 1960. 
+C) expenditures on goods and services have a downward trend. 
+D) outlays increased steadily from 1971 through 1985. 
+E) transfer payments decreased sharply during the 1990s. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+6) Choose the correct statement
+A) The federal government debt was 5 percent of GDP in 1970. 
+B) The debt-to-GDP ratio increased slightly during the 2008-2009 recession. 
+C) The debt-to-GDP ratio increased from 1974 through 1997, and then began to decrease. 
+D) The government debt increases when the government has a budget deficit. 
+E) All of the above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+7) During the 1980s and 1990s in Canada, 
+A) investment income as a percentage of GDP increased. 
+B) indirect taxes as a percentage of GDP increased steadily. 
+C) personal income taxes as a percentage of GDP decreased. 
+D) total revenues as a percentage of GDP increased by over 5 percent. 
+E) none of the above. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+8) The main components of government revenues are
+A) transfer payments, investment income, and indirect taxes. 
+B) personal income taxes, corporate income taxes, indirect taxes, and investment income. 
+C) debt interest, expenditures on goods and services, and income taxes.
+D) corporate income taxes, indirect taxes, and transfer payments.
+E) debt interest, corporate income taxes, and income taxes.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+ 
+9) The category of federal government revenues that fluctuates the most is 
+A) investment income. 
+B) transfer payments. 
+C) personal income taxes. 
+D) debt interest. 
+E) indirect taxes. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Government Budgets
+10) Suppose the government starts with a debt of $0. Then in year 1, there is a deficit of $100 billion, in year 2 there is a deficit of $60 billion, in year 3 there is a surplus of $40 billion, and in year 4 there is a deficit of $20 billion. What is government debt at the end of year 4? 
+A) $20 billion.
+B) $140 billion.
+C) $180 billion.
+D) Somewhat greater than $220 billion, depending on the interest rate.
+E) Somewhat greater than $140 billion, depending on the interest rate.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Government Budgets
+
+11) Which of the following would not increase an existing budget deficit? 
+A) an increase in interest on the government debt
+B) an increase in government expenditures on goods and services
+C) an increase in government transfer payments
+D) an increase in indirect taxes
+E) a decrease in investment income
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Government Budgets
+Source:  Study Guide
+
+12) Fiscal policy is
+A) the use of the federal budget to achieve macroeconomic objectives. 
+B) any policy by the Bank of Canada. 
+C) budgeting policy by aggregate households. 
+D) any attempt by the federal government or Bank of Canada to control inflation. 
+E) effective only when the federal government has a budget surplus. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Government Budgets
+
+ 
+13) Which of the following is not a source of government revenues?
+A) personal income taxes
+B) transfer payments
+C) corporate income taxes
+D) indirect taxes
+E) investment income
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Government Budgets
+14) Which of the following is a government outlay?
+A) personal income taxes
+B) investment income
+C) debt interest
+D) indirect taxes
+E) corporate income taxes
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Government Budgets
+Source:  Study Guide
+
+15) As a percentage of provincial GDP, provincial government outlays are highest in
+A) Alberta.
+B) Newfoundland and Labrador.
+C) the Yukon Territory.
+D) Nunavut.
+E) Quebec.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+16) What are the main categories of the federal government outlays? 
+A) transfer payments, expenditures on goods and services, and debt interest
+B) indirect taxes, farmers' subsidies, and debt interest
+C) personal income taxes, expenditures on goods and services, and debt interest
+D) investment income, debt interest and transfer payments
+E) none of the above
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Government Budgets
+
+ 
+17) Outlays as a percentage of provincial GDP are the highest in ________, whereas the largest transfers from the federal government are made to ________. 
+A) Ontario; Northern Canada and the Atlantic provinces
+B) British Columbia; Northern Canada and the Atlantic provinces 
+C) Alberta; Northern Canada and the Atlantic provinces 
+D) Northern Canada; Northern Canada and the Atlantic provinces
+E) Northern Canada and the Atlantic provinces; Quebec 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Government Budgets
+18) The government of Ricardia's budget lists the following projected revenues and outlays:  $25 million in personal income taxes, $15 million in corporate income taxes, $5 million in indirect taxes, $2 million in investment income, $30 million in transfer payments, $12 million in government expenditure, and $8 million in debt interest. Ricardia has a government budget
+A) surplus of $3 million.
+B) surplus of $57 million. 
+C) surplus of $13 million.
+D) deficit of $13 million.
+E) deficit of $3 million.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Government Budgets
+Source:  Study Guide
+
+19) The largest source of revenues for the federal government is
+A) transfer payments.
+B) expenditures on goods and services. 
+C) personal income taxes.
+D) corporate income taxes.
+E) indirect taxes such as the GST.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Government Budgets
+Source:  Study Guide
+
+20) Prior to World War II, the purpose of the federal budget was to ________.
+A) stabilize the economy
+B) achieve macroeconomic objectives such as full employment and price level stability
+C) finance the business of government
+D) provide incentives to encourage investment
+E) oversee revenue equalization among the provinces
+Answer:  C
+Type: MC
+
+ 
+21) Canada's government debt 
+A) is smaller than the value of the public capital stock so Canada's debt has not financed public consumption expenditure.
+B) is larger than the value of the public capital stock so some of Canada's debt has financed public consumption expenditure.
+C) equals the value of the public capital stock.
+D) has risen every year since 1975.
+E) is smaller than the value of the public capital stock so some of Canada's debt has financed public consumption expenditure.
+Answer:  B
+Type: MC
+22) The Federal Budget of 2011-12 projected ________.
+A) a government budget surplus
+B) a balanced budget
+C) a government budget deficit
+D) a decreasing government debt
+E) Both A and D are correct.
+Answer:  C
+Type: MC
+
+ 
+29.2   Supply-Side Effects of Fiscal Policy
+
+1) An increase in income taxes 
+A) does not affect potential GDP because potential GDP depends on technology only. 
+B) does not affect potential GDP as long as the economy's endowments of resources and the state of technology remain unchanged. 
+C) increases potential GDP because workers have to work longer hours to maintain the same standard of living before the tax increase. 
+D) decreases potential GDP because workers' incentives to work are weakened. 
+E) decreases potential GDP because real GDP decreases when households have less disposable income to spend. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+2) A tax cut on capital income 
+A) does not affect potential GDP because the interest rate affects aggregate expenditure only. 
+B) does not affect potential GDP because it has no impact on the supply of labour. 
+C) increases potential GDP because workers have greater incentives to work. 
+D) increases potential GDP because the supply of loanable funds increases. 
+E) increases potential GDP because households have more disposable income to spend. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+3) Consider all the effects of fiscal policy. A cut in the income tax 
+A) shifts the AD curve rightward but does not shift either the LAS or SAS curve. 
+B) shifts the AD, SAS, and LAS curves rightward. 
+C) shifts the SAS curve rightward but does not shift either the AD or LAS curve. 
+D) shifts both the SAS and LAS curves rightward but does not shift the AD curve. 
+E) shifts the LAS curve rightward but does not shift either the AD or SAS curve. 
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+4) Consider all the effects on fiscal policy. A cut in the tax on capital income
+A) shifts the AD curve rightward. 
+B) shifts the SAS curve rightward. 
+C) shifts the LAS curve rightward. 
+D) all of the above.
+E) only B and C.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+ 
+5) Consider all the effects of fiscal policy. An income tax cut 
+A) increases both real GDP and the price level. 
+B) increases real GDP but decreases the price level. 
+C) increases real GDP but leaves the price level unchanged. 
+D) increases real GDP and the price level may rise or fall. 
+E) does not change real GDP or the price level. 
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+6) An income tax cut that provides a greater incentive to work than an alternative tax cut will result in comparatively
+A) higher long-run real GDP and a higher price level.
+B) higher long-run real GDP and a lower price level.
+C) the same level of long-run real GDP and price level.
+D) the same level of long-run real GDP and a higher price level.
+E) the same level of long-run real GDP and a lower price level.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+
+7) If the nominal interest rate is 11%, the inflation rate is 4% and the tax rate is 25%, what is the real after-tax interest rate?
+A) -1.25%
+B) 4.25%
+C) 5.25%
+D) 8%
+E) 10%
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  Study Guide
+8) The Laffer Curve has been criticized by mainstream economists because
+A) there is no theoretical possibility of higher tax rates leading to lower tax revenues.
+B) higher tax rates do not create negative incentive effects.
+C) tax cuts are just spent, not saved as predicted by the theory.
+D) savers look only at real interest rates, not nominal interest rates.
+E) empirically, tax cuts have not led to higher tax revenues.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  Study Guide
+
+ 
+9) An income tax ________ potential GDP by shifting the labour ________ curve ________.
+A) increases; demand; rightward
+B) decreases; demand; rightward
+C) increases; supply; rightward
+D) decreases; supply; leftward
+E) increases; supply curve and labour demand curve; rightward
+Answer:  D
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Conceptual
+AACSB:  Analytical Skills
+
+10) If we compare Canada to France and the United Kingdom, Canada's tax wedge is ________ the French tax wedge and ________ the U.K. tax wedge.
+A) larger than; smaller than
+B) equal to; larger than
+C) smaller than; smaller than
+D) larger than; larger than
+E) smaller than; larger than
+Answer:  C
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+11) The difference between the before-tax and after-tax rates is the
+A) tax plug.
+B) deadweight gain.
+C) tax wedge.
+D) taxation penalty.
+E) deadweight loss.
+Answer:  C
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Recognition
+AACSB:  Reflective Thinking
+ 
+12) If we compare the United States to France, we see that potential GDP per person in France is ________ than that in the United States because the French tax wedge is ________ than the U.S. tax wedge.
+A) greater; larger
+B) greater; smaller
+C) less; larger
+D) less; smaller
+E) none of the above
+Answer:  C
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+13) Suppose the tax rate on interest income is 50 percent, the real interest rate is 3 percent, and the inflation rate is 4 percent. The real after-tax interest rate is
+A) -0.5 percent.
+B) 3.5 percent.
+C) 3.0 percent.
+D) 4.0 percent.
+E) -3.5 percent.
+Answer:  A
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+14) Suppose the tax rate on interest income is 25 percent, the real interest rate is 4 percent, and the inflation rate is 4 percent. The real after-tax interest rate is
+A) 0.5 percent.
+B) 3.5 percent.
+C) 4.0 percent.
+D) 2.0 percent.
+E) -0.5 percent.
+Answer:  D
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+ 
+15) The Laffer curve is the relationship between
+A) government expenditure and potential GDP.
+B) the tax rate and potential GDP.
+C) tax revenue and potential GDP.
+D) the tax rate and the amount of tax revenue.
+E) government outlays and revenues.
+Answer:  D
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Recognition
+AACSB:  Reflective Thinking
+16) According to the Laffer curve, raising the tax rate
+A) always increases the amount of tax revenue.
+B) always decreases the amount of tax revenue.
+C) does not change the amount of tax revenue.
+D) might increase, decrease, or not change the amount of tax revenue.
+E) has no effect on the amount of tax revenue.
+Answer:  D
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+17) The Laffer curve shows that increasing ________ increases ________ when ________ low.
+A) tax revenue; potential GDP; tax revenue is
+B) the tax rate; tax revenue; the tax rate is
+C) potential GDP; tax revenue; tax revenue is
+D) government outlays; the budget deficit; government expenditure is
+E) investment; potential GDP; the interest rate is
+Answer:  B
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+18) An increase in the tax on capital income ________ the supply of loanable funds and ________ investment.
+A) increases; increases
+B) increases; decreases
+C) decreases; increases
+D) decreases; decreases
+E) decreases the demand for loanable funds; decreases or increases
+Answer:  D
+Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Skill:  Conceptual
+Source:  Study Guide
+AACSB:  Reflective Thinking
+
+19) Suppose that in China, investment is $400 billion, saving is $400 billion, tax revenues are $500 billion, exports are $300 billion, and imports are $200 billion. The government budget ________ the supply of loanable funds, which ________ the real interest rate and ________ investment.
+A) surplus increases; lowers; decreases
+B) surplus decreases; raises; increases
+C) surplus increases; lowers; increases
+D) deficit decreases; raises; decreases
+E) surplus increases; raises; decreases
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+20) Suppose that in China, investment is $400 billion, saving is $400 billion, tax revenues are $500 billion, exports are $300 billion, and imports are $200 billion. ________ in government expenditure or ________ in taxes will further increase China's budget ________, increase investment and speed economic growth.
+A) A decrease; an increase; surplus
+B) An increase; a decreases; deficit
+C) An increase; an increase; surplus
+D) A decrease; a decrease; deficit
+E) A decrease; an increase; deficit
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+
+ 
+21) The government is proposing to increase the tax rate on labour income and asks you to report on the supply-side effects of such an action. According to the research of Edward C. Prescott, cross-country evidence for Canada, the United States, the United Kingdom, and France shows all of the following except ________.
+A) the greater the tax wedge, the smaller the level of employment and the smaller the potential GDP
+B) potential GDP per person in France is 14 percent below that of the United States (per person) and the entire difference can be attributed to the difference in the tax wedge in the two countries
+C) potential GDP per person in the United Kingdom is 41 percent below that of the United States (per person) and about a third of the difference arises from the different tax wedges
+D) between Canada, the United States, France, and the United Kingdom, the tax wedge is greatest in the United Kingdom, and the country with the smallest tax wedge has the smallest potential GDP
+E) potential GDP per person in Canada is 16 percent below that of the United States but this difference is due to different productivities
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+
+22) The government increases the tax rate on labour income and at the same time cuts the rate of sales tax to keep the amount of tax collected constant. As a result, the supply of labour ________, the demand for labour ________, and the equilibrium level of employment ________. The before-tax wage rate ________, and the after-tax wage rate ________. Potential GDP ________.
+A) decreases; does not change; decreases; rises; falls; decreases
+B) decreases; increases; does not change; rises; falls; does not change
+C) does not change; does not change; does not change; does not change; does not change; does not change
+D) decreases; decreases; decreases; rises; falls; decreases
+E) does not change; increases; increases; does not change; decreases; increases
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+23) The government increases the tax rate on labour income. As a result, the supply of labour ________ and the demand for labour ________. The equilibrium level of employment ________.
+A) decreases; increases; does not change
+B) does not change; decreases; decreases
+C) increases; does not change; decreases
+D) decreases; decreases; decreases
+E) does not change; decreases; decreases
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+
+24) The government increases the tax rate on labour income. At the equilibrium level of employment, the before-tax wage rate ________ and the after-tax wage rate ________. Potential GDP ________.
+A) rises; falls; decreases
+B) falls; rises; does not change
+C) rises; falls; does not change
+D) falls; rises; decreases
+E) rises; falls; increases
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Supply Side Effects of Fiscal Policy
+Source:  MyEconLab
+
+25) A tax on interest income ________.
+A) decreases the demand for loanable funds but does not change the real interest rate
+B) increases the demand for loanable funds and raises the real interest rate
+C) increases the supply of loanable funds and lowers the real interest rate
+D) decreases the supply of loanable funds and has no influence on the real interest rate
+E) has no effect on the demand for loanable funds
+Answer:  E
+Type: MC
+
+26) A tax on labour income ________.
+A) decreases the demand for labour but does not change the real wage rate
+B) increases the demand for labour and raises the real wage rate
+C) increases the supply of labour and lowers the real wage rate
+D) decreases the supply of labour and has no influence on the real wage rate
+E) has no effect on the demand for labour
+Answer:  E
+Type: MC
+ 
+29.3   Fiscal Stimulus
+
+1) Currently the government of Ricardia has outlays equal to $100 billion, and a tax scheme that is related positively to real GDP by the following equation: Taxes = $25 billion + 0.1(real GDP). What are autonomous taxes in Ricardia?
+A) It depends on the level of real GDP.
+B) 0.1
+C) $2.5 billion
+D) $250 billion
+E) $25 billion
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+2) Currently the government of Ricardia has outlays equal to $100 billion, and a tax scheme that is related positively to real GDP by the following equation:  Taxes = $25 billion + 0.1(real GDP). What is the real GDP when the government has a balanced budget?
+A) $100
+B) $250
+C) $1,250 billion
+D) $750 billion
+E) $1,000 billion
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+3) If the economy is in a recession, and the government has a budget deficit, then there 
+A) must be a structural deficit. 
+B) must be a structural surplus. 
+C) may be a structural deficit, but not a structural surplus. 
+D) may be a structural surplus, but not a structural deficit. 
+E) may be either a structural surplus or deficit. 
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+4) The structural deficit is the deficit 
+A) in a recession. 
+B) in an expansion. 
+C) that would occur at potential GDP. 
+D) caused by the business cycle. 
+E) that would occur at the trough of the business cycle. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+ 
+5) The cyclical deficit 
+A) is a persistent economic phenomenon. 
+B) occurs when the economy is at full employment.
+C) arises purely because real GDP does not equal potential GDP.
+D) is an accumulation of the government debt.
+E) none of the above.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+6) Norland has the budget deficit of $15 billion. According to the government economists, Norland has a structural deficit of $3 billion. What is a cyclical deficit in Norland?  
+A) $18 billion
+B) $15 billion
+C) $10 billion
+D) $12 billion
+E) zero
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+7) Everything else remaining the same, as the economy enters a recession, 
+A) tax revenues rise and interest payments on the debt rise. 
+B) tax revenues and transfer payments rise. 
+C) government outlays rise and tax revenues fall. 
+D) government outlays tend to fall and tax revenues fall. 
+E) interest payments on the debt rise and tax revenues fall. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+8) Everything else remaining the same, as the economy enters an expansion, 
+A) tax revenues rise and transfer payments fall. 
+B) tax revenues and transfer payments fall. 
+C) tax revenues and transfer payments rise. 
+D) tax revenues fall and transfer payments remain constant. 
+E) transfer payments and interest on the debt rise. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+ 
+9) If the economy is in an expansion, and the federal government is running a deficit, then a recession would automatically 
+A) decrease the deficit. 
+B) increase taxes. 
+C) increase government outlays. 
+D) increase the deficit. 
+E) C and D. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+10) If the economy is in a recession and the federal government is running a deficit, then an expansion would 
+A) automatically balance the budget. 
+B) automatically increase the deficit. 
+C) automatically decrease the deficit. 
+D) leave the deficit unchanged. 
+E) increase the deficit only if the interest rate rises. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+11) Consider the economy of NoTax, where the multiplier is 2.5. If the government desires to shift the AD curve rightward by $5 billion, the correct increase in government expenditure is
+A) $2 billion.
+B) $2.5 billion.
+C) $3 billion.
+D) $7.5 billion.
+E) $8.33 billion.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+12) A cyclical deficit occurs when
+A) government outlays are greater than revenues.
+B) government outlays are less than revenues.
+C) there is a deficit due to the fact real GDP is greater than potential GDP.
+D) there is a deficit due to the fact real GDP is less than potential GDP.
+E) there is a deficit even when real GDP equals potential GDP.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+ 
+13) A structural deficit
+A) is present only if real GDP is greater than potential.
+B) exists even if real GDP equals potential.
+C) equals the cyclical deficit plus the actual deficit.
+D) is greater than a cyclical deficit.
+E) none of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+Use the figure below to answer the following questions.
+
+ 
+Figure 29.3.1
+
+14) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. The budget is balanced when real GDP equals ________.
+A) $550 billion
+B) $600 billion
+C) $650 billion
+D) $700 billion
+E) $750 billion
+Answer:  C
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+ 
+15) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. If real GDP equals $550 billion, the budget is 
+A) in balance.
+B) a surplus of $60 billion.
+C) a surplus of $40 billion.
+D) a deficit of $60 billion.
+E) a deficit of $40 billion.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+16) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. If real GDP equals $550 billion, the structural deficit is
+A) zero.
+B) $60 billion.
+C) a surplus of $60 billion.
+D) a surplus of $40 billion.
+E) unknown given the available information.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+17) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. If potential GDP is $750 billion,
+A) neither a structural surplus nor a structural deficit exists.
+B) the structural deficit is $60 billion.
+C) the structural deficit is $40 billion.
+D) the structural surplus is $60 billion.
+E) the structural surplus is $40 billion.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+18) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. If potential GDP is $750 billion, and actual real GDP is $650 billion, the cyclical deficit is
+A) zero.
+B) $60 billion.
+C) $40 billion.
+D) equal to the structural deficit.
+E) $180 billion.
+Answer:  B
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+ 
+19) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. Automatic fiscal policy would be shown as a movement
+A) from right to left along the revenues curve.
+B) from left to right along the revenues curve.
+C) from right to left along the outlays curve.
+D) from left to right along the outlays curve.
+E) all of the above.
+Answer:  E
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+20) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. Discretionary fiscal policy would be shown as a movement
+A) from right to left along the revenues curve.
+B) from left to right along the revenues curve.
+C) from right to left along the outlays curve.
+D) from left to right along the outlays curve.
+E) none of the above.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+21) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. A discretionary fiscal restraint policy would be shown as
+A) a movement from left to right along the revenues curve.
+B) a movement from left to right along the outlays curve.
+C) an upward shift of the revenues curve.
+D) an upward shift of the outlays curve.
+E) both A and C.
+Answer:  C
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+22) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. Discretionary expansionary fiscal policy would be shown as
+A) a movement from left to right along the revenues curve.
+B) a movement from left to right along the outlays curve.
+C) an upward shift of the revenues curve.
+D) an upward shift of the outlays curve.
+E) both A and C.
+Answer:  D
+Diff: 3    Type: MC
+Topic:  Fiscal Stimulus
+
+ 
+23) Refer to Figure 29.3.1, which shows the outlays and revenues for the government of Pianoland. An automatic increase in tax revenues would be shown as a
+A) movement from left to right along the revenues curve.
+B) movement from left to right along the outlays curve.
+C) shift upwards in the revenues curve.
+D) shift upwards in the the outlays curve.
+E) both A and C.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+24) Automatic fiscal policy
+A) requires action by Parliament.
+B) is triggered by the state of the economy.
+C) involves only a change in government outlays and no change in revenues.
+D) involves only a change in personal income tax rates.
+E) occurs during recessions but not during expansions.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+25) Discretionary fiscal policy
+A) requires action by Parliament.
+B) is triggered by the state of the economy.
+C) involves only a change in government outlays and no change in revenues.
+D) involves only a change in personal income tax rates.
+E) occurs during recessions but not during expansions.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+26) Which one of the following happens automatically if the economy goes into a recession? 
+A) Government outlays increase and revenues do not change. 
+B) Revenues decrease and government outlays do not change. 
+C) The government budget deficit increases or the government budget surplus decreases. 
+D) The government budget deficit decreases. 
+E) Both government outlays and revenues increase, and the deficit stays the same. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+ 
+27) During an expansion, revenues
+A) and government outlays decrease. 
+B) decrease and government outlays increase. 
+C) increase and government outlays decrease.
+D) and government outlays increase.
+E) remain constant and government outlays increase.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+28) During a recession, revenues
+A) and government outlays decrease. 
+B) decrease and government outlays increase. 
+C) increase and government outlays decrease.
+D) and government outlays increase.
+E) remain constant and government outlays increase.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+29) Which of the following is an example of a fiscal policy designed to counter a recessionary gap?
+A) increasing debt interest payments
+B) increasing taxes
+C) decreasing transfer payments
+D) increasing transfer payments
+E) decreasing government expenditures on goods and services
+Answer:  D
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+Source:  Study Guide
+
+30) Which of the following is an example of a fiscal restraint policy?
+A) increasing government expenditure
+B) increasing taxes
+C) cutting transfer payments
+D) A and B
+E) B and C
+Answer:  E
+Diff: 1    Type: MC
+Topic:  Fiscal Stimulus
+
+ 
+31) Expansionary fiscal policy 
+A) increases aggregate demand.
+B) decreases aggregate demand.
+C) increases short-run aggregate supply.
+D) increases long-run aggregate supply.
+E) A, C, and D are correct.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Fiscal Stimulus
+
+32) The effect of a change in taxes is less than the same sized change in government expenditure because
+A) the amount by which consumption initially changes is equal to MPC times the tax change.
+B) some people do not pay their taxes.
+C) changes in government expenditure do not directly affect consumption.
+D) tax rates are the same regardless of income levels.
+E) none of the above.
+Answer:  A
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+33) An advantage of automatic stabilizers over discretionary fiscal policy is that
+A) automatic stabilizers are not subject to all the same time lags that discretionary fiscal policy is.
+B) automatic stabilizers can be easily fine-tuned to move the economy to full employment.
+C) only Parliament is involved in implementing automatic stabilizers instead of both Parliament and the Bank of Canada.
+D) automatic stabilizers require only a simple majority of Parliament to pass whereas discretionary fiscal policy requires a two-thirds majority to pass.
+E) automatic stabilizers work in recessions and expansions but discretionary fiscal policy works only in a recession.
+Answer:  A
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+ 
+34) If the budget deficit is $50 billion and the structural deficit is $10 billion, the cyclical deficit is
+A) $10 billion.
+B) $40 billion.
+C) $60 billion.
+D) $50 billion
+E) $20 billion.
+Answer:  B
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+35) If the economy has a structural deficit of $25 billion and a cyclical deficit of $75, we can conclude that the current budget deficit is ________ billion.
+A) $25
+B) $50
+C) $75
+D) $100
+E) $125
+Answer:  D
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Analytical
+AACSB:  Analytical Skills
+36) When real GDP equals potential GDP of $12 trillion, the budget deficit is $1 trillion. Real GDP actually equals $14 trillion and the budget surplus is $3 trillion. The economy has a structural ________ and a cyclical ________.
+A) deficit of $1 trillion; surplus of $4 trillion
+B) deficit of $1 trillion; surplus of $2 trillion
+C) surplus of $4 trillion; deficit of $1 trillion
+D) surplus of $3 trillion; surplus of $2 trillion
+E) deficit of $4 trillion; surplus of $1 trillion
+Answer:  A
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Analytical
+Source:  MyEconLab
+AACSB:  Analytical Skills
+
+ 
+37) Choose the correct statement.
+A) Contractionary fiscal policy can eliminate inflationary pressure.
+B) Eliminating an inflationary gap is very simple - calculate the size of the gap and the size of the multiplier, then change government expenditure for an immediate decrease in real GDP.
+C) When an economy is in an above full-employment equilibrium, an equal decrease in government expenditure and autonomous taxes cannot return the economy to full employment.
+D) When an economy is in an above full-employment equilibrium, an increase in taxes will decrease aggregate demand, but because the autonomous tax multiplier is smaller than the government expenditure multiplier, the economy will not return to potential GDP.
+E) All of the above.
+Answer:  A
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Analytical
+Source:  MyEconLab
+AACSB:  Analytical Skills
+
+38) The economy is in a recession and the recessionary gap is large. Discretionary fiscal policy that might occur is ________. Automatic fiscal policy that might occur is ________. A discretionary fiscal stimulation package that would avoid a budget deficit is a simultaneous and equal ________.
+A) an increase in transfer payments and a fall in taxes; an increase in government expenditure and a cut in taxes; increase in transfer payments and taxes
+B) a decrease in transfer payments and an increase in taxes; a decrease in government expenditure and an increase in taxes; decrease in transfer payments and taxes
+C) an increase in government expenditure and a cut in taxes; an increase in transfer payments and a fall in taxes; increase in government expenditure and taxes
+D) a decrease in government expenditure and an increase in taxes; a decrease in transfer payments and an increase in taxes; decrease in government expenditure and taxes
+E) none of the above
+Answer:  C
+Type: MC
+Topic:  Fiscal Stimulus
+Skill:  Analytical
+Source:  MyEconLab
+AACSB:  Analytical Skills
+39) If real GDP is less than potential GDP, which of the following fiscal policies would increase real GDP?
+A) a decrease in taxes
+B) an increase in government expenditures
+C) a fall in the interest rate
+D) Both A and B are correct
+E) Both B and C are correct.
+Answer:  D
+Type: MC
+
+ 
+40) The use of fiscal policy is limited because
+A) of recognition lag.
+B) of law-making lag.
+C) of impact lag.
+D) all of the above
+E) none of the above
+Answer:  D
+Type: MC
+
+41) Choose the correct statement.
+A) Tax cuts increase aggregate supply and aggregate demand.
+B) Tax cuts strengthen the incentive to work and to invest.
+C) The tax multiplier becomes smaller as time passes.
+D) According to Barro and Uhlig, tax cuts are a less powerful way to stimulate real GDP than spending increases.
+E) Both A and B are correct.
+Answer:  E
+Type: MC
+
+42) In 2011, Canada had ________.
+A) a structural deficit and a cyclical deficit
+B) a structural deficit and a cyclical surplus
+C) a structural surplus and a cyclical deficit
+D) a structural surplus and a cyclical surplus
+E) a balanced structural budget and a cyclical deficit
+Answer:  A
+Type: MC
+
+43) Which of the following policies shifts the AD curve the farthest leftward?
+A) a decrease in government expenditure of $10 billion 
+B) an increase in taxes of $10 billion
+C) a decrease in taxes of $10 billion
+D) an increase in government expenditure of $10 billion
+E) a simultaneous increase in government expenditure of $10 billion and taxes of $10 billion
+Answer:  A
+Type: MC

@@ -1,0 +1,1265 @@
+Chapter 24   Money, the Price Level, and Inflation
+
+24.1   What Is Money?
+
+1) Money is 
+A) equivalent to barter. 
+B) currency plus credit cards plus debit cards.
+C) the same as gold. 
+D) a means of payment.
+E) currency plus coins. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+2) Which of the following best fits the definition of money?
+A) gold
+B) any commodity or token that is generally acceptable as a means of payment
+C) an obligation between the parties to a transaction
+D) any unit of account
+E) any medium of exchange
+Answer:  B
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+3) If you can find someone to swap what you have for what you want, then 
+A) money is necessary for the exchange to work. 
+B) specialization is impossible in the society in which you live. 
+C) there exists a double coincidence of wants. 
+D) there exists a double system of money. 
+E) there exists a monetary exchange system. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+4) Without money to act as a medium of exchange, 
+A) the standard of living in the economy would increase. 
+B) barter exchange would allow for a much simpler yet increased standard of living. 
+C) the increased transactions costs associated with trading would prohibit some trades from taking place. 
+D) independence in production would lead to a proliferation of new products. 
+E) all exchanges that take place under a monetary system would still take place. 
+Answer:  C
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+5) Money's function as a unit of account can best be described as
+A) an agreed measure for stating the prices of goods and services.
+B) an entry in an accounting ledger. 
+C) a method of recording transactions.
+D) a commodity that can be exchanged for another commodity.
+E) a generally accepted medium of exchange.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+6) Which one of the following is not a function of money? 
+A) medium of exchange
+B) means of payment
+C) store of value
+D) measure of liquidity
+E) unit of account
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+7) Which of the following is a function of money?
+A) A medium of exchange.
+B) A measure of liquidity.
+C) A means of pooling risk.
+D) A store of exchange.
+E) A means of reducing transactions costs.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  What Is Money?
+Source:  Study Guide
+
+8) Money's function as a store of value can best be described as 
+A) an agreed measure for stating the prices of goods and services.
+B) a guarantee of a double coincidence of wants. 
+C) an efficient means of writing contracts over a long time period. 
+D) something that can be held and exchanged later for goods and services.
+E) a generally acceptable exchange system. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+
+9) The higher and more unpredictable the changes in a monetary unit, the 
+A) more likely it will be used as a store of value. 
+B) less likely it will be used as a store of value. 
+C) more confidence people will have in holding it for the future. 
+D) less likely contracts will be written to counterbalance the uncertainty of its value in the future. 
+E) more likely it will be used as a standard of deferred payment. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  What Is Money?
+10) The higher and more unpredictable the changes in the monetary unit, the 
+A) lower the opportunity cost of using it as a medium of exchange. 
+B) lower the opportunity cost of using it as a store of value. 
+C) higher the opportunity cost of using it as a store of value. 
+D) less likely barter exchange will replace it. 
+E) lower the opportunity cost of using it as a standard of deferred payment. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+11) Money can take the form of any one of the following except
+A) a credit card. 
+B) a chequing deposit. 
+C) a savings deposit. 
+D) Bank of Canada notes.
+E) coins.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+12) The official definitions of money can include all of the following except
+A) currency outside banks. 
+B) personal chequable deposits.
+C) non-chequable deposits.
+D) deposits at trust and mortgage loan companies. 
+E) cheques. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+
+13) Which of the following is not considered money in Canada today?
+A) deposits at credit unions
+B) bank of Canada notes
+C) deposits at banks
+D) coins
+E) debit cards
+Answer:  E
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+14) Which one of the following items is not included in the M1 definition of money? 
+A) currency outside banks.
+B) personal chequable deposits
+C) non-personal chequable deposits
+D) fixed term deposits
+E) Neither B nor D are part of M1.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+15) The largest component of M1 is 
+A) currency outside banks. 
+B) personal chequable deposits.
+C) non-personal chequable deposits.
+D) fixed term deposits. 
+E) non-personal non-chequable deposits.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+16) Using a credit card can best be likened to 
+A) taking out a loan. 
+B) a barter exchange. 
+C) using any other form of money, because you can immediately take the goods you purchase home. 
+D) writing a cheque on your chequable deposit.
+E) withdrawing money from a savings account. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+
+17) Which of the following assets is the most liquid?
+A) a Canada Savings Bond
+B) a credit card
+C) a house
+D) cash
+E) a line of credit
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+18) If the prices of goods and services are stated in terms of kilograms of salt, then salt is
+A) a unit of account. 
+B) a standard of deferred payment. 
+C) a store of value. 
+D) quasi-money. 
+E) a medium of exchange. 
+Answer:  A
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+19) Which one of the following is a component of M2 but not of M1? 
+A) currency outside banks
+B) personal chequable deposits
+C) personal non-chequable deposits
+D) currency in a bank vault
+E) Canada Savings Bonds
+Answer:  C
+Diff: 1    Type: MC
+Topic:  What Is Money?
+Source:  Study Guide
+20) Which one of the following is not a store of value? 
+A) credit cards
+B) personal chequable deposits
+C) fixed term deposits
+D) non-personal chequable deposits
+E) non-chequable deposits
+Answer:  A
+Diff: 2    Type: MC
+Topic:  What Is Money?
+Source:  Study Guide
+
+
+21) Which of the following is a store of value?
+A) a credit card
+B) a cheque
+C) a debit card
+D) a fixed term deposit
+E) all of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+22) Which one of the following is considered to be money? 
+A) a chequable deposit
+B) a blank cheque
+C) a credit card
+D) a debit card
+E) a Canada Savings Bond
+Answer:  A
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+23) Which one of the following is considered to be money?
+A) a cheque
+B) a debit card
+C) a credit card
+D) currency
+E) all of the above
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+24) Which one of the following is not money? 
+A) a chequable deposit
+B) Canadian currency
+C) a credit card
+D) a non-chequable deposit
+E) a fixed term deposit
+Answer:  C
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+25) Anything can be money as long as it 
+A) has low transactions costs. 
+B) is not too bulky. 
+C) has intrinsic worth. 
+D) meets the double coincidence of wants. 
+E) is acceptable as a medium of exchange. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+26) Consider the following data from the economy of Adanac: 
+
+∙	Currency outside banks: $15 billion
+∙	Personal and non-personal chequable deposits: $40 billion
+∙	Personal non-chequable deposits: $50 billion
+∙	Non-personal non-chequable deposits: $125 billion
+∙	Fixed term deposits: $200 billion
+
+The value of MI is $________ billion and the value of M2 is $________ billion. 
+A) 105; 230
+B) 110; 235
+C) 55; 430
+D) 55; 230
+E) 60; 430
+Answer:  C
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+27) Barter can only take place if there is
+A) money.
+B) a double coincidence of wants.
+C) a double coincidence of money.
+D) no inflation.
+E) none of the above.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+
+28) If Wolfgang transfers $1,000 out of his chequable deposit account and places it in his non-chequable deposit account, 
+A) M1 and M2 fall. 
+B) M1 falls and M2 rises. 
+C) M1 falls and M3 rises. 
+D) M1 falls and M2 remains the same. 
+E) M1 rises and M2 remains the same. 
+Answer:  D
+Diff: 2    Type: MC
+Topic:  What Is Money?
+29) If Wolfgang transfers $1,000 out of his non-chequable deposit account and places it in his chequable deposit account, 
+A) M1 and M2 fall. 
+B) M1 falls and M2 rises. 
+C) M1 falls and M3 rises. 
+D) M1 falls and M2 remains the same. 
+E) M1 rises and M2 remains the same. 
+Answer:  E
+Diff: 2    Type: MC
+Topic:  What Is Money?
+
+30) Which one of the following is most liquid? 
+A) chequable deposits
+B) real estate
+C) government bonds
+D) debit cards
+E) cheques
+Answer:  A
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+31) Liquidity is
+A) the ease with which an asset can be converted into a means of payment. 
+B) the degree of certainty of the price of an asset. 
+C) a high-risk asset.
+D) the net flow of gold into the Bank of Canada. 
+E) the same as currency. 
+Answer:  A
+Diff: 1    Type: MC
+Topic:  What Is Money?
+
+
+Use the information below to answer the following question.
+
+Fact 24.1.1
+
+The information describes a hypothetical banking system.  Assume that all banks are holding their desired reserves.
+
+Actual reserves in banking system	$1,000
+Total chequable deposits	$5,500
+Securities held by chartered banks	$1,000
+Currency outside banks	$500
+
+32) Refer to Fact 24.1.1.  The quantity of money as measured by M1 is equal to
+A) $2,500.
+B) $1,500.
+C) $6,500.
+D) $7,000.
+E) $6,000.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  What Is Money?
+33) In a world with no money, costs are expressed in terms of other goods. If one video game costs two hamburgers, and a hamburger costs three pops, how many pops would it take to buy a video game?
+A) 5
+B) 3
+C) 6
+D) 3/2
+E) 1/6
+Answer:  C
+Type: MC
+
+34) During a period of severe inflation, which function of money is most seriously affected?
+A) store of value
+B) unit of account
+C) medium of exchange
+D) means of payment
+E) none of the above
+Answer:  A
+Type: MC
+
+
+24.2   The Banking System
+
+1) Which one of the following would not be considered a depository institution? 
+A) The Bank of Canada.
+B) a credit union
+C) a caisse populaire
+D) a trust and mortgage loan company
+E) The Bank of Montreal
+Answer:  A
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+2) A private firm that takes deposits from households and firms and makes loans to other households and firms is
+A) a usurer. 
+B) a depository institution. 
+C) a credit company. 
+D) a stockbroker. 
+E) an insurance company.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+3) Which one of the following is not a depository institution?
+A) a trust and mortgage loan company
+B) a foreign-owned chartered bank
+C) a credit union
+D) a caisse populaire
+E) a car insurance company
+Answer:  E
+Diff: 1    Type: MC
+Topic:  The Banking System
+4) In 2008, chartered banks held reserves equal to approximately ________ percent of deposits.
+A) 0.4
+B) 0.04
+C) 4.0
+D) 0.14
+E) 14.0
+Answer:  A
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+
+5) The reserves of a bank include 
+A) the cash in its vault plus the value of its chequable deposits.
+B) the cash in its vault plus any deposits held on account at the Bank of Canada. 
+C) the cash in its vault plus any gold held for the bank at the Bank of Canada. 
+D) all of its common stock holdings, the cash in its vault, and all deposits held on account with the Bank of Canada. 
+E) the cash in its vault plus any deposits held on account with the Bank of Canada plus the value of any government bonds that it holds. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+6) Which one of the following is not a service of depository institutions?
+A) Lowering the cost of borrowing.
+B) Providing a place for reserve account deposits.
+C) Pooling risk.
+D) Creating liquidity.
+E) Lowering the cost of monitoring borrowers.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+7) Pooling risk 
+A) refers to a default contract made by a bank to other banks. 
+B) refers to spreading the risk of loan default among all the depositors within the depository institution.
+C) is now illegal under the Nuisance Act of 2007. 
+D) occurs when one person lends to an entire group or pool of borrowers. 
+E) refers to the lower cost of obtaining funds from a depository institution.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+8) The Bank of Canada does not do which of the following?
+A) Supervise chartered banks.
+B) Lend money to the public.
+C) Act as a lender of last resort to banks.
+D) Issue bank notes.
+E) Hold government of Canada securities.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+9) The Bank of Canada is the lender of last resort.  This means banks may borrow money from the Bank of Canada
+A) whenever they are short of reserves.
+B) overnight.
+C) if they have sufficient securities to support the loan.
+D) if the banking system as a whole is short of reserves.
+E) to finance a sudden and dramatic increase in overseas reserves.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+10) Which of the following statements about depository institutions is false?
+A) They create liquidity by borrowing long and lending short.
+B) They keep reserves to meet cash withdrawals.
+C) A credit union is an example of a depository institution.
+D) They pool, and therefore reduce, risk.
+E) They borrow at lower interest rates and lend at higher rates.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Banking System
+Source:  Study Guide
+
+11) Which of the following is an economic function of a chartered bank?
+A) Issuing bank notes.
+B) Pooling risk.
+C) Supervising financial markets.
+D) Conducting monetary policy.
+E) None of the above.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+12) Which of the following does not affect the size of the monetary base?
+A) the amount of notes issued by the Bank of Canada
+B) the amount of loans issued by chartered banks
+C) the amount of coins issued by the Canadian Mint
+D) the amount of chartered bank deposits at the Bank of Canada
+E) none of the above
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Banking System
+
+13) The Monetary Base consists of the sum of 
+A) Bank of Canada notes held within the Bank of Canada, bank deposits at the Bank of Canada, and coins held by banks.
+B) Bank of Canada notes held outside the Bank of Canada, the desired reserves of chartered banks, and coins held by banks.
+C) Bank of Canada notes held outside the Bank of Canada, bank deposits at the Bank of Canada, and coins held by banks and the public.
+D) Bank of Canada notes held within the Bank of Canada, bank deposits at the Bank of Canada, and coins held by banks and the public.
+E) Bank of Canada notes held outside the Bank of Canada, bank deposits at the Bank of Canada, and notes and coins held by banks.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Banking System
+
+14) Choose the statement that is incorrect.
+A) A chartered bank is a private firm, chartered under the Bank Act of 1992 to receive deposits and make loans.
+B) A credit union is a cooperative organization that operates under the Co-operative Credit Association Act of 1992.
+C) A caisse populaire is similar to a credit union.
+D) Trust and mortgage loan companies receive deposits, make loans, and act as trustee for pension funds and for estates. 
+E) Trust and mortgage loan companies have the bulk of the deposits in M1 and M2.
+Answer:  E
+Type: MC
+
+15) Which of the following is an asset of the Bank of Canada?
+A) loans to depository institutions
+B) Bank of Canada notes
+C) depository institution deposits
+D) deposits of private Canadian citizens
+E) loans to private Canadian citizens
+Answer:  A
+Type: MC
+
+16) When the Bank of Canada sells government securities to a bank, how are the Bank of Canada's assets affected?
+A) The bank's reserves held at the Bank of Canada increase.
+B) The bank's reserves held at the Bank of Canada decrease.
+C) Bank of Canada notes increase.
+D) The amount of the Bank of Canada's government securities increases.
+E) The amount of the Bank of Canada's government securities decreases.
+Answer:  E
+Type: MC
+
+24.3   How Banks Create Money
+
+1) A bank can create money by 
+A) selling some of its securities. 
+B) increasing its reserves. 
+C) lending its excess reserves. 
+D) printing more cheques. 
+E) converting reserves into securities. 
+Answer:  C
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+2) Excess reserves are
+A) desired reserves minus actual reserves. 
+B) required reserves minus actual reserves. 
+C) liquidity funds minus actual reserves. 
+D) actual reserves minus desired reserves. 
+E) required reserves minus desired reserves. 
+Answer:  D
+Diff: 1    Type: MC
+Topic:  How Banks Create Money
+
+3) Whenever desired reserves exceed actual reserves, the bank 
+A) can make new loans.
+B) will call in loans. 
+C) will go out of business. 
+D) is in a profit-making position. 
+E) has excess reserves. 
+Answer:  B
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+4) Whenever actual reserves exceed desired reserves, the bank 
+A) can make new loans.
+B) will go out of business. 
+C) needs to call in loans. 
+D) will borrow funds from another bank. 
+E) will raise the interest rate on its loans.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+
+5) The ratio of currency to deposits is the
+A) currency drain ratio.
+B) excess reserve ratio.
+C) monetary reserve ratio.
+D) reserve ratio.
+E) currency ratio.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  How Banks Create Money
+6) The money creation process begins when
+A) desired reserves increase because of an increase in deposits.
+B) the quantity of money increases.
+C) banks have excess reserves.
+D) bank deposits increase.
+E) banks lend reserves.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  How Banks Create Money
+
+7) If people decide to transfer their currency into their bank deposits then, all else constant, their decisions will
+A) cause the quantity of money to decrease.
+B) cause lower inflation.
+C) cause higher real interest rates.
+D) cause the quantity of money to increase immediately.
+E) increase the actual reserves of banks.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+8) Suppose that a country has $50 billion in bank reserves, $100 billion in currency held by the public, and $500 billion in bank deposits.  The currency drain ratio is
+A) 18%.
+B) 50%.
+C) 30%.
+D) 10%.
+E) 20%.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+Use the information below to answer the following questions.
+
+Fact 24.3.1 
+
+The Bank of Speedy Creek has chosen the following initial balance sheet:
+
+
+
+9) Refer to Fact 24.3.1. Based on the Bank of Speedy Creek's initial balance sheet, what is its desired reserve ratio?
+A) 4 percent
+B) 8 percent
+C) 12.5 percent
+D) 25 percent
+E) 40 percent
+Answer:  B
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+Source:  Study Guide
+
+10) Refer to Fact 24.3.1. Huck Finn comes along and deposits $10. After Huck's deposit, but before any other actions occur, the total amount of money in the economy
+A) has stayed the same, with its components unchanged.
+B) has stayed the same, with currency decreasing and deposits increasing.
+C) has fallen, with currency decreasing and deposits staying the same.
+D) has risen, with currency unchanged and deposits increasing.
+E) has fallen, with currency decreasing and deposits unchanged.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+Source:  Study Guide
+
+Use the information below to answer the following questions.
+
+Fact 24.3.2
+The Bank of Hobbiton has chosen the following initial balance sheet:
+
+
+
+11) Refer to Fact 24.3.2. Based on the Bank of Hobbiton's initial balance sheet, what is its desired reserve ratio?
+A) 10 percent
+B) 100 percent
+C) 20 percent
+D) 5 percent
+E) not calculable with the available information
+Answer:  D
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+12) Refer to Fact 24.3.2. Bilbo Baggins comes to the bank and deposits a $100 bill. After Bilbo's deposit, but before any other actions occur, the total quantity of money in the economy
+A) has stayed the same, with its components unchanged.
+B) has stayed the same, with currency decreasing and deposits increasing.
+C) has fallen, with currency decreasing and deposits staying the same.
+D) has risen, with currency unchanged and deposits increasing.
+E) has fallen, with currency decreasing and deposits unchanged.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+13) The Canadian money multiplier is calculated as the
+A) change in monetary base divided by the change in deposits.
+B) change in quantity of bank notes divided by the change in monetary base.
+C) change in monetary base divided by the change in monetary holdings of households.
+D) change in the quantity of money divided by the change in the monetary base.
+E) change in monetary base divided by the change in quantity of money.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  How Banks Create Money
+
+
+14) The quantity of money that the banking system can create is limited by
+A) bank managers' decisions.
+B) the monetary base, desired reserves, and desired currency holdings.
+C) the number of consumers who apply for loans.
+D) the credit ratings of the consumers who are applying for loans.
+E) the quantity of bank notes released by the Bank of Canada.
+Answer:  B
+Type: MC
+Topic:  How Banks Create Money
+Source:  MyEconLab
+15) If the desired reserve ratio is 3 percent and deposits totaled $5.75 billion, banks hold 
+A) $172.5 million in reserves.
+B) $0.1725 million in reserves.
+C) $172.5 million in excess reserves.
+D) $0.1725 million in excess reserves.
+E) $192 million in reserves.
+Answer:  A
+Type: MC
+
+16) The banks on Sunny Island have deposits of $4 million, reserves of $600,000, and loans of $2.4 million. The desired reserve ratio is 10 percent. The banks have ________ of desired reserves and ________ of excess reserves.
+A) $400,000; $600,000
+B) $200,000; $400,000
+C) $400,000; $200,000
+D) $600,000; $200,000
+E) $200,000; $600,000
+Answer:  C
+Type: MC
+
+17) When the nominal interest rate rises, the opportunity cost of holding money ________.
+A) rises and people hold more money
+B) falls and people hold more money 
+C) falls and people hold less money
+D) rises and people hold less money
+E) does not change
+Answer:  D
+Type: MC
+
+
+18) When the interest rate falls in the money market, the quantity of money demanded ________ and the quantity of money supplied ________.
+A) increases; remains unchanged
+B) increases; decreases
+C) remains unchanged; decreases
+D) remains unchanged; remains unchanged
+E) decreases; increases
+Answer:  A
+Type: MC
+
+19) Suppose that the interest rate is greater than the equilibrium interest rate. Which of the following statements is true?
+I.	There is an excess quantity of money.
+II.	The quantity of money automatically increases.
+III.	The interest rate falls.
+A) I only
+B) II only
+C) III only
+D) I and III only
+E) None of the above statements are true. 
+Answer:  D
+Type: MC
+
+24.4   The Money Market
+
+1) The opportunity cost of holding money increases when the
+A) purchasing power of money increases.
+B) nominal interest rate rises.
+C) price of goods and services decrease.
+D) income of consumers increases.
+E) income of consumers decreases.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+2) Choose the correct statement.
+A) The quantity of money measured in constant dollars is nominal money.
+B) The quantity of money measured in dollars is nominal money.
+C) The quantity of nominal money demanded is inversely related to the price level.
+D) As real GDP increase the quantity of nominal money demanded decreases.
+E) As the interest rate rises, the quantity of real money demanded increases.
+Answer:  B
+Diff: 1    Type: MC
+Topic:  The Money Market
+
+3) If the price level doubles, all else constant, the quantity of
+A) real money demanded will double.
+B) nominal money demanded will double.
+C) real money demanded will half.
+D) nominal money demanded will half.
+E) nominal money demanded will remain constant.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+4) Real money is equal to
+A) nominal income divided by the velocity of circulation.
+B) nominal income divided by the price level.
+C) nominal money divided by the price level.
+D) the price level divided by nominal money.
+E) nominal money divided by nominal income.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Money Market
+
+
+5) Nominal money is equal to real
+A) money times the price level.
+B) GDP times the price level.
+C) GDP times the GDP deflator.
+D) money divided by the price level.
+E) GDP times real money.
+Answer:  A
+Diff: 1    Type: MC
+Topic:  The Money Market
+6) Everything else remaining the same, an increase in real GDP
+A) increases the demand for real money.
+B) decreases the demand for real money.
+C) does not change the demand for real money.
+D) increases the demand for real money up to a point, and then demand will automatically fall.
+E) decreases the demand for real money up to a point, and then demand will automatically rise.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+
+Use the figure below to answer the following questions.
+
+
+
+Figure 24.4.1
+
+7) Refer to Figure 24.4.1. Everything else remaining the same, which graph best shows an increase in real GDP?
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (c)
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+8) Refer to Figure 24.4.1. Everything else remaining the same, which graph best shows a decrease in real GDP?
+A) (a)
+B) (b)
+C) (c)
+D) (d)
+E) (a) and (c)
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+Use the figure below to answer the following questions.
+
+
+Figure 24.4.2
+
+9) Refer to Figure 24.4.2. Which one of the following best describes the response to an increase in real GDP?
+A) Movement from A to F
+B) Movement from A to C
+C) Movement from E to A
+D) Movement from B to A
+E) Movement from A to E
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+10) Refer to Figure 24.4.2. Which one of the following best describes the response to a decrease in real GDP?
+A) A movement from A to C
+B) A movement from A to B
+C) A movement from A to E
+D) A movement from B to C
+E) A movement from E to A
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+11) Refer to Figure 24.4.2. Which one of the following best describes the response to a decrease in the market price of bonds?
+A) A movement from A to B
+B) A movement from A to C
+C) A movement from A to F
+D) A movement from A to E
+E) A movement from E to A
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+12) Refer to Figure 24.4.2. Which one of the following best describes the response to a rise in the market price of bonds?
+A) A movement from A to B
+B) A movement from A to C
+C) A movement from A to F
+D) A movement from A to E
+E) A movement from C to A
+Answer:  B
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+13) Refer to Figure 24.4.2. Which one of the following best describes the response to a rise in the price level?
+A) A movement from A to B
+B) A movement from A to C
+C) A movement from A to F
+D) A movement from A to E
+E) none of the above
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+14) The amount of real money people want to hold will increase if either the amount they are spending increases or the
+A) price level increases.
+B) price level decreases.
+C) interest rate increases.
+D) interest rate decreases.
+E) price of bond falls.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+15) The amount of real money people want to hold will decrease if either ________ or the interest rate ________.
+A) the price level increases; rises
+B) the price level decreases; falls
+C) real GDP increases; falls
+D) real GDP decreases; rises
+E) the price of bonds increase; rises
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+16) Which one of the following will shift the demand for money curve rightward?
+A) an increase in real GDP
+B) an increase in the price level
+C) a decrease in the price level
+D) an increase in the interest rate
+E) a decrease in the interest rate
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Money Market
+
+17) If households and firms find they are holding less money than desired, they will
+A) sell bonds, and the interest rate will rise.
+B) sell bonds, and the interest rate will fall.
+C) buy bonds, and the interest rate will rise.
+D) buy bonds, and the interest rate will fall.
+E) buy goods, and the price level will rise.
+Answer:  A
+Diff: 3    Type: MC
+Topic:  The Money Market
+Source:  Study Guide
+
+
+18) If households and firms find they are holding more money than desired, they will
+A) sell bonds, and the interest rate will rise.
+B) sell bonds, and the interest rate will fall.
+C) buy bonds, and the interest rate will rise.
+D) buy bonds, and the interest rate will fall.
+E) buy goods, and the price level will rise.
+Answer:  D
+Diff: 3    Type: MC
+Topic:  The Money Market
+19) The opportunity cost of holding currency is
+A) the price level.
+B) consumption given up.
+C) the real interest rate.
+D) the nominal interest rate.
+E) the inflation rate.
+Answer:  D
+Diff: 1    Type: MC
+Topic:  The Money Market
+
+20) Money market equilibrium occurs
+A) when interest rates are constant.
+B) when the level of real GDP is constant.
+C) when the quantity of real money supplied equals the quantity of real money demanded.
+D) only under a fixed exchange rate.
+E) when bond prices are constant.
+Answer:  C
+Diff: 1    Type: MC
+Topic:  The Money Market
+Source:  Study Guide
+
+21) If the interest rate is above the equilibrium rate, how is equilibrium achieved in the money market?
+A) People buy goods to get rid of their excess money, lowering the price of goods and lowering the interest rate.
+B) People sell goods to get rid of their excess money, lowering the price of goods and lowering the interest rate.
+C) People sell bonds to get rid of their excess money, lowering the price of bonds and lowering the interest rate.
+D) People sell bonds to get rid of their excess money, raising the price of bonds and lowering the interest rate.
+E) People buy bonds to get rid of their excess money, raising the price of bonds and lowering the interest rate.
+Answer:  E
+Diff: 3    Type: MC
+Topic:  The Money Market
+Source:  Study Guide
+
+22) If the interest rate is below the equilibrium, how is equilibrium achieved in the money market?
+A) People buy goods to get rid of their excess money, lowering the price of goods and raising the interest rate.
+B) People sell goods to get rid of their excess money, lowering the price of goods and raising the interest rate.
+C) People sell bonds to get rid of their excess money, lowering the price of bonds and raising the interest rate.
+D) People sell bonds to try and raise more money, lowering the price of bonds and raising the interest rate.
+E) People buy bonds to get rid of their excess money, raising the price of bonds and raising the interest rate.
+Answer:  D
+Diff: 3    Type: MC
+Topic:  The Money Market
+Use the table below to answer the following questions.
+
+Table 24.4.1
+
+	A	B	C
+1	r	Y0	Y1
+2	7	1.0	1.5
+3	6	1.5	2.0
+4	5	2.0	2.5
+5	4	2.5	3.0
+6	3	3.0	3.5
+7	2	3.5	4.0
+8	1	4.0	4.5
+
+23) Refer to Table 24.4.1. The spreadsheet provides information about the demand for money in Minland.
+Column A is the nominal interest rate, r. Columns B and C show the quantity of money demanded at two different levels of real GDP: Y0 is $10 billion and Y1 is $20 billion.
+The quantity of money is $3 billion. Real GDP is $20 billion.
+If the interest rate is less than 4 percent a year
+A) people sell bonds, the price of a bond falls, and the interest rate rises.
+B) people buy bonds, the price of a bond rises, and the interest rate rises.
+C) people sell bonds, the price of a bond falls, and the interest rate falls.
+D) people buy bonds, the price of a bond rises, and the interest rate falls.
+E) the demand for money increases.
+Answer:  A
+Type: MC
+Topic:  The Money Market
+Source:  MyEconLab
+
+
+24) Refer to Table 24.4.1. The spreadsheet provides information about the demand for money in Minland.
+Column A is the nominal interest rate, r. Columns B and C show the quantity of money demanded at two different levels of real GDP: Y0 is $10 billion and Y1 is $20 billion.
+The quantity of money is $3 billion. Real GDP is $20 billion.
+If the interest rate is greater than 4 percent a year
+A) people buy bonds, the price of a bond rises, and the interest rate rises.
+B) people buy bonds, the price of a bond rises, and the interest rate falls.
+C) people sell bonds, the price of a bond falls, and the interest rate rises.
+D) people sell bonds, the price of a bond falls, and the interest rate falls.
+E) the demand for money decreases.
+Answer:  B
+Type: MC
+Topic:  The Money Market
+Source:  MyEconLab
+25) When the nominal interest rate rises, the opportunity cost of holding money ________.
+A) rises and people hold more money
+B) falls and people hold more money 
+C) falls and people hold less money
+D) rises and people hold less money
+E) does not change
+Answer:  D
+Type: MC
+
+
+24.5   The Quantity Theory of Money
+
+1) The quantity theory of money begins with the equation of exchange, MV = PY, and then adds the assumptions that
+A) velocity varies inversely with the interest rate, and the price level is independent of the quantity of money.
+B) velocity and the price level are independent of the quantity of money.
+C) potential GDP and the quantity of money are independent of the price level.
+D) potential GDP and the price level are independent of the quantity of money.
+E) velocity and potential GDP are independent of the quantity of money.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+Source:  Study Guide
+
+2) According to the quantity theory of money, an increase in the quantity of money will increase the price level
+A) but have no effect on real GDP or the velocity of circulation.
+B) and increase real GDP and the velocity of circulation.
+C) and increase real GDP but decrease the velocity of circulation.
+D) and decrease real GDP and increase the velocity of circulation.
+E) but have no effect on real GDP and will decrease the velocity of circulation.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+Source:  Study Guide
+
+3) GDP is $2,000 billion, the price level is 100, and the velocity of circulation is 5. The quantity of money is
+A) $10,000 billion.
+B) $2,000 billion.
+C) $400 billion.
+D) $20 billion.
+E) $500 billion.
+Answer:  C
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+
+4) Real GDP is $2,000 billion, the price level is 120, and the velocity of circulation is 5.  Nominal GDP is
+A) $24 billion.
+B) $600 billion.
+C) $2,000 billion.
+D) $2,400 billion.
+E) $166.67 billion.
+Answer:  D
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+
+5) Real GDP is $2,560 billion, the price level is 125, and the velocity of circulation is 5.  The quantity of money is
+A) $2,048 billion.
+B) $625 billion.
+C) $20.48 billion.
+D) $400 billion.
+E) $640 billion.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+
+6) Real GDP is $2,560 billion, the quantity of money $800 billion, and the velocity of circulation is 4.  The price level is
+A) 125.
+B) 6.4.
+C) 1,000.
+D) 3,200.
+E) 3.2.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  The Quantity Theory of Money
+
+7) According to the quantity theory of money, in the long run
+A) V/M is constant.
+B) Y/M is constant.
+C) Y/P is constant.
+D) M/P is constant.
+E) M/V is constant.
+Answer:  D
+Type: MC
+Topic:  The Quantity Theory of Money
+Source:  Study Guide
+
+8) International evidence shows us that
+A) there is a general tendency for money growth and inflation to be correlated but the quantity theory does not predict inflation precisely.
+B) in the long run a 1 percent increase in the growth rate of money causes a 1 percent increase in inflation.
+C) there is a general tendency for money growth and inflation to be inversely related, and the quantity theory is a poor predictor of inflation.
+D) money growth and inflation are always rising, and the quantity theory predicts inflation accurately.
+E) there is a general tendency for money growth and inflation to be correlated and the quantity theory predicts inflation precisely.
+Answer:  A
+Type: MC
+Topic:  The Quantity Theory of Money
+Source:  MyEconLab
+
+9) On the average in Canada, the inflation rate and the money growth rate minus real GDP growth rate
+A) move in opposite directions.
+B) are not related.
+C) rise and fall together.
+D) are always rising.
+E) are always equal.
+Answer:  C
+Type: MC
+Topic:  The Quantity Theory of Money
+Source:  MyEconLab
+
+10) Quantecon is a country in which the quantity theory of money operates. The country has a constant population, capital stock, and technology. In year 1, real GDP was $400 million, the price level was 200, and the velocity of circulation was 20.
+In year 2 the quantity of money was 20 percent higher than in year 1.
+The quantity of money in year 1 was ________.
+The quantity of money in year 2 was ________.
+The price level in year 2 is ________.
+A) $20 million; 24 million; 240
+B) $20 million; $24 million; 220
+C) $40 million; $48 million; 240
+D) $40 million; $48 million; 220
+E) $80 million; $88 million; 200
+Answer:  C
+Type: MC
+Topic:  The Quantity Theory of Money
+Source:  MyEconLab
+
+24.6   Mathematical Note: The Money Multiplier
+
+1) Suppose that people decide to hold more money as cash. Which statement best illustrates the impact of this action on the money multiplier?  The money multiplier
+A) decreases because of the decrease in the currency drain ratio.
+B) increases because of the decrease in the currency drain ratio.
+C) increases because of a decrease in deposits.
+D) increases because of the increase in the currency drain ratio.
+E) decreases because of the increase in the currency drain ratio.
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+2) Which of the following will increase the size of the money multiplier?
+A) a decrease in the desired reserve ratio
+B) an increase in the desired reserve ratio
+C) a decrease in the currency drain ratio
+D) an increase in the currency drain ratio
+E) either A or C above
+Answer:  E
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+3) The money multiplier will decrease if the currency drain ratio
+A) increases or the desired reserve ratio increases.
+B) decreases or the desired reserve ratio decreases.
+C) decreases or the desired reserve ratio increases.
+D) increases or the desired reserve ratio decreases.
+E) decreases and the monetary base increases.
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+4) Suppose that the desired reserve ratio is 0.25 and the currency drain ratio is 0.25.  The money multiplier is
+A) 1.71.
+B) 2.50.
+C) 2.40.
+D) 1.40.
+E) 2.08.
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+5) Suppose that the banking system has excess reserves of $10 million, the desired reserve ratio is 10 percent and the currency drain ratio is 40 percent.  By how much will the quantity of money increase?
+A) $12.5 million
+B) $28 million
+C) $50 million
+D) $40 million
+E) $22 million
+Answer:  B
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+Use the information below to answer the following questions.
+
+Fact 24.6.1
+
+The Bank of Speedy Creek has chosen the following initial balance sheet:
+
+
+
+6) Refer to Fact 24.6.1. Suppose all the banks in the banking system have the same desired reserve ratio as the Bank of Speedy Creek.  If the currency drain ratio is 32 percent, what is the size of the money multiplier?  
+A) 3.3
+B) 1.25
+C) 5.0
+D) 4.0
+E) 2.7
+Answer:  A
+Diff: 2    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+7) The Canadian currency drain ratio for M1 is approximately ________ percent in 2010.
+A) 15
+B) 24
+C) 11
+D) 34
+E) 75
+Answer:  C
+Diff: 1    Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+
+8) Canada's M1 multiplier is ________ than Canada's M2 multiplier because the currency drain for M1 is ________ than for M2, and the desired reserve ratio for M1 is ________ than for M2.
+A) smaller; larger; larger
+B) larger; smaller; larger
+C) larger; smaller; smaller
+D) smaller; larger; smaller
+E) smaller; smaller; smaller
+Answer:  A
+Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+Source:  MyEconLab
+
+9) The money multiplier can also be calculated as ________, where a is the currency drain ratio and b is the desired reserve ratio.
+A) (a + b) ÷ (1 + b)
+B) a ÷ (a + b)
+C) (1 + a) ÷ (a + b)
+D) (a + b) ÷ (1 + a)
+E) (1 + b) ÷ (a + b)
+Answer:  C
+Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+Source:  MyEconLab
+
+10) In the United Kingdom, the currency drain ratio is 0.38 and the desired reserve ratio is 0.002.
+The U.K. money multilier is
+A) 2.62.
+B) 0.38.
+C) 0.28.
+D) 2.77.
+E) 3.61.
+Answer:  E
+Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+Source:  MyEconLab
+
+11) You are given the following information about the economy of Nocoin:
+The banks have deposits of $300 billion. Their reserves are $15 billion, two thirds of which is in deposits with the central bank. Households and firms hold $30 billion in bank notes. There are no coins!
+The banks have no excess reserves.
+The Bank of Nocoin, the central bank, increases bank reserves by $0.5 billion.
+The quantity of money ________.
+The change in the quantity of money is not equal to the change in the monetary base because ________.
+The money multiplier is ________.
+A) increases; when bank reserves increase, banks loan out their excess reserves and a multiplier process ensues; 7.33
+B) decreases; money includes currency but the monetary base does not include currency; 7.0
+C) decreases; an increase in monetary base brings about a decrease in the quantity of money; 7.33
+D) increases; the components of the monetary base are not the components of the quantity of money; 7.0
+E) increases; the monetary base includes bank deposits; 7.0
+Answer:  A
+Type: MC
+Topic:  Mathematical Note: The Money Multiplier
+Source:  MyEconLab

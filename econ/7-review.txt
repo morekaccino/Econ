@@ -1,0 +1,254 @@
+2) Gross investment
+A) is the total amount spent on new capital.
+B) includes only replacement investment.
+C) equals wealth minus saving.
+D) equals saving minus wealth.
+E) is the change in the value of capital
+
+Type: MC
+Topic:  Financial Institutions and Financial Markets
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+
+Answer:  A
+----------------------------------
+6) The increase in the value of capital is
+A) gross investment.
+B) depreciation.
+C) net investment.
+D) private sector spending.
+E) wealth.
+
+Type: MC
+Topic:  Financial Institutions and Financial Markets
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+ 
+
+Answer:  C
+----------------------------------
+11) The Acme Stereo Company had a capital stock of $24 million at the beginning of the year. At the end of the year, the firm had a capital stock of $20 million. Thus its
+A) net investment was some amount but we need more information to determine the amount.
+B) net investment was $4 million for the year.
+C) gross investment was zero.
+D) net investment was -$4 million for the year.
+E) depreciation was $4 million.
+
+Type: MC
+Topic:  Financial Institutions and Financial Markets
+Skill:  Analytical
+AACSB:  Analytical Skills
+
+Answer:  D
+----------------------------------
+19) The funds used to buy physical capital are
+A) net investment.
+B) financial capital.
+C) saving.
+D) wealth.
+E) investment.
+
+Type: MC
+Topic:  Financial Institutions and Financial Markets
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+Answer:  B
+----------------------------------
+22) In which market would you find mortgage-backed securities?
+A) stock market
+B) bond market
+C) housing market
+D) capital market
+E) loan market
+
+Type: MC
+Topic:  Financial Institutions and Financial Markets
+Skill:  Recognition
+Source:  Study Guide
+AACSB:  Reflective Thinking
+
+
+Answer:  B
+----------------------------------
+27) Choose the statement that is incorrect about trust and loan companies.
+A) Trust and loan companies hold more than 70 percent of the total assets of the Canadian financial services sector.
+B) The largest trust and loan companies are owned by banks.
+C) Trust and loan companies accept deposits and make personal loans and mortgage loans.
+D) Trust and loan companies administer estates.
+E) Trust and loan companies administer trusts and pension plans.
+
+Type: MC
+
+
+Answer:  A
+----------------------------------
+4) Suppose Canada spends more on foreign goods and services than foreigners spend on our goods and services. Then
+A) Canada must borrow an amount equal to national saving.
+B) Canada must borrow an amount equal to imports minus exports.
+C) the rest of the world may or may not finance Canada's trade deficit.
+D) Canada must borrow an amount equal to consumption expenditure plus investment.
+E) none of the above.
+
+Type: MC
+Topic:  The Market for Loanable Funds
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+
+Answer:  B
+----------------------------------
+34) If households' disposable income decreases, then
+A) households' saving will decrease.
+B) households' saving will increase.
+C) the supply of loanable funds decreases.
+D) a movement occurs down along the supply of loanable funds curve.
+E) both A and C are correct.
+
+Type: MC
+Topic:  The Market for Loanable Funds
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+
+Answer:  E
+----------------------------------
+36) Which of the following is correct?
+A) As disposable income increases, the real interest rate rises.
+B) As disposable income decreases, saving decreases.
+C) The higher a household's wealth the greater is its saving.
+D) Both B and C are correct.
+E) Both A and C are correct.
+
+Type: MC
+Topic:  The Market for Loanable Funds
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+
+Answer:  B
+----------------------------------
+68) In Canada's economy, investment is financed by
+A) C + I + G + X - M.
+B) C + S + T.
+C) S + T + M.
+D) S + (T - G) + (X - M).
+E) S + (T - G) + (M - X).
+
+Type: MC
+Topic:  The Market for Loanable Funds
+Skill:  Analytical
+Source:  Study Guide
+AACSB:  Analytical Skills
+ 
+
+Answer:  E
+----------------------------------
+70) Southton has investment of $100, private saving of $90, net taxes of $25, government expenditure of $30, exports of $25 and imports of $10. What is national saving?
+A) $85
+B) $90
+C) $95
+D) $100
+E) $105
+
+Type: MC
+Topic:  The Market for Loanable Funds
+Skill:  Analytical
+Source:  Study Guide
+AACSB:  Analytical Skills
+
+
+Answer:  A
+National Savings:Sum of private savings “S” and gov’t savings “(T-G)”
+----------------------------------
+4) The tendency for a government budget deficit to decrease investment is called the
+A) government dissaving effect.
+B) crowding-out effect.
+C) Ricardo-Barro effect.
+D) capital investment effect.
+E) deficit effect.
+
+Type: MC
+Topic:  Government in the Market for Loanable Funds
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+Answer:  B
+----------------------------------
+6) Crowding out leads to all of the following EXCEPT
+A) a higher real interest rate.
+B) a decrease in investment.
+C) a smaller quantity of capital in the future.
+D) a decrease in private saving.
+E) crowding out leads to all of the above.
+
+Type: MC
+Topic:  Government in the Market for Loanable Funds
+Skill:  Conceptual
+AACSB:  Reflective Thinking
+
+
+Answer:  D
+----------------------------------
+11) The tendency for private saving to increase in response to growing government deficits is known as the
+A) crowding out effect.
+B) money illusion effect.
+C) Keynes effect.
+D) Ricardo-Barro effect.
+E) Mulroney-Harper effect.
+
+Type: MC
+Topic:  Government in the Market for Loanable Funds
+Skill:  Recognition
+AACSB:  Reflective Thinking
+
+
+Answer:  D
+----------------------------------
+22) Choose the statement that is incorrect.
+A) According to the Ricardo-Barro effect, taxpayers are rational people who know that a budget deficit today means that future taxes will be higher and future disposable incomes will be smaller.
+B) According to the Ricardo-Barro effect, a budget deficit has no effect on either the real interest rate or investment.
+C) Most economists believe that the Ricardo-Barro effect holds in the market for loanable funds.
+D) According to the Ricardo-Barro effect, the quantity of loanable funds demanded increases when a government budget deficit occurs, and private saving and the private supply of loanable funds increase to match the quantity of loanable funds demanded.
+E) All of the above statements are correct.
+
+Diff: 2    Type: MC
+Topic:  Government in the Market for Loanable Funds
+Source:  MyEconLab
+
+
+Answer:  C
+----------------------------------
+27) Refer to Table 23.3.5. The table shows an economy's demand for loanable funds schedule and supply of loanable funds schedule when the government's budget is balanced. If the government budget surplus is $2.0 trillion, the real interest rate is ________ percent a year, the quantity of investment is ________ trillion, and the quantity of private saving is ________ trillion.
+A) 10; $5.5; $7.5
+B) 10; $7.5; $5.5
+C) 8; $6.5; $6.5
+D) 6; $7.5; $7.5
+E) 6; $7.5; $5.5
+
+Diff: 2    Type: MC
+Topic:  Government in the Market for Loanable Funds
+Source:  MyEconLab
+
+
+Answer:  E
+----------------------------------
+28) The government of Greece is running a large budget deficit. With no Ricardo-Barro effect, which of the following events will occur?
+I.	The supply curve of loanable funds will shift leftward.
+II.	A higher real interest rate crowds out investment.
+III.	Saving increases.
+A) I only
+B) II only
+C) III only
+D) I and II only
+E) I, II, and III
+
+Type: MC
+ 
+23.4   The Global Loanable Funds Market
+
+
+Answer:  D
+----------------------------------

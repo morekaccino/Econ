@@ -1,0 +1,70 @@
+9) An increase in the price level due to an increase in the price of oil
+A) creates stagflation in the short-run and will trigger a cost-push inflation.
+B) creates stagflation in the short-run and may trigger off a cost-push inflation.
+C) increases output above potential GDP.
+D) leads to an increase in the money wage rate.
+E) leads to a decrease in the money wage rate.
+
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+Source:  Study Guide
+
+Answer:  B
+----------------------------------
+19) Refer to Figure 28.1.2. Consider the market for labour as the short-run aggregate supply curve shifts leftward from SAS0 to SAS1. This shift could have been the result of an agreement between workers and employers for a
+A) 10 percent decrease in the money wage rate. 
+B) 10 percent increase in the money wage rate. 
+C) 15 percent decrease in the money wage rate. 
+D) 15 percent increase in the money wage rate. 
+E) 10 percent increase in the real wage rate. 
+
+Diff: 2    Type: MC
+Topic:  Inflation Cycles
+
+ 
+
+Answer:  D
+----------------------------------
+1) Along the short-run Phillips curve, everything remaining the same, the higher the
+A) unemployment rate, the lower the inflation rate. 
+B) price level, the lower the inflation rate. 
+C) money wage rate, the lower is the unemployment rate. 
+D) quantity of money, the lower the unemployment rate. 
+E) growth rate of the quantity of money, the higher the inflation rate. 
+
+Diff: 1    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+
+Answer:  A
+----------------------------------
+4) For a given expected inflation rate, the higher the unemployment rate, the lower is the actual inflation rate. This relationship is the ________ Phillips curve. When the expected inflation rate changes, this is shown as a movement along the ________ Phillips curve. 
+A) short-run; short-run 
+B) long-run; long-run 
+C) long-run; natural 
+D) natural; short-run 
+E) short-run; long-run 
+
+Diff: 3    Type: MC
+Topic:  Inflation and Unemployment: The Phillips Curve
+
+ 
+
+Answer:  E
+----------------------------------
+28) Consider the short-run Phillips curve in Canada since the 1960s. 
+Choose the best statement.
+A) Canada's inflation/unemployment tradeoff is best shown as a series of shifting short-run Phillips curves that sometimes shift upward and sometimes shift downward.
+B) Canada's inflation/unemployment tradeoff is undefined.
+C) Canada's short-run Phillips curve is consistently shifting upward.
+D) Canada's short-run Phillips curve is consistently shifting downward.
+E) Canada's short-run Phillips curve is consistently shifting rightward.
+
+Type: MC
+
+ 
+28.3   The Business Cycle
+
+
+Answer:  A
+----------------------------------
